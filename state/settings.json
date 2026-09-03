@@ -10,18 +10,18 @@
     "directMonitoring": false
   },
   "appearance": {
-    "theme": "system"
+    "theme": "dark"
   },
   "ai": {
     "aiComfort": 3,
     "developmentStage": 2,
-    "pluginPreload": "project"
+    "pluginPreload": "enabled"
   },
   "workflow": {
     "vibeMode": false,
-    "experienceLevel": 0,
+    "experienceLevel": 2,
     "defaultChannelStrip": null,
-    "pluginMode": "canvas"
+    "pluginMode": "slotsExpanding"
   },
   "playback": {
     "previewVolume": 0.7
@@ -29,7 +29,7 @@
   "audioDevices": {
     "audioOutputDevice": "Default",
     "audioInputDevice": "None",
-    "masterOutputPair": 0
+    "masterOutputPair": 27
   },
-  "hasApiKey": false
+  "hasApiKey": true
 }
