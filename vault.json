@@ -1,0 +1,15 @@
+{
+  "kind": "tivra-vault",
+  "version": 1,
+  "keys": [
+    {
+      "keyId": "16bb9baa1f252720",
+      "recipients": [
+        {
+          "publicKey": "J+VvHkAuvFV8VebazTVL1yag6WLTaAFUOt7T3b3fWWw=",
+          "wrapped": "RDTZA+/XcRDUakxL+ma6qG51ssIzAlIoPB+kqXQLD1//ywx++pooUPXjj/O/6v9lba/6IiSLhfpkIFU1ywwlNXj7slYVC4pXsgPrzyqcXKU="
+        }
+      ]
+    }
+  ]
+}
