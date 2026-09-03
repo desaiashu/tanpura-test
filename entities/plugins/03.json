@@ -76,5 +76,14 @@
       "dryWet": 100.0
     },
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "zens": {
+    "id": "zens",
+    "trackId": "dgx",
+    "typeName": "tivraDistortion",
+    "slot": 0,
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }

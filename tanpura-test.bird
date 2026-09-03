@@ -13,6 +13,7 @@ tracks
   2 midi |dgx
     type midi
     plugin Jup-8 V4
+    fx tivraDistortion
     strip tivraStrip
 
 returns
