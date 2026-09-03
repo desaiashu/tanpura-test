@@ -1,117 +1,18 @@
 {
-  "name": "tanpura-test",
+  "name": "",
   "bpm": 130.0,
-  "scale": {
-    "division": "22shruti",
-    "system": "western",
-    "root": "F",
-    "mode": "chromatic",
-    "justAnchor": false
-  },
+  "scale": null,
   "timeSigNumerator": 4,
   "timeSigDenominator": 4,
-  "tracks": {
-    "bmz": {
-      "id": "bmz",
-      "name": "drone + drums",
-      "trackType": "audio",
-      "auditionLane": null,
-      "takeLaneCount": 1,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "dgx": {
-      "id": "dgx",
-      "name": "midi",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "dubTrackId": "hcg",
-      "audioFlipped": true,
-      "dubState": "frozen",
-      "dubCapturePoint": "postFx",
-      "audioTakeLaneCount": 0
-    },
-    "rnq": {
-      "id": "rnq",
-      "name": "Hall",
-      "trackType": "return",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "raj": {
-      "id": "raj",
-      "name": "Plate",
-      "trackType": "return",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "rdw": {
-      "id": "rdw",
-      "name": "Delay",
-      "trackType": "return",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "rep": {
-      "id": "rep",
-      "name": "Color",
-      "trackType": "return",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "hcg": {
-      "id": "hcg",
-      "name": "midi [dub]",
-      "trackType": "dub",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    }
-  },
-  "trackOrder": [
-    "bmz",
-    "dgx",
-    "hcg",
-    "rnq",
-    "raj",
-    "rdw",
-    "rep"
-  ],
-  "sections": {
-    "ifc": {
-      "id": "ifc",
-      "name": "main",
-      "startBeat": 0.0,
-      "lengthBeats": 128.0,
-      "scale": null,
-      "activeVariation": 0,
-      "variationCount": 0,
-      "key": null
-    }
-  },
+  "tracks": {},
+  "trackOrder": [],
+  "sections": {},
   "tempoMarkers": [],
   "keyMarkers": [],
   "timeSigMarkers": [],
-  "spatialMode": true,
-  "rendererOutputMode": "quad",
+  "spatialMode": false,
+  "rendererOutputMode": "binaural",
   "speakerMaps": {},
   "speakerLevels": {},
-  "speakerMutes": {},
-  "key": "C major"
+  "speakerMutes": {}
 }
