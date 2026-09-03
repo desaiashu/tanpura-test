@@ -14,12 +14,12 @@
   },
   "ai": {
     "aiComfort": 3,
-    "developmentStage": 0,
+    "developmentStage": 2,
     "pluginPreload": "enabled"
   },
   "workflow": {
     "vibeMode": false,
-    "experienceLevel": 2,
+    "experienceLevel": 3,
     "defaultChannelStrip": null,
     "pluginMode": "slotsExpanding"
   },
