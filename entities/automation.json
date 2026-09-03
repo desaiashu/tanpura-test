@@ -13,5 +13,21 @@
     ],
     "enabled": true,
     "defaultValue": 0.5
+  },
+  "yfk": {
+    "id": "yfk",
+    "trackId": "bmz",
+    "pluginId": "uvgn",
+    "sectionId": "ifc",
+    "paramName": "distance",
+    "points": [
+      {
+        "beat": 0.0,
+        "value": 0.4377860926248673,
+        "interpolation": "linear"
+      }
+    ],
+    "enabled": true,
+    "defaultValue": 0.4377860926248673
   }
 }
