@@ -34,7 +34,7 @@ sec main
     c 0:0 16:96 |steh
       samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3
   trk 2 midi |dgx
-    c 4:0 2:0 |cafa
+    c 0:0 2:0 |cafa
       p q~x _w _h _xxd
         v 100
         n 154
