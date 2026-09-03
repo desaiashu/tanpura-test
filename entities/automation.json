@@ -3,11 +3,12 @@
     "id": "kor",
     "trackId": "bmz",
     "pluginId": "sqco",
+    "sectionId": "ifc",
     "paramName": "azimuth",
     "points": [
       {
         "beat": 0.0,
-        "value": 0.5,
+        "value": 0.4998256442549096,
         "interpolation": "linear"
       }
     ],
