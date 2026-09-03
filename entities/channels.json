@@ -10,7 +10,7 @@
       "distance": 1.0
     },
     "channelFormat": "stereo",
-    "outputChannelPair": 3
+    "outputChannelPair": 4
   },
   "dgx": {
     "gain": 1.0,
