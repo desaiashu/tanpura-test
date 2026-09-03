@@ -1,0 +1,51 @@
+sig
+  bpm 130
+  system 22shruti western
+  scale F chromatic
+
+arr
+  main 32 |ifc
+
+tracks
+  1 drone + drums |bmz
+    type audio
+    strip tivraStrip
+  2 midi |dgx
+    type midi
+    plugin Jup-8 V4
+    fx tivraDistortion
+    strip tivraStrip
+
+returns
+  0 Hall |rnq
+    fx tivraHall
+    strip tivraStrip
+  1 Plate |raj
+    fx tivraPlate
+    strip tivraStrip
+  2 Delay |rdw
+    fx tivraDelay
+    strip tivraStrip
+  3 Color |rep
+    fx tivraDistortion
+    strip tivraStrip
+
+sec main
+  trk 1 drone + drums |bmz
+    c 0:0 16:96 |steh
+      samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3
+    auto azimuth
+      . 0:0
+      _ 0.5000
+      ~ lin
+  trk 2 midi |dgx
+    c 0:192 2:0 |cafa
+      p q~x _w _h _xxd
+        v 100
+        n 88
+        .
+        v 100
+        n 93
+        .
+        v 100
+        n 101
