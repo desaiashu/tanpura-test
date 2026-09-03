@@ -12,7 +12,7 @@
         "interpolation": "linear"
       }
     ],
-    "enabled": true,
+    "enabled": false,
     "defaultValue": 0.5
   },
   "yfk": {
