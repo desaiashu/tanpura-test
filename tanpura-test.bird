@@ -12,7 +12,7 @@ tracks
     strip tivraStrip
   2 midi |dgx
     type midi
-    plugin tivra4OSC
+    plugin Jup-8 V4
     strip tivraStrip
 
 returns

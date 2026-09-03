@@ -52,45 +52,6 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "bami": {
-    "id": "bami",
-    "trackId": "dgx",
-    "typeName": "tivra4OSC",
-    "slot": "instrument",
-    "enabled": true,
-    "state": {
-      "osc1Wave": 0.0,
-      "osc1Level": 100.0,
-      "osc1Detune": 0.0,
-      "osc1Pan": 0.0,
-      "osc2Wave": 1.0,
-      "osc2Level": 0.0,
-      "osc2Detune": 0.0,
-      "osc2Pan": 0.0,
-      "osc3Wave": 2.0,
-      "osc3Level": 0.0,
-      "osc3Detune": 0.0,
-      "osc3Pan": 0.0,
-      "osc4Wave": 4.0,
-      "osc4Level": 0.0,
-      "osc4Detune": 0.0,
-      "osc4Pan": 0.0,
-      "filterCutoff": 20000.0,
-      "filterReso": 0.0,
-      "filterType": 0.0,
-      "filterEnvAmt": 0.0,
-      "filterAttack": 10.0,
-      "filterDecay": 200.0,
-      "filterSustain": 50.0,
-      "filterRelease": 300.0,
-      "ampAttack": 5.0,
-      "ampDecay": 100.0,
-      "ampSustain": 80.0,
-      "ampRelease": 200.0,
-      "masterLevel": 0.0
-    },
-    "sidechainSensitivity": 0.6000000238418579
-  },
   "yznt": {
     "id": "yznt",
     "trackId": "dgx",
@@ -430,6 +391,15 @@
       "phaseInvert": 0.0,
       "compSidechain": 0.0
     },
+    "sidechainSensitivity": 0.6000000238418579
+  },
+  "bper": {
+    "id": "bper",
+    "trackId": "dgx",
+    "typeName": "Jup-8 V4",
+    "slot": "instrument",
+    "enabled": true,
+    "state": null,
     "sidechainSensitivity": 0.6000000238418579
   }
 }
