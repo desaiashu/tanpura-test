@@ -32,7 +32,7 @@
     "id": "cafa",
     "trackId": "dgx",
     "name": "MIDI",
-    "startBeat": 0.0,
+    "startBeat": 2.0,
     "lengthBeats": 8.0,
     "offsetBeats": 0.0,
     "source": {
