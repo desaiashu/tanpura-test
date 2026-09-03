@@ -39,8 +39,8 @@ sec main
       _ 0.3904
       ~ lin
     auto distance
-      . 0:48
-      _ 0.5497
+      . 1:98
+      _ 0.2747
       ~ smt
   trk 2 midi |dgx
     c 0:192 2:0 |cafa
