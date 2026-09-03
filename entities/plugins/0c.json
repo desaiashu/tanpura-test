@@ -1,0 +1,21 @@
+{
+  "pfjw": {
+    "id": "pfjw",
+    "trackId": "rep",
+    "typeName": "tivraDistortion",
+    "slot": 0,
+    "enabled": true,
+    "state": {
+      "mode": 0.0,
+      "drive": 30.0,
+      "bias": 20.0,
+      "stages": 2.0,
+      "hardness": 50.0,
+      "tone": 0.0,
+      "presence": 0.0,
+      "outputGainDb": 0.0,
+      "dryWet": 100.0
+    },
+    "sidechainSensitivity": 0.6000000238418579
+  }
+}

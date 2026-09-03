@@ -1,0 +1,19 @@
+{
+  "lotn": {
+    "id": "lotn",
+    "trackId": "rnq",
+    "typeName": "tivraHall",
+    "slot": 0,
+    "enabled": true,
+    "state": {
+      "predelayMs": 25.0,
+      "lowRt60": 4.0,
+      "midRt60": 2.799999952316284,
+      "crossover": 200.0,
+      "levelDb": 6.0,
+      "dryWet": 100.0
+    },
+    "presetName": "Hall",
+    "sidechainSensitivity": 0.6000000238418579
+  }
+}
