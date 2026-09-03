@@ -5,9 +5,9 @@
     "muted": false,
     "solo": true,
     "spatial": {
-      "azimuth": -81.65819440594564,
+      "azimuth": -17.977711113904515,
       "elevation": 0.0,
-      "distance": 0.8562638842507152
+      "distance": 1.0
     },
     "channelFormat": "stereo"
   },
