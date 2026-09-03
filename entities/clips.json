@@ -9,10 +9,11 @@
     "source": {
       "type": "Audio",
       "path": "samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3",
-      "sampleRate": 48000.0,
+      "sampleRate": 44100.0,
       "channels": 2,
-      "lengthSamples": 0,
+      "lengthSamples": 2579328,
       "timeStretchMode": "Signalsmith",
+      "sourceBpm": 130.0,
       "sourceBpmOrigin": "Inherited"
     },
     "araEnabled": false,
