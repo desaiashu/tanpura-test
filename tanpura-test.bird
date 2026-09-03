@@ -1,13 +1,13 @@
 sig
   bpm 130
   system 12tet western
-  scale C chromatic
+  scale F minor
 
 arr
   main 32 |ifc
 
 tracks
-  1 audio |bmz
+  1 drone + drums |bmz
     type audio
     strip tivraStrip
   2 midi |dgx
@@ -30,6 +30,6 @@ returns
     strip tivraStrip
 
 sec main
-  trk 1 audio |bmz
+  trk 1 drone + drums |bmz
     c 0:0 16:96 |steh
       samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3

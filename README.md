@@ -13,7 +13,7 @@ A [Songbird](https://tivra.com) project.
 
 ## Tracks
 
-- audio
+- drone + drums
 - midi
 - Hall
 - Plate

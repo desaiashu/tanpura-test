@@ -5,8 +5,8 @@
   "scale": {
     "division": "12tet",
     "system": "western",
-    "root": "C",
-    "mode": "chromatic",
+    "root": "F",
+    "mode": "minor",
     "justAnchor": false
   },
   "timeSigNumerator": 4,
@@ -14,7 +14,7 @@
   "tracks": {
     "bmz": {
       "id": "bmz",
-      "name": "audio",
+      "name": "drone + drums",
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
