@@ -38,10 +38,10 @@ sec main
     c 0:192 2:0 |cafa
       p q~x _w _h _xxd
         v 100
-        n 110
+        n 88
         .
         v 100
-        n 117
+        n 95
         .
         v 100
-        n 123
+        n 101
