@@ -30,3 +30,6 @@ returns
     strip tivraStrip
 
 sec main
+  trk 1 audio |bmz
+    c 0:0 16:96 |steh
+      samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3

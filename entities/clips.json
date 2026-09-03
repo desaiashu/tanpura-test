@@ -1,1 +1,32 @@
-{}
+{
+  "steh": {
+    "id": "steh",
+    "trackId": "bmz",
+    "name": "lyria3-meditative-indian-percussion-groove-infused-1788397329677-0",
+    "startBeat": 0.0,
+    "lengthBeats": 65.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 1440000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 130.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008666666666666666,
+    "fadeOutBeats": 0.008666666666666666,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  }
+}
