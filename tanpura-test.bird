@@ -1,6 +1,7 @@
 sig
   bpm 130
-  scale F minor
+  system 22shruti western
+  scale C chromatic
 
 arr
   main 32 |ifc

@@ -3,10 +3,10 @@
   "bpm": 130.0,
   "key": "C major",
   "scale": {
-    "division": "",
-    "system": "",
-    "root": "F",
-    "mode": "minor",
+    "division": "22shruti",
+    "system": "western",
+    "root": "C",
+    "mode": "chromatic",
     "justAnchor": false
   },
   "timeSigNumerator": 4,
