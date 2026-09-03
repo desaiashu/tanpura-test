@@ -1,10 +1,10 @@
 {
   "name": "tanpura-test",
   "bpm": 130.0,
-  "key": "F Minor",
+  "key": "C major",
   "scale": {
-    "division": "12tet",
-    "system": "western",
+    "division": "",
+    "system": "",
     "root": "F",
     "mode": "minor",
     "justAnchor": false
