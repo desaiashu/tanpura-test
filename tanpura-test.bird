@@ -38,3 +38,6 @@ sec main
       p q~x _w _h _xxd
         v 100
         n 154
+      p s _w _hd _xxd _s
+        v 100
+        n 167
