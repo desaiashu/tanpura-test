@@ -1,4 +1,23 @@
 {
+  "zens": {
+    "id": "zens",
+    "trackId": "dgx",
+    "typeName": "tivraDistortion",
+    "slot": 0,
+    "enabled": true,
+    "state": {
+      "mode": 0.0,
+      "drive": 30.0,
+      "bias": 20.0,
+      "stages": 2.0,
+      "hardness": 50.0,
+      "tone": 0.0,
+      "presence": 0.0,
+      "outputGainDb": 0.0,
+      "dryWet": 100.0
+    },
+    "sidechainSensitivity": 0.6000000238418579
+  },
   "vlnb": {
     "id": "vlnb",
     "trackId": "raj",
@@ -73,25 +92,6 @@
       "modDepth": 0.0,
       "width": 100.0,
       "timeMode": 0.0,
-      "dryWet": 100.0
-    },
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "zens": {
-    "id": "zens",
-    "trackId": "dgx",
-    "typeName": "tivraDistortion",
-    "slot": 0,
-    "enabled": true,
-    "state": {
-      "mode": 0.0,
-      "drive": 30.0,
-      "bias": 20.0,
-      "stages": 2.0,
-      "hardness": 50.0,
-      "tone": 0.0,
-      "presence": 0.0,
-      "outputGainDb": 0.0,
       "dryWet": 100.0
     },
     "sidechainSensitivity": 0.6000000238418579
