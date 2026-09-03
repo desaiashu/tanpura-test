@@ -1,0 +1,93 @@
+{
+  "master": {
+    "id": "muo",
+    "gain": 1.0,
+    "muted": false,
+    "mono": false
+  },
+  "clipMix": {},
+  "sends": [
+    {
+      "trackId": "dgx",
+      "returnId": "raj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bmz",
+      "returnId": "rdw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bmz",
+      "returnId": "rnq",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bmz",
+      "returnId": "rep",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rdw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rep",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bmz",
+      "returnId": "raj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rnq",
+      "gain": 0.0,
+      "preFader": false
+    }
+  ],
+  "returns": {
+    "rnq": {
+      "id": "rnq",
+      "name": "Hall",
+      "busIndex": 0,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "raj": {
+      "id": "raj",
+      "name": "Plate",
+      "busIndex": 1,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rdw": {
+      "id": "rdw",
+      "name": "Delay",
+      "busIndex": 2,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rep": {
+      "id": "rep",
+      "name": "Color",
+      "busIndex": 3,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    }
+  }
+}

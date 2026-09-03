@@ -1,0 +1,103 @@
+{
+  "name": "Untitled",
+  "bpm": 130.0,
+  "key": "C major",
+  "scale": {
+    "division": "12tet",
+    "system": "western",
+    "root": "C",
+    "mode": "chromatic",
+    "justAnchor": false
+  },
+  "timeSigNumerator": 4,
+  "timeSigDenominator": 4,
+  "tracks": {
+    "bmz": {
+      "id": "bmz",
+      "name": "audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "dgx": {
+      "id": "dgx",
+      "name": "midi",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rnq": {
+      "id": "rnq",
+      "name": "Hall",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "raj": {
+      "id": "raj",
+      "name": "Plate",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rdw": {
+      "id": "rdw",
+      "name": "Delay",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rep": {
+      "id": "rep",
+      "name": "Color",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    }
+  },
+  "trackOrder": [
+    "bmz",
+    "dgx",
+    "rnq",
+    "raj",
+    "rdw",
+    "rep"
+  ],
+  "sections": {
+    "ifc": {
+      "id": "ifc",
+      "name": "main",
+      "startBeat": 0.0,
+      "lengthBeats": 128.0,
+      "key": null,
+      "activeVariation": 0,
+      "variationCount": 0
+    }
+  },
+  "tempoMarkers": [],
+  "keyMarkers": [],
+  "timeSigMarkers": [],
+  "spatialMode": false,
+  "rendererOutputMode": "binaural",
+  "speakerMaps": {},
+  "speakerLevels": {},
+  "speakerMutes": {}
+}
