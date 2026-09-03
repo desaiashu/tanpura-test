@@ -1,10 +1,21 @@
 {
   "samples/frozen/midi_freeze_1788403502.wav": {
-    "sha256": "7df009f15e8184b13873422d0a120d40021c979fa8ba804e2b9da139f45293fc",
-    "bytes": 24221604
+    "sha256": "96acadb03658dcca9afed7b019a52cb31dbdeba54be9c15c688f7df83036fd32",
+    "bytes": 24221604,
+    "enc": {
+      "v": 1,
+      "keyId": "28df4aa1de7a304a",
+      "plainSha256": "7df009f15e8184b13873422d0a120d40021c979fa8ba804e2b9da139f45293fc"
+    }
   },
   "samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3": {
-    "sha256": "02e88c9e6405538b89b884ce61f2714aff91ddb953042870f8ce6b738f1d569a",
-    "bytes": 1409790
-  }
+    "sha256": "4efb55dca078b4c31e079a344a198c31196a9a175cc8bf6dfc0420f8dfec4189",
+    "bytes": 1409790,
+    "enc": {
+      "v": 1,
+      "keyId": "28df4aa1de7a304a",
+      "plainSha256": "02e88c9e6405538b89b884ce61f2714aff91ddb953042870f8ce6b738f1d569a"
+    }
+  },
+  "schemaVersion": 3
 }
