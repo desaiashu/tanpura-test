@@ -9,7 +9,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "outputChannelPair": 3
   },
   "dgx": {
     "gain": 1.0,
