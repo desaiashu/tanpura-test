@@ -1,7 +1,6 @@
 {
   "name": "tanpura-test",
   "bpm": 130.0,
-  "key": "C major",
   "scale": {
     "division": "22shruti",
     "system": "western",
@@ -100,9 +99,10 @@
       "name": "main",
       "startBeat": 0.0,
       "lengthBeats": 128.0,
-      "key": null,
+      "scale": null,
       "activeVariation": 0,
-      "variationCount": 0
+      "variationCount": 0,
+      "key": null
     }
   },
   "tempoMarkers": [],
@@ -112,5 +112,6 @@
   "rendererOutputMode": "binaural",
   "speakerMaps": {},
   "speakerLevels": {},
-  "speakerMutes": {}
+  "speakerMutes": {},
+  "key": "C major"
 }
