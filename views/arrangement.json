@@ -30,7 +30,7 @@
       "takeLaneCount": 0,
       "dubTrackId": "hcg",
       "audioFlipped": false,
-      "dubState": "empty",
+      "dubState": "capturing",
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     },
