@@ -28,6 +28,7 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
+      "dubTrackId": "hcg",
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
@@ -71,11 +72,22 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "hcg": {
+      "id": "hcg",
+      "name": "midi [dub]",
+      "trackType": "dub",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
     "bmz",
     "dgx",
+    "hcg",
     "rnq",
     "raj",
     "rdw",
