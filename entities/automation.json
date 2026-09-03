@@ -1,1 +1,17 @@
-{}
+{
+  "kor": {
+    "id": "kor",
+    "trackId": "bmz",
+    "pluginId": "sqco",
+    "paramName": "azimuth",
+    "points": [
+      {
+        "beat": 0.0,
+        "value": 0.5,
+        "interpolation": "linear"
+      }
+    ],
+    "enabled": true,
+    "defaultValue": 0.5
+  }
+}
