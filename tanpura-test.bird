@@ -41,7 +41,7 @@ sec main
     auto distance
       . 0:30
       _ 0.4497
-      ~ lin
+      ~ smt
   trk 2 midi |dgx
     c 0:192 2:0 |cafa
       p q~x _w _h _xxd

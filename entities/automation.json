@@ -25,7 +25,7 @@
       {
         "beat": 0.310494887652101,
         "value": 0.4496654510498047,
-        "interpolation": "linear"
+        "interpolation": "smooth"
       }
     ],
     "enabled": true,
