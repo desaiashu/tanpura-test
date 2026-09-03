@@ -2,7 +2,7 @@
   "loopState": {
     "enabled": true,
     "startBeat": 0.0,
-    "endBeat": 16.0
+    "endBeat": 12.0
   },
   "metronome": {
     "enabled": false
