@@ -95,7 +95,7 @@
       "nodeId": "iwdz",
       "typeId": "plugin",
       "position": [
-        1449.890625,
+        1377.984375,
         784.155517578125
       ],
       "refId": "/Library/Audio/Plug-Ins/VST3/Dist TUBE-CULTURE.vst3",
@@ -109,7 +109,7 @@
       "nodeId": "wjdm",
       "typeId": "plugin",
       "position": [
-        1939.890625,
+        1728.0625,
         784.155517578125
       ],
       "refId": "tivraChorus",
@@ -123,7 +123,7 @@
       "nodeId": "glyb",
       "typeId": "plugin",
       "position": [
-        2429.890625,
+        2146.15625,
         784.155517578125
       ],
       "refId": "tivraHall",
@@ -134,6 +134,13 @@
       "macroParams": []
     }
   },
-  "connections": [],
+  "connections": [
+    {
+      "fromNode": "uqhh",
+      "fromPort": 0,
+      "toNode": "sliu",
+      "toPort": 0
+    }
+  ],
   "patternTrack": "fnu"
 }
