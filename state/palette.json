@@ -113,7 +113,9 @@
         784.155517578125
       ],
       "refId": "tivraChorus",
-      "params": {},
+      "params": {
+        "rate": 0.25
+      },
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
