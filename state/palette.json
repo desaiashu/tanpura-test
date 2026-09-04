@@ -118,7 +118,7 @@
       ],
       "refId": "tivraChorus",
       "params": {
-        "rate": 0.25,
+        "rate": 2.200000047683716,
         "depth": 0.6000000238418579,
         "mix": 0.44999998807907104,
         "chorusDelay": 98.0
