@@ -9,7 +9,7 @@ A [Songbird](https://tivra.com) project.
 | Tracks | 8 |
 | Clips | 4 |
 | Plugins | 14 |
-| Automation lanes | 2 |
+| Automation lanes | 3 |
 
 ## Tracks
 

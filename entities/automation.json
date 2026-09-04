@@ -30,5 +30,21 @@
     ],
     "enabled": false,
     "defaultValue": 0.4377860926248673
+  },
+  "nud": {
+    "id": "nud",
+    "trackId": "bmz",
+    "pluginId": "dmfc",
+    "sectionId": "ifc",
+    "paramName": "volume",
+    "points": [
+      {
+        "beat": 0.0,
+        "value": 0.2707655727863312,
+        "interpolation": "linear"
+      }
+    ],
+    "enabled": true,
+    "defaultValue": 0.2707655727863312
   }
 }
