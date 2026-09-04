@@ -62,6 +62,20 @@
           }
         ]
       }
+    },
+    "uqhh": {
+      "nodeId": "uqhh",
+      "typeId": "midi_clip",
+      "position": [
+        457.81256103515625,
+        784.155517578125
+      ],
+      "refId": "xxoy",
+      "params": {},
+      "chainLoop": true,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     }
   },
   "connections": [],
