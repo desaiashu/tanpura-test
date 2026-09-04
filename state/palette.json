@@ -138,7 +138,8 @@
       "refId": "tivraHall",
       "params": {
         "size": 0.800000011920929,
-        "mix": 0.4000000059604645
+        "mix": 0.4000000059604645,
+        "dryWet": 26.0
       },
       "chainLoop": false,
       "chainMuted": false,
