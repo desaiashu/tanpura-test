@@ -346,7 +346,7 @@
               }
             ]
           },
-          "kept": false,
+          "kept": true,
           "prompt": "Legato"
         },
         {
