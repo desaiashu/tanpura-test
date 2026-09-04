@@ -138,7 +138,7 @@
           "note": 121,
           "velocity": 100,
           "beat": 2.0,
-          "durationBeats": 1.125,
+          "durationBeats": 0.125,
           "channel": 0
         },
         {
@@ -164,50 +164,13 @@
       "mode": "eighth"
     },
     "variationStack": {
-      "activeIndex": 4,
-      "activeId": "citrof",
+      "activeIndex": 0,
+      "activeId": "ciscyj",
       "variations": [
         {
           "id": "ciscyj",
           "index": 0,
           "name": "Original",
-          "source": {
-            "type": "Midi",
-            "notes": [
-              {
-                "id": "1dvpyz",
-                "note": 114,
-                "velocity": 100,
-                "beat": 0.375,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "axzyn8",
-                "note": 122,
-                "velocity": 100,
-                "beat": 1.125,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "zhr3wz",
-                "note": 121,
-                "velocity": 100,
-                "beat": 2.0,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "o0vhiw",
-                "note": 121,
-                "velocity": 100,
-                "beat": 3.125,
-                "durationBeats": 0.125,
-                "channel": 0
-              }
-            ]
-          },
           "kept": true
         },
         {
@@ -346,6 +309,43 @@
           "id": "citrof",
           "index": 4,
           "name": "Take 4",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 114,
+                "velocity": 100,
+                "beat": 0.375,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 122,
+                "velocity": 100,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 121,
+                "velocity": 100,
+                "beat": 2.0,
+                "durationBeats": 1.125,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 121,
+                "velocity": 100,
+                "beat": 3.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
           "kept": true,
           "prompt": "Legato"
         },
