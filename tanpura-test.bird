@@ -15,6 +15,9 @@ tracks
     plugin Jup-8 V4
     fx tivraDistortion
     strip tivraStrip
+  4 Palette Patterns |fnu
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rnq
