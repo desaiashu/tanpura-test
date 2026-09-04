@@ -90,6 +90,20 @@
       "chainMuted": false,
       "chainSolo": false,
       "macroParams": []
+    },
+    "iwdz": {
+      "nodeId": "iwdz",
+      "typeId": "plugin",
+      "position": [
+        1449.890625,
+        784.155517578125
+      ],
+      "refId": "/Library/Audio/Plug-Ins/VST3/Dist TUBE-CULTURE.vst3",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     }
   },
   "connections": [],
