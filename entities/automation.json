@@ -41,6 +41,26 @@
       {
         "beat": 0.0,
         "value": 0.4,
+        "interpolation": "sine"
+      },
+      {
+        "beat": 32.0,
+        "value": 0.7,
+        "interpolation": "sine"
+      },
+      {
+        "beat": 64.0,
+        "value": 0.4,
+        "interpolation": "sine"
+      },
+      {
+        "beat": 96.0,
+        "value": 0.7,
+        "interpolation": "sine"
+      },
+      {
+        "beat": 128.0,
+        "value": 0.4,
         "interpolation": "linear"
       }
     ],
