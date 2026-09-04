@@ -119,7 +119,7 @@
       "notes": [
         {
           "id": "1dvpyz",
-          "note": 117,
+          "note": 114,
           "velocity": 100,
           "beat": 0.375,
           "durationBeats": 0.125,
@@ -127,7 +127,7 @@
         },
         {
           "id": "axzyn8",
-          "note": 125,
+          "note": 122,
           "velocity": 100,
           "beat": 1.125,
           "durationBeats": 0.125,
@@ -135,7 +135,7 @@
         },
         {
           "id": "zhr3wz",
-          "note": 124,
+          "note": 121,
           "velocity": 100,
           "beat": 2.0,
           "durationBeats": 1.125,
@@ -143,7 +143,7 @@
         },
         {
           "id": "o0vhiw",
-          "note": 124,
+          "note": 121,
           "velocity": 100,
           "beat": 3.125,
           "durationBeats": 0.125,
@@ -164,8 +164,8 @@
       "mode": "eighth"
     },
     "variationStack": {
-      "activeIndex": 1,
-      "activeId": "citusc",
+      "activeIndex": 4,
+      "activeId": "citrof",
       "variations": [
         {
           "id": "ciscyj",
@@ -214,6 +214,43 @@
           "id": "citusc",
           "index": 1,
           "name": "Take 1",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 117,
+                "velocity": 100,
+                "beat": 0.375,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 125,
+                "velocity": 100,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 124,
+                "velocity": 100,
+                "beat": 2.0,
+                "durationBeats": 1.125,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 124,
+                "velocity": 100,
+                "beat": 3.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
           "kept": true,
           "prompt": "Transpose +3 semitones · Legato"
         },
@@ -309,43 +346,6 @@
           "id": "citrof",
           "index": 4,
           "name": "Take 4",
-          "source": {
-            "type": "Midi",
-            "notes": [
-              {
-                "id": "1dvpyz",
-                "note": 114,
-                "velocity": 100,
-                "beat": 0.375,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "axzyn8",
-                "note": 122,
-                "velocity": 100,
-                "beat": 1.125,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "zhr3wz",
-                "note": 121,
-                "velocity": 100,
-                "beat": 2.0,
-                "durationBeats": 1.125,
-                "channel": 0
-              },
-              {
-                "id": "o0vhiw",
-                "note": 121,
-                "velocity": 100,
-                "beat": 3.125,
-                "durationBeats": 0.125,
-                "channel": 0
-              }
-            ]
-          },
           "kept": true,
           "prompt": "Legato"
         },
