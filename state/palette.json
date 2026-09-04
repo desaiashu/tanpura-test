@@ -140,6 +140,42 @@
       "fromPort": 0,
       "toNode": "sliu",
       "toPort": 0
+    },
+    {
+      "fromNode": "sliu",
+      "fromPort": 0,
+      "toNode": "iwdz",
+      "toPort": 0
+    },
+    {
+      "fromNode": "sliu",
+      "fromPort": 1,
+      "toNode": "iwdz",
+      "toPort": 1
+    },
+    {
+      "fromNode": "iwdz",
+      "fromPort": 0,
+      "toNode": "wjdm",
+      "toPort": 0
+    },
+    {
+      "fromNode": "iwdz",
+      "fromPort": 1,
+      "toNode": "wjdm",
+      "toPort": 1
+    },
+    {
+      "fromNode": "wjdm",
+      "fromPort": 0,
+      "toNode": "glyb",
+      "toPort": 0
+    },
+    {
+      "fromNode": "wjdm",
+      "fromPort": 1,
+      "toNode": "glyb",
+      "toPort": 1
     }
   ],
   "patternTrack": "fnu"
