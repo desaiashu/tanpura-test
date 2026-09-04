@@ -114,7 +114,9 @@
       ],
       "refId": "tivraChorus",
       "params": {
-        "rate": 0.25
+        "rate": 0.25,
+        "depth": 0.6000000238418579,
+        "mix": 0.44999998807907104
       },
       "chainLoop": false,
       "chainMuted": false,
@@ -129,7 +131,10 @@
         784.155517578125
       ],
       "refId": "tivraHall",
-      "params": {},
+      "params": {
+        "size": 0.800000011920929,
+        "mix": 0.4000000059604645
+      },
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
