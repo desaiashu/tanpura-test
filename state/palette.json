@@ -104,6 +104,34 @@
       "chainMuted": false,
       "chainSolo": false,
       "macroParams": []
+    },
+    "wjdm": {
+      "nodeId": "wjdm",
+      "typeId": "plugin",
+      "position": [
+        1939.890625,
+        784.155517578125
+      ],
+      "refId": "tivraChorus",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
+    },
+    "glyb": {
+      "nodeId": "glyb",
+      "typeId": "plugin",
+      "position": [
+        2429.890625,
+        784.155517578125
+      ],
+      "refId": "tivraHall",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     }
   },
   "connections": [],
