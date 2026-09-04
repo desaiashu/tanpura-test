@@ -1,3 +1,21 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "parentTrackId": "dgx",
+      "dubTrack": {
+        "id": "xkc",
+        "name": "midi [dub]",
+        "trackType": "dub",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "dubClips": [],
+      "dubState": "empty",
+      "audioFlipped": false,
+      "audioTakeLaneCount": 0
+    }
+  ]
 }

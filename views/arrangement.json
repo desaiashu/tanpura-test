@@ -27,6 +27,7 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
+      "dubTrackId": "xkc",
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
@@ -70,11 +71,22 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "xkc": {
+      "id": "xkc",
+      "name": "midi [dub]",
+      "trackType": "dub",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
     "bmz",
     "dgx",
+    "xkc",
     "rnq",
     "raj",
     "rdw",
