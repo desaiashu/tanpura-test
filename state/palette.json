@@ -139,7 +139,7 @@
       "params": {
         "size": 0.800000011920929,
         "mix": 0.4000000059604645,
-        "dryWet": 72.0
+        "dryWet": 80.0
       },
       "chainLoop": false,
       "chainMuted": false,
