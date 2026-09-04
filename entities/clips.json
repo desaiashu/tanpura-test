@@ -214,7 +214,7 @@
               }
             ]
           },
-          "kept": false,
+          "kept": true,
           "prompt": "Transpose +3 semitones · Legato"
         },
         {
