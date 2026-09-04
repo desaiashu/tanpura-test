@@ -76,6 +76,20 @@
       "chainMuted": false,
       "chainSolo": false,
       "macroParams": []
+    },
+    "sliu": {
+      "nodeId": "sliu",
+      "typeId": "instrument",
+      "position": [
+        959.8906860351562,
+        784.155517578125
+      ],
+      "refId": "tivraPluck",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     }
   },
   "connections": [],
