@@ -1,5 +1,69 @@
 {
-  "nodes": {},
+  "nodes": {
+    "pmbt": {
+      "nodeId": "pmbt",
+      "typeId": "camera",
+      "position": [
+        630.8631591796875,
+        492.6711730957031
+      ],
+      "refId": null,
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": [],
+      "surface": {
+        "kind": "camera",
+        "direction": "input",
+        "enabled": true,
+        "settings": {
+          "kind": "camera",
+          "fps": 15,
+          "grid": 64,
+          "motionThreshold": 0.1
+        },
+        "bindings": [
+          {
+            "id": "motion",
+            "enabled": true,
+            "filter": {
+              "kind": "camera",
+              "feature": "motion"
+            },
+            "transform": {
+              "inMin": null,
+              "inMax": null,
+              "outMin": null,
+              "outMax": null,
+              "curve": "linear",
+              "inverted": false,
+              "deadband": 0.0
+            },
+            "outbound": null
+          },
+          {
+            "id": "bright",
+            "enabled": true,
+            "filter": {
+              "kind": "camera",
+              "feature": "brightness"
+            },
+            "transform": {
+              "inMin": null,
+              "inMax": null,
+              "outMin": null,
+              "outMax": null,
+              "curve": "linear",
+              "inverted": false,
+              "deadband": 0.0
+            },
+            "outbound": null
+          }
+        ]
+      }
+    }
+  },
   "connections": [],
   "patternTrack": null
 }
