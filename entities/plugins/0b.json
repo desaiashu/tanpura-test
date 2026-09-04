@@ -51,5 +51,14 @@
       "compSidechain": 0.0
     },
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "ecfd": {
+    "id": "ecfd",
+    "trackId": "muo",
+    "typeName": "tivraMastering",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }
