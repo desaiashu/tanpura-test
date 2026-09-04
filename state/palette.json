@@ -86,7 +86,7 @@
       ],
       "refId": "tivraPluck",
       "params": {
-        "brightness": 79.0
+        "brightness": 100.0
       },
       "chainLoop": false,
       "chainMuted": false,
