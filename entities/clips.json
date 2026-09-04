@@ -132,6 +132,14 @@
           "beat": 1.125,
           "durationBeats": 0.125,
           "channel": 0
+        },
+        {
+          "id": "zhr3wz",
+          "note": 121,
+          "velocity": 100,
+          "beat": 2.0,
+          "durationBeats": 0.125,
+          "channel": 0
         }
       ]
     },
