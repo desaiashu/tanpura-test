@@ -13,6 +13,12 @@
   },
   "sends": [
     {
+      "trackId": "dgx",
+      "returnId": "rdw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "bmz",
       "returnId": "rep",
       "gain": 0.0,
@@ -20,7 +26,7 @@
     },
     {
       "trackId": "dgx",
-      "returnId": "rep",
+      "returnId": "rnq",
       "gain": 0.0,
       "preFader": false
     },
@@ -32,31 +38,25 @@
     },
     {
       "trackId": "bmz",
-      "returnId": "raj",
+      "returnId": "rnq",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "bmz",
-      "returnId": "rnq",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "dgx",
-      "returnId": "rnq",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "dgx",
-      "returnId": "rdw",
+      "returnId": "raj",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "dgx",
       "returnId": "raj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     }
