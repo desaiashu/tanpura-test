@@ -116,7 +116,16 @@
     "offsetBeats": 0.0,
     "source": {
       "type": "Midi",
-      "notes": []
+      "notes": [
+        {
+          "id": "1dvpyz",
+          "note": 114,
+          "velocity": 100,
+          "beat": 0.375,
+          "durationBeats": 0.125,
+          "channel": 0
+        }
+      ]
     },
     "araEnabled": false,
     "araBypassed": false,
