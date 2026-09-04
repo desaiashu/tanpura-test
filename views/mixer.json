@@ -14,7 +14,7 @@
   "sends": [
     {
       "trackId": "bmz",
-      "returnId": "rep",
+      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     },
@@ -38,7 +38,7 @@
     },
     {
       "trackId": "dgx",
-      "returnId": "rep",
+      "returnId": "rnq",
       "gain": 0.0,
       "preFader": false
     },
@@ -50,13 +50,13 @@
     },
     {
       "trackId": "bmz",
-      "returnId": "rdw",
+      "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "dgx",
-      "returnId": "rnq",
+      "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     }
