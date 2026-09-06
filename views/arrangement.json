@@ -27,8 +27,10 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
+      "dubTrackId": "xkc",
+      "audioFlipped": true,
+      "dubState": "frozen",
+      "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     },
     "rnq": {
@@ -70,15 +72,37 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "xkc": {
+      "id": "xkc",
+      "name": "midi [dub]",
+      "trackType": "dub",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "fnu": {
+      "id": "fnu",
+      "name": "Palette Patterns",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
     "bmz",
     "dgx",
+    "xkc",
     "rnq",
     "raj",
     "rdw",
-    "rep"
+    "rep",
+    "fnu"
   ],
   "sections": {
     "ifc": {
@@ -96,9 +120,23 @@
   "timeSigMarkers": [],
   "spatialMode": true,
   "rendererOutputMode": "quad",
-  "speakerMaps": {},
+  "speakerMaps": {
+    "quad": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
   "speakerLevels": {},
-  "speakerMutes": {},
+  "speakerMutes": {
+    "quad": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "outputBusGains": {},
   "outputBusMutes": {}
 }

@@ -77,5 +77,355 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "vetq": {
+    "id": "vetq",
+    "trackId": "xkc",
+    "name": "Dub freeze",
+    "startBeat": 0.0,
+    "lengthBeats": 132.33333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/frozen/midi_freeze_1788555986.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 3027692,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "xxoy": {
+    "id": "xxoy",
+    "trackId": "fnu",
+    "name": "Pattern",
+    "startBeat": 0.0,
+    "lengthBeats": 4.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "1dvpyz",
+          "note": 114,
+          "velocity": 100,
+          "beat": 0.375,
+          "durationBeats": 0.125,
+          "channel": 0
+        },
+        {
+          "id": "axzyn8",
+          "note": 122,
+          "velocity": 100,
+          "beat": 1.125,
+          "durationBeats": 0.125,
+          "channel": 0
+        },
+        {
+          "id": "zhr3wz",
+          "note": 121,
+          "velocity": 100,
+          "beat": 2.0,
+          "durationBeats": 0.125,
+          "channel": 0
+        },
+        {
+          "id": "o0vhiw",
+          "note": 121,
+          "velocity": 100,
+          "beat": 3.125,
+          "durationBeats": 0.125,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    },
+    "variationStack": {
+      "activeIndex": 0,
+      "activeId": "ciscyj",
+      "variations": [
+        {
+          "id": "ciscyj",
+          "index": 0,
+          "name": "Original",
+          "kept": true
+        },
+        {
+          "id": "citusc",
+          "index": 1,
+          "name": "Take 1",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 117,
+                "velocity": 100,
+                "beat": 0.375,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 125,
+                "velocity": 100,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 124,
+                "velocity": 100,
+                "beat": 2.0,
+                "durationBeats": 1.125,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 124,
+                "velocity": 100,
+                "beat": 3.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
+          "kept": true,
+          "prompt": "Transpose +3 semitones · Legato"
+        },
+        {
+          "id": "citqbv",
+          "index": 2,
+          "name": "Take 2",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 114,
+                "velocity": 98,
+                "beat": 0.3719567483469063,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 122,
+                "velocity": 98,
+                "beat": 1.127817625857891,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 121,
+                "velocity": 95,
+                "beat": 1.9920556192482037,
+                "durationBeats": 1.1374070578342168,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 121,
+                "velocity": 98,
+                "beat": 3.1294626770824205,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
+          "kept": false,
+          "prompt": "Humanize (0.22) · Scale velocity x0.95 · Legato"
+        },
+        {
+          "id": "citqbs",
+          "index": 3,
+          "name": "Take 3",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 121,
+                "velocity": 97,
+                "beat": 0.36267532994554985,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 127,
+                "velocity": 98,
+                "beat": 1.1175871413611718,
+                "durationBeats": 0.8909896236462334,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 127,
+                "velocity": 97,
+                "beat": 2.008576765007405,
+                "durationBeats": 1.1098156606912095,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 127,
+                "velocity": 102,
+                "beat": 3.1183924256986146,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
+          "kept": false,
+          "prompt": "Transpose +7 semitones · Humanize (0.40) · Legato"
+        },
+        {
+          "id": "citrof",
+          "index": 4,
+          "name": "Take 4",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 114,
+                "velocity": 100,
+                "beat": 0.375,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 122,
+                "velocity": 100,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 121,
+                "velocity": 100,
+                "beat": 2.0,
+                "durationBeats": 1.125,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 121,
+                "velocity": 100,
+                "beat": 3.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
+          "kept": true,
+          "prompt": "Legato"
+        },
+        {
+          "id": "citrok",
+          "index": 5,
+          "name": "Take 5",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 114,
+                "velocity": 100,
+                "beat": 0.375,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 122,
+                "velocity": 100,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 121,
+                "velocity": 100,
+                "beat": 2.0,
+                "durationBeats": 1.125,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 121,
+                "velocity": 100,
+                "beat": 3.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "cskiqn",
+                "note": 114,
+                "velocity": 60,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "cskfmg",
+                "note": 122,
+                "velocity": 60,
+                "beat": 1.875,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "cskaxf",
+                "note": 121,
+                "velocity": 60,
+                "beat": 2.75,
+                "durationBeats": 1.125,
+                "channel": 0
+              },
+              {
+                "id": "cskaxc",
+                "note": 121,
+                "velocity": 60,
+                "beat": 3.875,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
+          "kept": false,
+          "prompt": "Legato · echo +0.75"
+        }
+      ]
+    }
   }
 }
