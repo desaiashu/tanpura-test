@@ -22,5 +22,12 @@
       "distance": 0.39258379868997534
     },
     "channelFormat": "stereo"
+  },
+  "xkc": {
+    "spatial": {}
+  },
+  "fnu": {
+    "spatial": {},
+    "muted": true
   }
 }

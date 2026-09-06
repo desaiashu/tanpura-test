@@ -1,5 +1,27 @@
 {
-  "nodes": {},
+  "nodes": {
+    "pmbt": {
+      "params": {},
+      "surface": {
+        "settings": {}
+      }
+    },
+    "uqhh": {
+      "params": {}
+    },
+    "sliu": {
+      "params": {}
+    },
+    "iwdz": {
+      "params": {}
+    },
+    "wjdm": {
+      "params": {}
+    },
+    "glyb": {
+      "params": {}
+    }
+  },
   "connections": [],
   "patternTrack": null
 }

@@ -77,5 +77,14 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "vetq": {
+    "swing": {},
+    "source": {}
+  },
+  "xxoy": {
+    "swing": {},
+    "source": {},
+    "variationStack": {}
   }
 }

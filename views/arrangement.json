@@ -27,9 +27,9 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
+      "audioTakeLaneCount": 0,
       "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "dubState": "empty"
     },
     "rnq": {
       "id": "rnq",
@@ -70,7 +70,9 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
-    }
+    },
+    "xkc": {},
+    "fnu": {}
   },
   "trackOrder": [
     "bmz",
