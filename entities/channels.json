@@ -5,9 +5,9 @@
     "muted": false,
     "solo": false,
     "spatial": {
-      "azimuth": 43.73996937999756,
+      "azimuth": 48.70906792183855,
       "elevation": 0.0,
-      "distance": 0.18490666739977368
+      "distance": 0.8915740393106296
     },
     "channelFormat": "stereo"
   },
@@ -20,6 +20,30 @@
       "azimuth": -26.98574646258608,
       "elevation": 0.0,
       "distance": 0.39258379868997534
+    },
+    "channelFormat": "stereo"
+  },
+  "xkc": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": true,
+    "solo": false,
+    "spatial": {
+      "azimuth": -26.98574646258608,
+      "elevation": 0.0,
+      "distance": 0.39258379868997534
+    },
+    "channelFormat": "stereo"
+  },
+  "fnu": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
     },
     "channelFormat": "stereo"
   }

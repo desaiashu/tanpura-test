@@ -6,19 +6,21 @@ A [Songbird](https://tivra.com) project.
 |---|---|
 | Tempo | 130 BPM |
 | Meter | 4/4 |
-| Tracks | 6 |
-| Clips | 2 |
-| Plugins | 13 |
-| Automation lanes | 2 |
+| Tracks | 8 |
+| Clips | 4 |
+| Plugins | 14 |
+| Automation lanes | 3 |
 
 ## Tracks
 
 - drone + drums
 - midi
+- midi [dub]
 - Hall
 - Plate
 - Delay
 - Color
+- Palette Patterns
 
 ## Layout
 
