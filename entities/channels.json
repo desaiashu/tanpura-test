@@ -14,7 +14,7 @@
   },
   "dgx": {
     "gain": 1.0,
-    "pan": 0.0,
+    "pan": -0.6756312847137451,
     "muted": true,
     "solo": false,
     "spatial": {
@@ -27,7 +27,7 @@
   },
   "xkc": {
     "gain": 1.0,
-    "pan": 0.0,
+    "pan": -0.6756312847137451,
     "muted": true,
     "solo": false,
     "spatial": {
@@ -40,7 +40,7 @@
   },
   "fnu": {
     "gain": 1.0,
-    "pan": 0.0,
+    "pan": 0.8136159777641296,
     "muted": true,
     "solo": false,
     "spatial": {
