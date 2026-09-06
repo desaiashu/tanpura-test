@@ -48,7 +48,8 @@
       "driveHardness": 50.0,
       "drivePresence": 0.0,
       "phaseInvert": 0.0,
-      "compSidechain": 0.0
+      "compSidechain": 0.0,
+      "driveOversample": 4.0
     },
     "sidechainSensitivity": 0.6000000238418579
   }

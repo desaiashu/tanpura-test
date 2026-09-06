@@ -1,27 +1,195 @@
 {
   "nodes": {
     "pmbt": {
+      "nodeId": "pmbt",
+      "typeId": "camera",
+      "position": [
+        457.81256103515625,
+        394.0774230957031
+      ],
+      "refId": null,
       "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": [],
       "surface": {
-        "settings": {}
+        "kind": "camera",
+        "direction": "input",
+        "enabled": true,
+        "settings": {
+          "kind": "camera",
+          "fps": 15,
+          "grid": 64,
+          "motionThreshold": 0.1
+        },
+        "bindings": [
+          {
+            "id": "motion",
+            "enabled": true,
+            "filter": {
+              "kind": "camera",
+              "feature": "motion"
+            },
+            "transform": {
+              "inMin": null,
+              "inMax": null,
+              "outMin": null,
+              "outMax": null,
+              "curve": "linear",
+              "inverted": false,
+              "deadband": 0.0
+            },
+            "outbound": null
+          },
+          {
+            "id": "bright",
+            "enabled": true,
+            "filter": {
+              "kind": "camera",
+              "feature": "brightness"
+            },
+            "transform": {
+              "inMin": null,
+              "inMax": null,
+              "outMin": null,
+              "outMax": null,
+              "curve": "linear",
+              "inverted": false,
+              "deadband": 0.0
+            },
+            "outbound": null
+          }
+        ]
       }
     },
     "uqhh": {
-      "params": {}
+      "nodeId": "uqhh",
+      "typeId": "midi_clip",
+      "position": [
+        457.81256103515625,
+        784.155517578125
+      ],
+      "refId": "xxoy",
+      "params": {},
+      "chainLoop": true,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     },
     "sliu": {
-      "params": {}
+      "nodeId": "sliu",
+      "typeId": "instrument",
+      "position": [
+        959.8906860351562,
+        784.155517578125
+      ],
+      "refId": "tivraPluck",
+      "params": {
+        "brightness": 100.0,
+        "body": 72.0,
+        "level": 0.6499999761581421
+      },
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     },
     "iwdz": {
-      "params": {}
+      "nodeId": "iwdz",
+      "typeId": "plugin",
+      "position": [
+        1377.984375,
+        784.155517578125
+      ],
+      "refId": "/Library/Audio/Plug-Ins/VST3/Dist TUBE-CULTURE.vst3",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     },
     "wjdm": {
-      "params": {}
+      "nodeId": "wjdm",
+      "typeId": "plugin",
+      "position": [
+        1728.0625,
+        784.155517578125
+      ],
+      "refId": "tivraChorus",
+      "params": {
+        "rate": 2.200000047683716,
+        "depth": 0.6000000238418579,
+        "mix": 0.44999998807907104,
+        "chorusDelay": 98.0
+      },
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     },
     "glyb": {
-      "params": {}
+      "nodeId": "glyb",
+      "typeId": "plugin",
+      "position": [
+        2146.15625,
+        784.155517578125
+      ],
+      "refId": "tivraHall",
+      "params": {
+        "size": 0.800000011920929,
+        "mix": 0.4000000059604645,
+        "dryWet": 39.0
+      },
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "macroParams": []
     }
   },
-  "connections": [],
-  "patternTrack": null
+  "connections": [
+    {
+      "fromNode": "uqhh",
+      "fromPort": 0,
+      "toNode": "sliu",
+      "toPort": 0
+    },
+    {
+      "fromNode": "sliu",
+      "fromPort": 0,
+      "toNode": "iwdz",
+      "toPort": 0
+    },
+    {
+      "fromNode": "sliu",
+      "fromPort": 1,
+      "toNode": "iwdz",
+      "toPort": 1
+    },
+    {
+      "fromNode": "iwdz",
+      "fromPort": 0,
+      "toNode": "wjdm",
+      "toPort": 0
+    },
+    {
+      "fromNode": "iwdz",
+      "fromPort": 1,
+      "toNode": "wjdm",
+      "toPort": 1
+    },
+    {
+      "fromNode": "wjdm",
+      "fromPort": 0,
+      "toNode": "glyb",
+      "toPort": 0
+    },
+    {
+      "fromNode": "wjdm",
+      "fromPort": 1,
+      "toNode": "glyb",
+      "toPort": 1
+    }
+  ],
+  "patternTrack": "fnu"
 }

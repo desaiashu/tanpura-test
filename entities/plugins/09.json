@@ -1,3 +1,11 @@
 {
-  "vaut": {}
+  "vaut": {
+    "id": "vaut",
+    "trackId": "fnu",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
+  }
 }

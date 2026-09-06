@@ -27,9 +27,9 @@
     "previewVolume": 0.7
   },
   "audioDevices": {
-    "audioOutputDevice": "Default",
-    "audioInputDevice": "None",
-    "masterOutputPair": 27
+    "audioOutputDevice": "MacBook Pro Speakers",
+    "audioInputDevice": "MacBook Pro Microphone",
+    "masterOutputPair": 0
   },
   "hasApiKey": true
 }

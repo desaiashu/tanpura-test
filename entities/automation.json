@@ -31,5 +31,40 @@
     "enabled": false,
     "defaultValue": 0.4377860926248673
   },
-  "nud": {}
+  "nud": {
+    "id": "nud",
+    "trackId": "bmz",
+    "pluginId": "dmfc",
+    "sectionId": "ifc",
+    "paramName": "volume",
+    "points": [
+      {
+        "beat": 0.0,
+        "value": 0.4,
+        "interpolation": "sine"
+      },
+      {
+        "beat": 32.0,
+        "value": 0.7,
+        "interpolation": "sine"
+      },
+      {
+        "beat": 64.0,
+        "value": 0.4,
+        "interpolation": "sine"
+      },
+      {
+        "beat": 96.0,
+        "value": 0.7,
+        "interpolation": "sine"
+      },
+      {
+        "beat": 128.0,
+        "value": 0.4,
+        "interpolation": "linear"
+      }
+    ],
+    "enabled": true,
+    "defaultValue": 0.2707655727863312
+  }
 }
