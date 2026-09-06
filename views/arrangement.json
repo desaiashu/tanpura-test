@@ -124,7 +124,7 @@
   "speakerLevels": {},
   "speakerMutes": {
     "quad": [
-      false,
+      true,
       false,
       false,
       false
