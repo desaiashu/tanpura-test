@@ -33,6 +33,9 @@ returns
     fx tivraDistortion
     strip tivraStrip
 
+master
+  strip tivraMastering
+
 sec main
   trk 1 drone + drums |bmz
     c 0:0 31:262 |steh
