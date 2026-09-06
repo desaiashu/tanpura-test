@@ -122,7 +122,14 @@
   "rendererOutputMode": "quad",
   "speakerMaps": {},
   "speakerLevels": {},
-  "speakerMutes": {},
+  "speakerMutes": {
+    "quad": [
+      true,
+      false,
+      false,
+      false
+    ]
+  },
   "outputBusGains": {},
   "outputBusMutes": {}
 }
