@@ -13,7 +13,7 @@
   },
   "trackAppearance": {},
   "customEditors": {},
-  "vibeFxEditors": {},
+  "scriptFxEditors": {},
   "videoFilePath": null,
-  "scriptFxEditors": {}
+  "vibeFxEditors": {}
 }
