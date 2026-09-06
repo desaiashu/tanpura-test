@@ -123,9 +123,9 @@
   "speakerMaps": {
     "quad": [
       2,
-      1,
-      2,
-      3
+      3,
+      0,
+      1
     ]
   },
   "speakerLevels": {},
