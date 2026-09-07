@@ -36,9 +36,6 @@ returns
     fx tivraDistortion
     strip tivraStrip
 
-master
-  strip tivraMastering
-
 sec main
   trk 1 drone + drums |bmz
     c 0:0 31:262 |steh
@@ -46,7 +43,6 @@ sec main
     auto volume
       . 0:0 8:0 16:0 24:0 32:0
       _ 0.4000 0.7000 0.4000 0.7000 0.4000
-      ~ sin sin sin sin lin
   trk 2 midi |dgx
     c 0:192 2:0 |cafa
       p q~x _w _h _xxd
@@ -66,3 +62,6 @@ sec main
   trk 5 Audio |cre
     c 3:176 16:251 |rujq
       samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3
+
+master
+  strip tivraMastering
