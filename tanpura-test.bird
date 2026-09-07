@@ -18,6 +18,9 @@ tracks
   4 Palette Patterns |fnu
     type midi
     strip tivraStrip
+  5 Audio |cre
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rnq
@@ -60,3 +63,6 @@ sec main
       p _x _s s _xx _s s _xxd s _q s _xxd
         v 100
         n 114 122 121 121
+  trk 5 Audio |cre
+    c 3:176 16:251 |rujq
+      samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3

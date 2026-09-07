@@ -61,6 +61,7 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   }
 }
