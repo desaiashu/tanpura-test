@@ -29,8 +29,7 @@
       "takeLaneCount": 0,
       "dubTrackId": "xkc",
       "audioFlipped": true,
-      "dubState": "frozen",
-      "dubCapturePoint": "postFx",
+      "dubState": "empty",
       "audioTakeLaneCount": 0
     },
     "rnq": {
