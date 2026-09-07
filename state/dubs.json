@@ -14,7 +14,7 @@
       },
       "dubClips": [
         {
-          "id": "vetq",
+          "id": "mpxs",
           "trackId": "xkc",
           "name": "Dub freeze",
           "startBeat": 0.0,
@@ -22,7 +22,7 @@
           "offsetBeats": 0.0,
           "source": {
             "type": "Audio",
-            "path": "samples/frozen/midi_freeze_1788555986.wav",
+            "path": "samples/frozen/midi_freeze_1788739450.wav",
             "sampleRate": 48000.0,
             "channels": 2,
             "lengthSamples": 3027692,
@@ -43,7 +43,7 @@
           }
         }
       ],
-      "dubState": "capturing",
+      "dubState": "frozen",
       "audioFlipped": true,
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
