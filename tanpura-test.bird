@@ -18,6 +18,9 @@ tracks
   4 Palette Patterns |fnu
     type midi
     strip tivraStrip
+  5 Audio |cre
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rnq
