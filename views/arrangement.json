@@ -30,6 +30,7 @@
       "dubTrackId": "xkc",
       "audioFlipped": false,
       "dubState": "frozen",
+      "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     },
     "rnq": {
