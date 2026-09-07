@@ -14,7 +14,7 @@
   },
   "ai": {
     "aiComfort": 3,
-    "developmentStage": 1,
+    "developmentStage": 2,
     "pluginPreload": "enabled"
   },
   "workflow": {

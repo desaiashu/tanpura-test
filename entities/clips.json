@@ -139,13 +139,13 @@
       "activeId": "ciscyj",
       "variations": [
         {
-          "id": "ciscyj",
+          "id": "clsvvd",
           "index": 0,
           "name": "Original",
           "kept": true
         },
         {
-          "id": "citusc",
+          "id": "cltrky",
           "index": 1,
           "name": "Take 1",
           "source": {
@@ -185,11 +185,10 @@
               }
             ]
           },
-          "kept": true,
-          "prompt": "Transpose +3 semitones · Legato"
+          "kept": true
         },
         {
-          "id": "citqbv",
+          "id": "cltcot",
           "index": 2,
           "name": "Take 2",
           "source": {
@@ -229,11 +228,10 @@
               }
             ]
           },
-          "kept": false,
-          "prompt": "Humanize (0.22) · Scale velocity x0.95 · Legato"
+          "kept": true
         },
         {
-          "id": "citqbs",
+          "id": "clncuo",
           "index": 3,
           "name": "Take 3",
           "source": {
@@ -273,11 +271,10 @@
               }
             ]
           },
-          "kept": false,
-          "prompt": "Transpose +7 semitones · Humanize (0.40) · Legato"
+          "kept": true
         },
         {
-          "id": "citrof",
+          "id": "clmmor",
           "index": 4,
           "name": "Take 4",
           "source": {
@@ -317,11 +314,10 @@
               }
             ]
           },
-          "kept": true,
-          "prompt": "Legato"
+          "kept": true
         },
         {
-          "id": "citrok",
+          "id": "clnpts",
           "index": 5,
           "name": "Take 5",
           "source": {
@@ -393,8 +389,7 @@
               }
             ]
           },
-          "kept": false,
-          "prompt": "Legato · echo +0.75"
+          "kept": true
         }
       ]
     }
