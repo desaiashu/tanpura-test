@@ -130,7 +130,7 @@
   "keyMarkers": [],
   "timeSigMarkers": [],
   "spatialMode": true,
-  "rendererOutputMode": "binaural",
+  "rendererOutputMode": "atmos714",
   "speakerMaps": {
     "quad": [
       0,
