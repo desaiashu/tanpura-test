@@ -1,6 +1,7 @@
 {
   "name": "tanpura-test",
   "bpm": 130.0,
+  "key": "C major",
   "scale": {
     "division": "22shruti",
     "system": "western",
@@ -121,9 +122,10 @@
       "name": "main",
       "startBeat": 0.0,
       "lengthBeats": 128.0,
-      "scale": null,
+      "key": null,
       "activeVariation": 0,
-      "variationCount": 0
+      "variationCount": 0,
+      "scale": null
     }
   },
   "tempoMarkers": [],

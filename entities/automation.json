@@ -3,7 +3,6 @@
     "id": "kor",
     "trackId": "bmz",
     "pluginId": "sqco",
-    "sectionId": "ifc",
     "paramName": "azimuth",
     "points": [
       {
@@ -13,13 +12,13 @@
       }
     ],
     "enabled": false,
-    "defaultValue": 0.5
+    "defaultValue": 0.5,
+    "sectionId": "ifc"
   },
   "yfk": {
     "id": "yfk",
     "trackId": "bmz",
     "pluginId": "uvgn",
-    "sectionId": "ifc",
     "paramName": "distance",
     "points": [
       {
@@ -29,13 +28,13 @@
       }
     ],
     "enabled": false,
-    "defaultValue": 0.4377860926248673
+    "defaultValue": 0.4377860926248673,
+    "sectionId": "ifc"
   },
   "nud": {
     "id": "nud",
     "trackId": "bmz",
     "pluginId": "dmfc",
-    "sectionId": "ifc",
     "paramName": "volume",
     "points": [
       {
@@ -65,6 +64,7 @@
       }
     ],
     "enabled": true,
-    "defaultValue": 0.2707655727863312
+    "defaultValue": 0.2707655727863312,
+    "sectionId": "ifc"
   }
 }

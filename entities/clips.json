@@ -136,16 +136,12 @@
     },
     "variationStack": {
       "activeIndex": 0,
-      "activeId": "ciscyj",
       "variations": [
         {
-          "id": "ciscyj",
           "index": 0,
-          "name": "Original",
-          "kept": true
+          "name": "Original"
         },
         {
-          "id": "citusc",
           "index": 1,
           "name": "Take 1",
           "source": {
@@ -184,12 +180,9 @@
                 "channel": 0
               }
             ]
-          },
-          "kept": true,
-          "prompt": "Transpose +3 semitones · Legato"
+          }
         },
         {
-          "id": "citqbv",
           "index": 2,
           "name": "Take 2",
           "source": {
@@ -228,12 +221,9 @@
                 "channel": 0
               }
             ]
-          },
-          "kept": false,
-          "prompt": "Humanize (0.22) · Scale velocity x0.95 · Legato"
+          }
         },
         {
-          "id": "citqbs",
           "index": 3,
           "name": "Take 3",
           "source": {
@@ -272,12 +262,9 @@
                 "channel": 0
               }
             ]
-          },
-          "kept": false,
-          "prompt": "Transpose +7 semitones · Humanize (0.40) · Legato"
+          }
         },
         {
-          "id": "citrof",
           "index": 4,
           "name": "Take 4",
           "source": {
@@ -316,12 +303,9 @@
                 "channel": 0
               }
             ]
-          },
-          "kept": true,
-          "prompt": "Legato"
+          }
         },
         {
-          "id": "citrok",
           "index": 5,
           "name": "Take 5",
           "source": {
@@ -392,11 +376,10 @@
                 "channel": 0
               }
             ]
-          },
-          "kept": false,
-          "prompt": "Legato · echo +0.75"
+          }
         }
-      ]
+      ],
+      "activeId": "ciscyj"
     }
   },
   "mpxs": {
