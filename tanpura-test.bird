@@ -58,6 +58,7 @@ sec main
         .
         v 100
         n 101
+    c 4:0 2:0 |rjrq
   trk 4 Palette Patterns |fnu
     c 0:0 1:0 |xxoy
       p _x _s s _xx _s s _xxd s _q s _xxd
