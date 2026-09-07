@@ -7,8 +7,16 @@
     "sha256": "7704c176963d1fce5ceca5141c55c591944bb3921a8752a2c026b829f25d0eb1",
     "bytes": 24221604
   },
+  "samples/frozen/midi_freeze_1788739450.wav": {
+    "sha256": "2c3bed23d51e026fdc45cf1a6521bb06e91389324e21872e804075581571c0da",
+    "bytes": 24221604
+  },
   "samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3": {
     "sha256": "02e88c9e6405538b89b884ce61f2714aff91ddb953042870f8ce6b738f1d569a",
     "bytes": 1409790
+  },
+  "samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3": {
+    "sha256": "482bc53e4e0a337b6e88f271c079e90add2838d9a94f66a37491b5ec3c00a2f6",
+    "bytes": 743983
   }
 }

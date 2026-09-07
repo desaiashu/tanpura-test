@@ -92,6 +92,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "cre": {
+      "id": "cre",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -102,7 +112,8 @@
     "raj",
     "rdw",
     "rep",
-    "fnu"
+    "fnu",
+    "cre"
   ],
   "sections": {
     "ifc": {
