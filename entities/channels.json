@@ -1,20 +1,20 @@
 {
   "bmz": {
-    "gain": 0.5415311455726624,
+    "gain": 0.0387548953294754,
     "pan": 0.0,
     "muted": false,
     "solo": false,
     "spatial": {
-      "azimuth": 48.70906792183855,
+      "azimuth": 92.12007214090164,
       "elevation": 0.0,
-      "distance": 0.8915740393106296
+      "distance": 0.946294473417146
     },
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
   "dgx": {
     "gain": 1.0,
-    "pan": 0.0,
+    "pan": -0.6756312847137451,
     "muted": true,
     "solo": false,
     "spatial": {
@@ -27,7 +27,7 @@
   },
   "xkc": {
     "gain": 1.0,
-    "pan": 0.0,
+    "pan": -0.6756312847137451,
     "muted": true,
     "solo": false,
     "spatial": {
@@ -39,9 +39,9 @@
     "monoSource": "sum"
   },
   "fnu": {
-    "gain": 1.0,
-    "pan": 0.0,
-    "muted": false,
+    "gain": 0.0244120042771101,
+    "pan": 0.8136159777641296,
+    "muted": true,
     "solo": false,
     "spatial": {
       "azimuth": 0.0,
