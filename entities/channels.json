@@ -39,7 +39,7 @@
     "monoSource": "sum"
   },
   "fnu": {
-    "gain": 1.0,
+    "gain": 0.0244120042771101,
     "pan": 0.8136159777641296,
     "muted": true,
     "solo": false,
