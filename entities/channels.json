@@ -9,7 +9,8 @@
       "elevation": 0.0,
       "distance": 0.8915740393106296
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "dgx": {
     "gain": 1.0,
@@ -21,7 +22,8 @@
       "elevation": 0.0,
       "distance": 0.39258379868997534
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "xkc": {
     "gain": 1.0,
