@@ -2,7 +2,7 @@
   "bmz": {
     "gain": 0.0387548953294754,
     "pan": 0.0,
-    "muted": false,
+    "muted": true,
     "solo": false,
     "spatial": {
       "azimuth": 92.12007214090164,
