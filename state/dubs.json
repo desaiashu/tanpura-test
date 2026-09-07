@@ -43,7 +43,7 @@
           }
         }
       ],
-      "dubState": "empty",
+      "dubState": "capturing",
       "audioFlipped": false,
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
