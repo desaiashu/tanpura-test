@@ -61,9 +61,10 @@ sec main
     c 4:0 2:0 |rjrq
   trk 4 Palette Patterns |fnu
     c 0:0 1:0 |xxoy
-      p _x _s s _xx _s s _xxd q~s s _xxd
-        v 100
-        n 117 125 124 124
+      p _x _s s s _xx s _xxd q~s s _xxd
+        v 98 100 98 95 98
+        n 114 127 122 121 121
+        t . . . -1:0 .
     c 4:0 2:0 |wkbx
   trk 5 Audio |cre
     c 3:176 16:251 |rujq

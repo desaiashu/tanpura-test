@@ -90,33 +90,41 @@
       "notes": [
         {
           "id": "1dvpyz",
-          "note": 117,
-          "velocity": 100,
-          "beat": 0.375,
+          "note": 114,
+          "velocity": 98,
+          "beat": 0.3719567483469063,
           "durationBeats": 0.125,
           "channel": 0
         },
         {
           "id": "axzyn8",
-          "note": 125,
-          "velocity": 100,
-          "beat": 1.125,
+          "note": 122,
+          "velocity": 98,
+          "beat": 1.127817625857891,
           "durationBeats": 0.125,
           "channel": 0
         },
         {
           "id": "zhr3wz",
-          "note": 124,
-          "velocity": 100,
-          "beat": 2.0,
-          "durationBeats": 1.125,
+          "note": 121,
+          "velocity": 95,
+          "beat": 1.9920556192482035,
+          "durationBeats": 1.1374070578342168,
           "channel": 0
         },
         {
           "id": "o0vhiw",
-          "note": 124,
+          "note": 121,
+          "velocity": 98,
+          "beat": 3.1294626770824205,
+          "durationBeats": 0.125,
+          "channel": 0
+        },
+        {
+          "id": "jy0yj9",
+          "note": 127,
           "velocity": 100,
-          "beat": 3.125,
+          "beat": 0.5,
           "durationBeats": 0.125,
           "channel": 0
         }
@@ -135,8 +143,8 @@
       "mode": "eighth"
     },
     "variationStack": {
-      "activeIndex": 1,
-      "activeId": "cltrky",
+      "activeIndex": 2,
+      "activeId": "cltcot",
       "variations": [
         {
           "id": "clsvvd",
@@ -148,49 +156,49 @@
           "id": "cltrky",
           "index": 1,
           "name": "Take 1",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 117,
+                "velocity": 100,
+                "beat": 0.375,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 125,
+                "velocity": 100,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 124,
+                "velocity": 100,
+                "beat": 2.0,
+                "durationBeats": 1.125,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 124,
+                "velocity": 100,
+                "beat": 3.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
           "kept": true
         },
         {
           "id": "cltcot",
           "index": 2,
           "name": "Take 2",
-          "source": {
-            "type": "Midi",
-            "notes": [
-              {
-                "id": "1dvpyz",
-                "note": 114,
-                "velocity": 98,
-                "beat": 0.3719567483469063,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "axzyn8",
-                "note": 122,
-                "velocity": 98,
-                "beat": 1.127817625857891,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "zhr3wz",
-                "note": 121,
-                "velocity": 95,
-                "beat": 1.9920556192482035,
-                "durationBeats": 1.1374070578342168,
-                "channel": 0
-              },
-              {
-                "id": "o0vhiw",
-                "note": 121,
-                "velocity": 98,
-                "beat": 3.1294626770824205,
-                "durationBeats": 0.125,
-                "channel": 0
-              }
-            ]
-          },
           "kept": true
         },
         {
