@@ -90,7 +90,7 @@
       "notes": [
         {
           "id": "1dvpyz",
-          "note": 114,
+          "note": 117,
           "velocity": 100,
           "beat": 0.375,
           "durationBeats": 0.125,
@@ -98,7 +98,7 @@
         },
         {
           "id": "axzyn8",
-          "note": 122,
+          "note": 125,
           "velocity": 100,
           "beat": 1.125,
           "durationBeats": 0.125,
@@ -106,15 +106,15 @@
         },
         {
           "id": "zhr3wz",
-          "note": 121,
+          "note": 124,
           "velocity": 100,
           "beat": 2.0,
-          "durationBeats": 0.125,
+          "durationBeats": 1.125,
           "channel": 0
         },
         {
           "id": "o0vhiw",
-          "note": 121,
+          "note": 124,
           "velocity": 100,
           "beat": 3.125,
           "durationBeats": 0.125,
@@ -135,8 +135,8 @@
       "mode": "eighth"
     },
     "variationStack": {
-      "activeIndex": 0,
-      "activeId": "ciscyj",
+      "activeIndex": 1,
+      "activeId": "cltrky",
       "variations": [
         {
           "id": "clsvvd",
@@ -148,43 +148,6 @@
           "id": "cltrky",
           "index": 1,
           "name": "Take 1",
-          "source": {
-            "type": "Midi",
-            "notes": [
-              {
-                "id": "1dvpyz",
-                "note": 117,
-                "velocity": 100,
-                "beat": 0.375,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "axzyn8",
-                "note": 125,
-                "velocity": 100,
-                "beat": 1.125,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "zhr3wz",
-                "note": 124,
-                "velocity": 100,
-                "beat": 2.0,
-                "durationBeats": 1.125,
-                "channel": 0
-              },
-              {
-                "id": "o0vhiw",
-                "note": 124,
-                "velocity": 100,
-                "beat": 3.125,
-                "durationBeats": 0.125,
-                "channel": 0
-              }
-            ]
-          },
           "kept": true
         },
         {
@@ -384,6 +347,49 @@
                 "note": 121,
                 "velocity": 60,
                 "beat": 3.875,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
+          "kept": true
+        },
+        {
+          "id": "ciscyj",
+          "index": 6,
+          "name": "Recovered",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 114,
+                "velocity": 100,
+                "beat": 0.375,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 122,
+                "velocity": 100,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 121,
+                "velocity": 100,
+                "beat": 2.0,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 121,
+                "velocity": 100,
+                "beat": 3.125,
                 "durationBeats": 0.125,
                 "channel": 0
               }
