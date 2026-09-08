@@ -1,3 +1,1144 @@
 {
-  "sectionVariations": {}
+  "sectionVariations": {
+    "ifc": {
+      "active": 1,
+      "activeId": "ccaxzx",
+      "variations": [
+        {
+          "id": "cbzjcu",
+          "index": 0,
+          "name": "Original",
+          "kept": true,
+          "content": {
+            "clips": [
+              {
+                "id": "steh",
+                "trackId": "bmz",
+                "name": "lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3",
+                "startBeat": 0.0,
+                "lengthBeats": 126.7243537414966,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3",
+                  "sampleRate": 44100.0,
+                  "channels": 2,
+                  "lengthSamples": 2579328,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "cafa",
+                "trackId": "dgx",
+                "name": "midi - clip",
+                "startBeat": 2.0,
+                "lengthBeats": 8.0,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Midi",
+                  "notes": [
+                    {
+                      "id": "mzaydg",
+                      "note": 88,
+                      "velocity": 100,
+                      "beat": 0.0,
+                      "durationBeats": 1.25,
+                      "channel": 0
+                    },
+                    {
+                      "id": "mzbbaz",
+                      "note": 93,
+                      "velocity": 100,
+                      "beat": 0.0,
+                      "durationBeats": 1.25,
+                      "channel": 0
+                    },
+                    {
+                      "id": "mzplcg",
+                      "note": 101,
+                      "velocity": 100,
+                      "beat": 0.0,
+                      "durationBeats": 1.25,
+                      "channel": 0
+                    }
+                  ]
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "xxoy",
+                "trackId": "fnu",
+                "name": "Pattern",
+                "startBeat": 0.0,
+                "lengthBeats": 4.0,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Midi",
+                  "notes": [
+                    {
+                      "id": "1dvpyz",
+                      "note": 121,
+                      "velocity": 97,
+                      "beat": 0.36267532994554985,
+                      "durationBeats": 0.125,
+                      "channel": 0
+                    },
+                    {
+                      "id": "axzyn8",
+                      "note": 127,
+                      "velocity": 98,
+                      "beat": 1.1175871413611718,
+                      "durationBeats": 0.8909896236462334,
+                      "channel": 0
+                    },
+                    {
+                      "id": "zhr3wz",
+                      "note": 127,
+                      "velocity": 97,
+                      "beat": 2.008576765007405,
+                      "durationBeats": 1.1098156606912095,
+                      "channel": 0
+                    },
+                    {
+                      "id": "o0vhiw",
+                      "note": 127,
+                      "velocity": 102,
+                      "beat": 3.118392425698614,
+                      "durationBeats": 0.125,
+                      "channel": 0
+                    }
+                  ]
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                },
+                "variationStack": {
+                  "activeIndex": 3,
+                  "activeId": "clncuo",
+                  "variations": [
+                    {
+                      "id": "clsvvd",
+                      "index": 0,
+                      "name": "Original",
+                      "kept": true
+                    },
+                    {
+                      "id": "cltrky",
+                      "index": 1,
+                      "name": "Take 1",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 117,
+                            "velocity": 100,
+                            "beat": 0.375,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 125,
+                            "velocity": 100,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 124,
+                            "velocity": 100,
+                            "beat": 2.0,
+                            "durationBeats": 1.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 124,
+                            "velocity": 100,
+                            "beat": 3.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    },
+                    {
+                      "id": "cltcot",
+                      "index": 2,
+                      "name": "Take 2",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 114,
+                            "velocity": 98,
+                            "beat": 0.3719567483469063,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 122,
+                            "velocity": 98,
+                            "beat": 1.127817625857891,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 121,
+                            "velocity": 95,
+                            "beat": 1.9920556192482035,
+                            "durationBeats": 1.1374070578342168,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 121,
+                            "velocity": 98,
+                            "beat": 3.1294626770824205,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "jy0yj9",
+                            "note": 127,
+                            "velocity": 100,
+                            "beat": 0.5,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    },
+                    {
+                      "id": "clncuo",
+                      "index": 3,
+                      "name": "Take 3",
+                      "kept": true
+                    },
+                    {
+                      "id": "clmmor",
+                      "index": 4,
+                      "name": "Take 4",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 114,
+                            "velocity": 100,
+                            "beat": 0.375,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 122,
+                            "velocity": 100,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 2.0,
+                            "durationBeats": 1.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 3.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    },
+                    {
+                      "id": "clnpts",
+                      "index": 5,
+                      "name": "Take 5",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 114,
+                            "velocity": 100,
+                            "beat": 0.375,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 122,
+                            "velocity": 100,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 2.0,
+                            "durationBeats": 1.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 3.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "cskiqn",
+                            "note": 114,
+                            "velocity": 60,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "cskfmg",
+                            "note": 122,
+                            "velocity": 60,
+                            "beat": 1.875,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "cskaxf",
+                            "note": 121,
+                            "velocity": 60,
+                            "beat": 2.75,
+                            "durationBeats": 1.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "cskaxc",
+                            "note": 121,
+                            "velocity": 60,
+                            "beat": 3.875,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    },
+                    {
+                      "id": "ciscyj",
+                      "index": 6,
+                      "name": "Recovered",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 114,
+                            "velocity": 100,
+                            "beat": 0.375,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 122,
+                            "velocity": 100,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 2.0,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 3.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "rujq",
+                "trackId": "cre",
+                "name": "lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4",
+                "startBeat": 13.832917781801006,
+                "lengthBeats": 66.61659863945577,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3",
+                  "sampleRate": 44100.0,
+                  "channels": 2,
+                  "lengthSamples": 1355904,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "rjrq",
+                "trackId": "dgx",
+                "name": "MIDI",
+                "startBeat": 16.0,
+                "lengthBeats": 8.0,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Midi",
+                  "notes": []
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "wkbx",
+                "trackId": "fnu",
+                "name": "MIDI",
+                "startBeat": 16.0,
+                "lengthBeats": 8.0,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Midi",
+                  "notes": []
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              }
+            ],
+            "automation": [
+              {
+                "id": "kor",
+                "trackId": "bmz",
+                "pluginId": "sqco",
+                "sectionId": "ifc",
+                "paramName": "azimuth",
+                "points": [
+                  {
+                    "beat": 9.458261105593913,
+                    "value": 0.3904430161910619,
+                    "interpolation": "linear"
+                  }
+                ],
+                "enabled": false,
+                "defaultValue": 0.5
+              },
+              {
+                "id": "yfk",
+                "trackId": "bmz",
+                "pluginId": "uvgn",
+                "sectionId": "ifc",
+                "paramName": "distance",
+                "points": [
+                  {
+                    "beat": 5.025838298962313,
+                    "value": 0.27466545104980467,
+                    "interpolation": "smooth"
+                  }
+                ],
+                "enabled": false,
+                "defaultValue": 0.4377860926248673
+              },
+              {
+                "id": "nud",
+                "trackId": "bmz",
+                "pluginId": "dmfc",
+                "sectionId": "ifc",
+                "paramName": "volume",
+                "points": [
+                  {
+                    "beat": 0.0,
+                    "value": 0.4,
+                    "interpolation": "sine"
+                  },
+                  {
+                    "beat": 32.0,
+                    "value": 0.7,
+                    "interpolation": "sine"
+                  },
+                  {
+                    "beat": 64.0,
+                    "value": 0.4,
+                    "interpolation": "sine"
+                  },
+                  {
+                    "beat": 96.0,
+                    "value": 0.7,
+                    "interpolation": "sine"
+                  },
+                  {
+                    "beat": 128.0,
+                    "value": 0.4,
+                    "interpolation": "linear"
+                  }
+                ],
+                "enabled": true,
+                "defaultValue": 0.2707655727863312
+              }
+            ]
+          }
+        },
+        {
+          "id": "ccaxzx",
+          "index": 1,
+          "name": "Variation 2",
+          "kept": true,
+          "content": {
+            "clips": [
+              {
+                "id": "steh",
+                "trackId": "bmz",
+                "name": "lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3",
+                "startBeat": 0.0,
+                "lengthBeats": 126.7243537414966,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3",
+                  "sampleRate": 44100.0,
+                  "channels": 2,
+                  "lengthSamples": 2579328,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "cafa",
+                "trackId": "dgx",
+                "name": "midi - clip",
+                "startBeat": 2.0,
+                "lengthBeats": 8.0,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Midi",
+                  "notes": [
+                    {
+                      "id": "mzaydg",
+                      "note": 88,
+                      "velocity": 100,
+                      "beat": 0.0,
+                      "durationBeats": 1.25,
+                      "channel": 0
+                    },
+                    {
+                      "id": "mzbbaz",
+                      "note": 93,
+                      "velocity": 100,
+                      "beat": 0.0,
+                      "durationBeats": 1.25,
+                      "channel": 0
+                    },
+                    {
+                      "id": "mzplcg",
+                      "note": 101,
+                      "velocity": 100,
+                      "beat": 0.0,
+                      "durationBeats": 1.25,
+                      "channel": 0
+                    }
+                  ]
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "xxoy",
+                "trackId": "fnu",
+                "name": "Pattern",
+                "startBeat": 0.0,
+                "lengthBeats": 4.0,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Midi",
+                  "notes": [
+                    {
+                      "id": "1dvpyz",
+                      "note": 121,
+                      "velocity": 97,
+                      "beat": 0.36267532994554985,
+                      "durationBeats": 0.125,
+                      "channel": 0
+                    },
+                    {
+                      "id": "axzyn8",
+                      "note": 127,
+                      "velocity": 98,
+                      "beat": 1.1175871413611718,
+                      "durationBeats": 0.8909896236462334,
+                      "channel": 0
+                    },
+                    {
+                      "id": "zhr3wz",
+                      "note": 127,
+                      "velocity": 97,
+                      "beat": 2.008576765007405,
+                      "durationBeats": 1.1098156606912095,
+                      "channel": 0
+                    },
+                    {
+                      "id": "o0vhiw",
+                      "note": 127,
+                      "velocity": 102,
+                      "beat": 3.118392425698614,
+                      "durationBeats": 0.125,
+                      "channel": 0
+                    }
+                  ]
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                },
+                "variationStack": {
+                  "activeIndex": 3,
+                  "activeId": "clncuo",
+                  "variations": [
+                    {
+                      "id": "clsvvd",
+                      "index": 0,
+                      "name": "Original",
+                      "kept": true
+                    },
+                    {
+                      "id": "cltrky",
+                      "index": 1,
+                      "name": "Take 1",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 117,
+                            "velocity": 100,
+                            "beat": 0.375,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 125,
+                            "velocity": 100,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 124,
+                            "velocity": 100,
+                            "beat": 2.0,
+                            "durationBeats": 1.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 124,
+                            "velocity": 100,
+                            "beat": 3.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    },
+                    {
+                      "id": "cltcot",
+                      "index": 2,
+                      "name": "Take 2",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 114,
+                            "velocity": 98,
+                            "beat": 0.3719567483469063,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 122,
+                            "velocity": 98,
+                            "beat": 1.127817625857891,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 121,
+                            "velocity": 95,
+                            "beat": 1.9920556192482035,
+                            "durationBeats": 1.1374070578342168,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 121,
+                            "velocity": 98,
+                            "beat": 3.1294626770824205,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "jy0yj9",
+                            "note": 127,
+                            "velocity": 100,
+                            "beat": 0.5,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    },
+                    {
+                      "id": "clncuo",
+                      "index": 3,
+                      "name": "Take 3",
+                      "kept": true
+                    },
+                    {
+                      "id": "clmmor",
+                      "index": 4,
+                      "name": "Take 4",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 114,
+                            "velocity": 100,
+                            "beat": 0.375,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 122,
+                            "velocity": 100,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 2.0,
+                            "durationBeats": 1.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 3.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    },
+                    {
+                      "id": "clnpts",
+                      "index": 5,
+                      "name": "Take 5",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 114,
+                            "velocity": 100,
+                            "beat": 0.375,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 122,
+                            "velocity": 100,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 2.0,
+                            "durationBeats": 1.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 3.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "cskiqn",
+                            "note": 114,
+                            "velocity": 60,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "cskfmg",
+                            "note": 122,
+                            "velocity": 60,
+                            "beat": 1.875,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "cskaxf",
+                            "note": 121,
+                            "velocity": 60,
+                            "beat": 2.75,
+                            "durationBeats": 1.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "cskaxc",
+                            "note": 121,
+                            "velocity": 60,
+                            "beat": 3.875,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    },
+                    {
+                      "id": "ciscyj",
+                      "index": 6,
+                      "name": "Recovered",
+                      "source": {
+                        "type": "Midi",
+                        "notes": [
+                          {
+                            "id": "1dvpyz",
+                            "note": 114,
+                            "velocity": 100,
+                            "beat": 0.375,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "axzyn8",
+                            "note": 122,
+                            "velocity": 100,
+                            "beat": 1.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "zhr3wz",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 2.0,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          },
+                          {
+                            "id": "o0vhiw",
+                            "note": 121,
+                            "velocity": 100,
+                            "beat": 3.125,
+                            "durationBeats": 0.125,
+                            "channel": 0
+                          }
+                        ]
+                      },
+                      "kept": true
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "rujq",
+                "trackId": "cre",
+                "name": "lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4",
+                "startBeat": 13.832917781801006,
+                "lengthBeats": 66.61659863945577,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3",
+                  "sampleRate": 44100.0,
+                  "channels": 2,
+                  "lengthSamples": 1355904,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "rjrq",
+                "trackId": "dgx",
+                "name": "MIDI",
+                "startBeat": 16.0,
+                "lengthBeats": 8.0,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Midi",
+                  "notes": []
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "wkbx",
+                "trackId": "fnu",
+                "name": "MIDI",
+                "startBeat": 16.0,
+                "lengthBeats": 8.0,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Midi",
+                  "notes": []
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.0,
+                "fadeOutBeats": 0.0,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              }
+            ],
+            "automation": [
+              {
+                "id": "kor",
+                "trackId": "bmz",
+                "pluginId": "sqco",
+                "sectionId": "ifc",
+                "paramName": "azimuth",
+                "points": [
+                  {
+                    "beat": 9.458261105593913,
+                    "value": 0.3904430161910619,
+                    "interpolation": "linear"
+                  }
+                ],
+                "enabled": false,
+                "defaultValue": 0.5
+              },
+              {
+                "id": "yfk",
+                "trackId": "bmz",
+                "pluginId": "uvgn",
+                "sectionId": "ifc",
+                "paramName": "distance",
+                "points": [
+                  {
+                    "beat": 5.025838298962313,
+                    "value": 0.27466545104980467,
+                    "interpolation": "smooth"
+                  }
+                ],
+                "enabled": false,
+                "defaultValue": 0.4377860926248673
+              },
+              {
+                "id": "nud",
+                "trackId": "bmz",
+                "pluginId": "dmfc",
+                "sectionId": "ifc",
+                "paramName": "volume",
+                "points": [
+                  {
+                    "beat": 0.0,
+                    "value": 0.4,
+                    "interpolation": "sine"
+                  },
+                  {
+                    "beat": 32.0,
+                    "value": 0.7,
+                    "interpolation": "sine"
+                  },
+                  {
+                    "beat": 64.0,
+                    "value": 0.4,
+                    "interpolation": "sine"
+                  },
+                  {
+                    "beat": 96.0,
+                    "value": 0.7,
+                    "interpolation": "sine"
+                  },
+                  {
+                    "beat": 128.0,
+                    "value": 0.4,
+                    "interpolation": "linear"
+                  }
+                ],
+                "enabled": true,
+                "defaultValue": 0.2707655727863312
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
 }

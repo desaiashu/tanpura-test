@@ -122,8 +122,8 @@
       "startBeat": 0.0,
       "lengthBeats": 128.0,
       "scale": null,
-      "activeVariation": 0,
-      "variationCount": 0
+      "activeVariation": 1,
+      "variationCount": 2
     }
   },
   "tempoMarkers": [],
