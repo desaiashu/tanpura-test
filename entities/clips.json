@@ -90,41 +90,33 @@
       "notes": [
         {
           "id": "1dvpyz",
-          "note": 114,
-          "velocity": 98,
-          "beat": 0.3719567483469063,
+          "note": 121,
+          "velocity": 97,
+          "beat": 0.36267532994554985,
           "durationBeats": 0.125,
           "channel": 0
         },
         {
           "id": "axzyn8",
-          "note": 122,
+          "note": 127,
           "velocity": 98,
-          "beat": 1.127817625857891,
-          "durationBeats": 0.125,
+          "beat": 1.1175871413611718,
+          "durationBeats": 0.8909896236462334,
           "channel": 0
         },
         {
           "id": "zhr3wz",
-          "note": 121,
-          "velocity": 95,
-          "beat": 1.9920556192482035,
-          "durationBeats": 1.1374070578342168,
+          "note": 127,
+          "velocity": 97,
+          "beat": 2.008576765007405,
+          "durationBeats": 1.1098156606912095,
           "channel": 0
         },
         {
           "id": "o0vhiw",
-          "note": 121,
-          "velocity": 98,
-          "beat": 3.1294626770824205,
-          "durationBeats": 0.125,
-          "channel": 0
-        },
-        {
-          "id": "jy0yj9",
           "note": 127,
-          "velocity": 100,
-          "beat": 0.5,
+          "velocity": 102,
+          "beat": 3.118392425698614,
           "durationBeats": 0.125,
           "channel": 0
         }
@@ -143,8 +135,8 @@
       "mode": "eighth"
     },
     "variationStack": {
-      "activeIndex": 2,
-      "activeId": "cltcot",
+      "activeIndex": 3,
+      "activeId": "clncuo",
       "variations": [
         {
           "id": "clsvvd",
@@ -199,49 +191,57 @@
           "id": "cltcot",
           "index": 2,
           "name": "Take 2",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 114,
+                "velocity": 98,
+                "beat": 0.3719567483469063,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 122,
+                "velocity": 98,
+                "beat": 1.127817625857891,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 121,
+                "velocity": 95,
+                "beat": 1.9920556192482035,
+                "durationBeats": 1.1374070578342168,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 121,
+                "velocity": 98,
+                "beat": 3.1294626770824205,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "jy0yj9",
+                "note": 127,
+                "velocity": 100,
+                "beat": 0.5,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
           "kept": true
         },
         {
           "id": "clncuo",
           "index": 3,
           "name": "Take 3",
-          "source": {
-            "type": "Midi",
-            "notes": [
-              {
-                "id": "1dvpyz",
-                "note": 121,
-                "velocity": 97,
-                "beat": 0.36267532994554985,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "axzyn8",
-                "note": 127,
-                "velocity": 98,
-                "beat": 1.1175871413611718,
-                "durationBeats": 0.8909896236462334,
-                "channel": 0
-              },
-              {
-                "id": "zhr3wz",
-                "note": 127,
-                "velocity": 97,
-                "beat": 2.008576765007405,
-                "durationBeats": 1.1098156606912095,
-                "channel": 0
-              },
-              {
-                "id": "o0vhiw",
-                "note": 127,
-                "velocity": 102,
-                "beat": 3.118392425698614,
-                "durationBeats": 0.125,
-                "channel": 0
-              }
-            ]
-          },
           "kept": true
         },
         {
