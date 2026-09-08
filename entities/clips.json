@@ -466,6 +466,36 @@
       ]
     }
   },
+  "rujq": {
+    "id": "rujq",
+    "trackId": "cre",
+    "name": "lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4",
+    "startBeat": 13.832917781801006,
+    "lengthBeats": 66.61659863945577,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3",
+      "sampleRate": 44100.0,
+      "channels": 2,
+      "lengthSamples": 1355904,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 130.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008666666666666666,
+    "fadeOutBeats": 0.008666666666666666,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
   "rjrq": {
     "id": "rjrq",
     "trackId": "dgx",
