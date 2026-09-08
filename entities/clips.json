@@ -1,4 +1,62 @@
 {
+  "izut": {
+    "id": "izut",
+    "trackId": "xkc",
+    "name": "Dub freeze",
+    "startBeat": 0.0,
+    "lengthBeats": 132.33333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/frozen/midi_freeze_1788825339.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 3027692,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "vetq": {
+    "id": "vetq",
+    "trackId": "xkc",
+    "name": "Dub freeze",
+    "startBeat": 0.0,
+    "lengthBeats": 132.33333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/frozen/midi_freeze_1788555986.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 3027692,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
   "steh": {
     "id": "steh",
     "trackId": "bmz",
@@ -90,33 +148,33 @@
       "notes": [
         {
           "id": "1dvpyz",
-          "note": 114,
-          "velocity": 100,
-          "beat": 0.375,
+          "note": 121,
+          "velocity": 97,
+          "beat": 0.36267532994554985,
           "durationBeats": 0.125,
           "channel": 0
         },
         {
           "id": "axzyn8",
-          "note": 122,
-          "velocity": 100,
-          "beat": 1.125,
-          "durationBeats": 0.125,
+          "note": 127,
+          "velocity": 98,
+          "beat": 1.1175871413611718,
+          "durationBeats": 0.8909896236462334,
           "channel": 0
         },
         {
           "id": "zhr3wz",
-          "note": 121,
-          "velocity": 100,
-          "beat": 2.0,
-          "durationBeats": 0.125,
+          "note": 127,
+          "velocity": 97,
+          "beat": 2.008576765007405,
+          "durationBeats": 1.1098156606912095,
           "channel": 0
         },
         {
           "id": "o0vhiw",
-          "note": 121,
-          "velocity": 100,
-          "beat": 3.125,
+          "note": 127,
+          "velocity": 102,
+          "beat": 3.118392425698614,
           "durationBeats": 0.125,
           "channel": 0
         }
@@ -135,8 +193,8 @@
       "mode": "eighth"
     },
     "variationStack": {
-      "activeIndex": 0,
-      "activeId": "ciscyj",
+      "activeIndex": 3,
+      "activeId": "clncuo",
       "variations": [
         {
           "id": "clsvvd",
@@ -225,6 +283,14 @@
                 "beat": 3.1294626770824205,
                 "durationBeats": 0.125,
                 "channel": 0
+              },
+              {
+                "id": "jy0yj9",
+                "note": 127,
+                "velocity": 100,
+                "beat": 0.5,
+                "durationBeats": 0.125,
+                "channel": 0
               }
             ]
           },
@@ -234,43 +300,6 @@
           "id": "clncuo",
           "index": 3,
           "name": "Take 3",
-          "source": {
-            "type": "Midi",
-            "notes": [
-              {
-                "id": "1dvpyz",
-                "note": 121,
-                "velocity": 97,
-                "beat": 0.36267532994554985,
-                "durationBeats": 0.125,
-                "channel": 0
-              },
-              {
-                "id": "axzyn8",
-                "note": 127,
-                "velocity": 98,
-                "beat": 1.1175871413611718,
-                "durationBeats": 0.8909896236462334,
-                "channel": 0
-              },
-              {
-                "id": "zhr3wz",
-                "note": 127,
-                "velocity": 97,
-                "beat": 2.008576765007405,
-                "durationBeats": 1.1098156606912095,
-                "channel": 0
-              },
-              {
-                "id": "o0vhiw",
-                "note": 127,
-                "velocity": 102,
-                "beat": 3.118392425698614,
-                "durationBeats": 0.125,
-                "channel": 0
-              }
-            ]
-          },
           "kept": true
         },
         {
@@ -390,37 +419,51 @@
             ]
           },
           "kept": true
+        },
+        {
+          "id": "ciscyj",
+          "index": 6,
+          "name": "Recovered",
+          "source": {
+            "type": "Midi",
+            "notes": [
+              {
+                "id": "1dvpyz",
+                "note": 114,
+                "velocity": 100,
+                "beat": 0.375,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "axzyn8",
+                "note": 122,
+                "velocity": 100,
+                "beat": 1.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "zhr3wz",
+                "note": 121,
+                "velocity": 100,
+                "beat": 2.0,
+                "durationBeats": 0.125,
+                "channel": 0
+              },
+              {
+                "id": "o0vhiw",
+                "note": 121,
+                "velocity": 100,
+                "beat": 3.125,
+                "durationBeats": 0.125,
+                "channel": 0
+              }
+            ]
+          },
+          "kept": true
         }
       ]
-    }
-  },
-  "mpxs": {
-    "id": "mpxs",
-    "trackId": "xkc",
-    "name": "Dub freeze",
-    "startBeat": 0.0,
-    "lengthBeats": 132.33333333333334,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/frozen/midi_freeze_1788739450.wav",
-      "sampleRate": 48000.0,
-      "channels": 2,
-      "lengthSamples": 3027692,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpmOrigin": "Inherited"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "gain": 1.0,
-    "fadeInBeats": 0.0,
-    "fadeOutBeats": 0.0,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
     }
   },
   "rujq": {
@@ -445,6 +488,54 @@
     "gain": 1.0,
     "fadeInBeats": 0.008666666666666666,
     "fadeOutBeats": 0.008666666666666666,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "rjrq": {
+    "id": "rjrq",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 16.0,
+    "lengthBeats": 8.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "wkbx": {
+    "id": "wkbx",
+    "trackId": "fnu",
+    "name": "MIDI",
+    "startBeat": 16.0,
+    "lengthBeats": 8.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
     "loopEnabled": false,
     "reversed": false,

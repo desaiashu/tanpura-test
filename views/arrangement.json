@@ -29,7 +29,7 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "xkc",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubState": "frozen",
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
@@ -124,15 +124,15 @@
       "lengthBeats": 128.0,
       "key": null,
       "activeVariation": 0,
-      "variationCount": 0,
+      "variationCount": 2,
       "scale": null
     }
   },
   "tempoMarkers": [],
   "keyMarkers": [],
   "timeSigMarkers": [],
-  "spatialMode": false,
-  "rendererOutputMode": "binaural",
+  "spatialMode": true,
+  "rendererOutputMode": "quad",
   "speakerMaps": {
     "quad": [
       0,
