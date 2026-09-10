@@ -1,6 +1,7 @@
 {
   "name": "tanpura-test",
   "bpm": 130.0,
+  "key": "C major",
   "scale": {
     "division": "22shruti",
     "system": "western",
@@ -28,7 +29,7 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "xkc",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubState": "frozen",
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
@@ -121,9 +122,10 @@
       "name": "main",
       "startBeat": 0.0,
       "lengthBeats": 128.0,
-      "scale": null,
+      "key": null,
       "activeVariation": 0,
-      "variationCount": 2
+      "variationCount": 2,
+      "scale": null
     }
   },
   "tempoMarkers": [],

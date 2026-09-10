@@ -21,5 +21,3 @@ videos/**/*.mov
 videos/**/*.webm
 .meta/
 *.ptr
-# per-user UI state (view memory) — personal workflow, never synced
-sidecars/ui-settings.json
