@@ -12,6 +12,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": [],
       "surface": {
         "kind": "camera",
@@ -75,6 +77,8 @@
       "chainLoop": true,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "sliu": {
@@ -93,6 +97,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "iwdz": {
@@ -107,6 +113,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "wjdm": {
@@ -126,6 +134,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "glyb": {
@@ -144,6 +154,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "tvsj": {
@@ -158,6 +170,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": [],
       "surface": {
         "kind": "camera",
@@ -253,6 +267,5 @@
       "toNode": "glyb",
       "toPort": 1
     }
-  ],
-  "patternTrack": "fnu"
+  ]
 }

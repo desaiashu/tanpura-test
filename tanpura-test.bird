@@ -15,10 +15,7 @@ tracks
     plugin Jup-8 V4
     fx tivraDistortion
     strip tivraStrip
-  4 Palette Patterns |fnu
-    type midi
-    strip tivraStrip
-  5 Audio |cre
+  4 Audio |cre
     type audio
     strip tivraStrip
 
@@ -59,13 +56,6 @@ sec main
         v 100
         n 101
     c 4:0 2:0 |rjrq
-  trk 4 Palette Patterns |fnu
-    c 0:0 1:0 |xxoy
-      p _x _s s _xx _s xxd~s q _s s _xxd
-        v 97 98 97 102
-        n 121 127 127 127
-        t -1:-1 -1:1 1:11 -1:-1
-    c 4:0 2:0 |wkbx
-  trk 5 Audio |cre
+  trk 4 Audio |cre
     c 3:176 16:251 |rujq
       samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3

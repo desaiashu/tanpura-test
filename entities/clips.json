@@ -138,7 +138,7 @@
   },
   "xxoy": {
     "id": "xxoy",
-    "trackId": "fnu",
+    "trackId": "pal",
     "name": "Pattern",
     "startBeat": 0.0,
     "lengthBeats": 4.0,
@@ -522,7 +522,7 @@
   },
   "wkbx": {
     "id": "wkbx",
-    "trackId": "fnu",
+    "trackId": "pal",
     "name": "MIDI",
     "startBeat": 16.0,
     "lengthBeats": 8.0,

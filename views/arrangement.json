@@ -28,7 +28,7 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "xkc",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubState": "frozen",
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
@@ -83,16 +83,6 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "fnu": {
-      "id": "fnu",
-      "name": "Palette Patterns",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
     "cre": {
       "id": "cre",
       "name": "Audio",
@@ -112,7 +102,6 @@
     "raj",
     "rdw",
     "rep",
-    "fnu",
     "cre"
   ],
   "sections": {
