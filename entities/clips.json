@@ -553,7 +553,16 @@
     "offsetBeats": 0.0,
     "source": {
       "type": "Midi",
-      "notes": []
+      "notes": [
+        {
+          "id": "ynskq2",
+          "note": 111,
+          "velocity": 100,
+          "beat": 2.875,
+          "durationBeats": 0.125,
+          "channel": 0
+        }
+      ]
     },
     "araEnabled": false,
     "araBypassed": false,

@@ -57,6 +57,9 @@ sec main
         n 101
     c 4:0 2:0 |rjrq
     c 16:0 2:0 |gknp
+      p _h _xxd _s s _w _q
+        v 100
+        n 111
   trk 4 Audio |cre
     c 3:176 16:251 |rujq
       samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3
