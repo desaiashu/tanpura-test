@@ -37,7 +37,7 @@
       "compKnee": 6.0,
       "compScHpfOn": 0.0,
       "compScHpfFreq": 80.0,
-      "eqLowQ": 0.7070000171661377,
+      "eqLowQ": 0.71,
       "eqHighQ": 0.7070000171661377,
       "compDetectMode": 0.0,
       "compAutoRelease": 0.0,
