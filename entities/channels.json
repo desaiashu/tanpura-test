@@ -41,7 +41,7 @@
   "cre": {
     "gain": 1.2770161628723145,
     "pan": 0.0,
-    "muted": false,
+    "muted": true,
     "solo": false,
     "spatial": {
       "azimuth": 0.0,
