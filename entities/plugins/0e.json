@@ -4,8 +4,7 @@
     "trackId": "bmz",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
-    "enabled": false,
-    "disabledBy": "user",
+    "enabled": true,
     "state": {
       "inputGainDb": 0.0,
       "loCutFreq": 16.0,
