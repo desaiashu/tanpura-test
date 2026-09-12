@@ -112,8 +112,7 @@
       "lengthBeats": 128.0,
       "scale": null,
       "activeVariation": 0,
-      "variationCount": 2,
-      "key": null
+      "variationCount": 2
     }
   },
   "tempoMarkers": [],
@@ -139,6 +138,5 @@
     ]
   },
   "outputBusGains": {},
-  "outputBusMutes": {},
-  "key": "C major"
+  "outputBusMutes": {}
 }
