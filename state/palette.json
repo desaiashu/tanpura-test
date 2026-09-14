@@ -217,6 +217,12 @@
       "fromPort": 1,
       "toNode": "wjdm",
       "toPort": 1
+    },
+    {
+      "fromNode": "uqhh",
+      "fromPort": 0,
+      "toNode": "cdoy",
+      "toPort": 0
     }
   ]
 }
