@@ -101,22 +101,6 @@
       "bypassed": false,
       "macroParams": []
     },
-    "iwdz": {
-      "nodeId": "iwdz",
-      "typeId": "plugin",
-      "position": [
-        1377.984375,
-        784.155517578125
-      ],
-      "refId": "/Library/Audio/Plug-Ins/VST3/Dist TUBE-CULTURE.vst3",
-      "params": {},
-      "chainLoop": false,
-      "chainMuted": false,
-      "chainSolo": false,
-      "triggered": false,
-      "bypassed": false,
-      "macroParams": []
-    },
     "wjdm": {
       "nodeId": "wjdm",
       "typeId": "plugin",
@@ -181,30 +165,6 @@
       "fromPort": 0,
       "toNode": "sliu",
       "toPort": 0
-    },
-    {
-      "fromNode": "sliu",
-      "fromPort": 0,
-      "toNode": "iwdz",
-      "toPort": 0
-    },
-    {
-      "fromNode": "sliu",
-      "fromPort": 1,
-      "toNode": "iwdz",
-      "toPort": 1
-    },
-    {
-      "fromNode": "iwdz",
-      "fromPort": 0,
-      "toNode": "wjdm",
-      "toPort": 0
-    },
-    {
-      "fromNode": "iwdz",
-      "fromPort": 1,
-      "toNode": "wjdm",
-      "toPort": 1
     },
     {
       "fromNode": "wjdm",
