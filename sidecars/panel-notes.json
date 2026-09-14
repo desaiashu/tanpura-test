@@ -1,0 +1,31 @@
+{
+  "notes": [
+    {
+      "id": "note_1789425126107_1",
+      "view": "arrangement",
+      "text": "",
+      "archived": false,
+      "createdAt": 1789425126107,
+      "x": 13.28438212076823,
+      "y": 0.678815484046936
+    },
+    {
+      "id": "note_1789425126555_2",
+      "view": "arrangement",
+      "text": "",
+      "archived": false,
+      "createdAt": 1789425126555,
+      "x": 17.79438212076823,
+      "y": 0.33506548404693604
+    },
+    {
+      "id": "note_1789425127053_3",
+      "view": "arrangement",
+      "text": "",
+      "archived": false,
+      "createdAt": 1789425127053,
+      "x": 27.767715454101566,
+      "y": 0.28819048404693604
+    }
+  ]
+}
