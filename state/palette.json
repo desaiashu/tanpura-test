@@ -195,12 +195,6 @@
   },
   "connections": [
     {
-      "fromNode": "uqhh",
-      "fromPort": 0,
-      "toNode": "sliu",
-      "toPort": 0
-    },
-    {
       "fromNode": "wjdm",
       "fromPort": 0,
       "toNode": "glyb",
