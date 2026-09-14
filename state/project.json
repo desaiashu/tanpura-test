@@ -27,10 +27,10 @@
       },
       "meta": {
         "chatMessages": [],
-        "logicMode": "compiled"
+        "logicMode": "interpreted"
       },
       "createdAt": 1789425469706,
-      "modifiedAt": 1789425504679
+      "modifiedAt": 1789425507468
     }
   },
   "videoFilePath": null,
