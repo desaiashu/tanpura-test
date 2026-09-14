@@ -78,7 +78,7 @@
       "chainMuted": false,
       "chainSolo": false,
       "triggered": true,
-      "bypassed": false,
+      "bypassed": true,
       "macroParams": []
     },
     "sliu": {
