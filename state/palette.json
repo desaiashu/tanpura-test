@@ -223,6 +223,18 @@
       "fromPort": 0,
       "toNode": "cdoy",
       "toPort": 0
+    },
+    {
+      "fromNode": "cdoy",
+      "fromPort": 0,
+      "toNode": "axyp",
+      "toPort": 0
+    },
+    {
+      "fromNode": "cdoy",
+      "fromPort": 1,
+      "toNode": "axyp",
+      "toPort": 1
     }
   ]
 }
