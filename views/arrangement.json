@@ -28,7 +28,7 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "xkc",
-      "audioFlipped": false,
+      "audioFlipped": true,
       "dubState": "frozen",
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
