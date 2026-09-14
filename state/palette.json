@@ -105,7 +105,7 @@
       "nodeId": "wjdm",
       "typeId": "plugin",
       "position": [
-        1728.0625,
+        2024.0625,
         784.155517578125
       ],
       "refId": "tivraChorus",
@@ -126,7 +126,7 @@
       "nodeId": "glyb",
       "typeId": "plugin",
       "position": [
-        2146.15625,
+        2442.15625,
         784.155517578125
       ],
       "refId": "tivraHall",
@@ -146,10 +146,26 @@
       "nodeId": "cdoy",
       "typeId": "instrument",
       "position": [
-        1197.479736328125,
-        316.659423828125
+        1189.9595947265625,
+        276.5514831542969
       ],
       "refId": "Jup-8 V4",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
+      "macroParams": []
+    },
+    "axyp": {
+      "nodeId": "axyp",
+      "typeId": "plugin",
+      "position": [
+        1255.875,
+        784.155517578125
+      ],
+      "refId": "tivraDistortion",
       "params": {},
       "chainLoop": false,
       "chainMuted": false,
