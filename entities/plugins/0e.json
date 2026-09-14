@@ -60,7 +60,8 @@
     "slot": 0,
     "enabled": true,
     "state": {
-      "templateId": "mu1tq13e7fzti"
+      "templateId": "mu1tq13e7fzti",
+      "uiCode": "// Custom FX — UI. Compose the design-system builders and mount the tree;\n// `.link(id)` binds a knob to the param declared in DSP (label, range and\n// unit come from there; pass options to override). `shell`'s width/height\n// are the plugin's own size (Play mode and exported windows use them).\n\nmount(\n  shell({ width: 420, height: 260, accent: 'amber' },\n    section('Drive', { icon: 'Zap' },\n      knob().link('drive'),\n      knob().link('tone'))));\n"
     },
     "sidechainSensitivity": 0.6000000238418579
   }
