@@ -178,7 +178,7 @@
       "nodeId": "byhv",
       "typeId": "transport",
       "position": [
-        2738.140625,
+        107.81256103515625,
         784.155517578125
       ],
       "refId": null,
@@ -251,6 +251,12 @@
       "fromPort": 1,
       "toNode": "axyp",
       "toPort": 1
+    },
+    {
+      "fromNode": "byhv",
+      "fromPort": 0,
+      "toNode": "uqhh",
+      "toPort": 0
     }
   ]
 }
