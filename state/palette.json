@@ -193,6 +193,18 @@
       "fromPort": 1,
       "toNode": "glyb",
       "toPort": 1
+    },
+    {
+      "fromNode": "sliu",
+      "fromPort": 0,
+      "toNode": "axyp",
+      "toPort": 0
+    },
+    {
+      "fromNode": "sliu",
+      "fromPort": 1,
+      "toNode": "axyp",
+      "toPort": 1
     }
   ]
 }
