@@ -77,7 +77,7 @@
       "chainLoop": true,
       "chainMuted": false,
       "chainSolo": false,
-      "triggered": false,
+      "triggered": true,
       "bypassed": false,
       "macroParams": []
     },
