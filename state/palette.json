@@ -205,6 +205,18 @@
       "fromPort": 1,
       "toNode": "axyp",
       "toPort": 1
+    },
+    {
+      "fromNode": "axyp",
+      "fromPort": 0,
+      "toNode": "wjdm",
+      "toPort": 0
+    },
+    {
+      "fromNode": "axyp",
+      "fromPort": 1,
+      "toNode": "wjdm",
+      "toPort": 1
     }
   ]
 }
