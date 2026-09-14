@@ -59,7 +59,9 @@
     "typeName": "tivraVibeFX",
     "slot": 0,
     "enabled": true,
-    "state": null,
+    "state": {
+      "templateId": "mu1tq13e7fzti"
+    },
     "sidechainSensitivity": 0.6000000238418579
   }
 }
