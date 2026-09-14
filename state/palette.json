@@ -157,6 +157,22 @@
       "triggered": false,
       "bypassed": false,
       "macroParams": []
+    },
+    "cdoy": {
+      "nodeId": "cdoy",
+      "typeId": "instrument",
+      "position": [
+        1403.032958984375,
+        1244.155517578125
+      ],
+      "refId": "Jup-8 V4",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
+      "macroParams": []
     }
   },
   "connections": [
