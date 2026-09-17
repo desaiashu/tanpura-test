@@ -77,8 +77,8 @@
       "chainLoop": true,
       "chainMuted": false,
       "chainSolo": false,
-      "triggered": false,
-      "bypassed": false,
+      "triggered": true,
+      "bypassed": true,
       "macroParams": []
     },
     "sliu": {
@@ -101,27 +101,11 @@
       "bypassed": false,
       "macroParams": []
     },
-    "iwdz": {
-      "nodeId": "iwdz",
-      "typeId": "plugin",
-      "position": [
-        1377.984375,
-        784.155517578125
-      ],
-      "refId": "/Library/Audio/Plug-Ins/VST3/Dist TUBE-CULTURE.vst3",
-      "params": {},
-      "chainLoop": false,
-      "chainMuted": false,
-      "chainSolo": false,
-      "triggered": false,
-      "bypassed": false,
-      "macroParams": []
-    },
     "wjdm": {
       "nodeId": "wjdm",
       "typeId": "plugin",
       "position": [
-        1728.0625,
+        2024.0625,
         784.155517578125
       ],
       "refId": "tivraChorus",
@@ -142,7 +126,7 @@
       "nodeId": "glyb",
       "typeId": "plugin",
       "position": [
-        2146.15625,
+        2442.15625,
         784.155517578125
       ],
       "refId": "tivraHall",
@@ -222,49 +206,111 @@
           }
         ]
       }
+    },
+    "cdoy": {
+      "nodeId": "cdoy",
+      "typeId": "instrument",
+      "position": [
+        1189.9595947265625,
+        276.5514831542969
+      ],
+      "refId": "Jup-8 V4",
+      "params": {
+        "LFO Rate (Unsync)": 0.6700000166893005
+      },
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
+      "macroParams": []
+    },
+    "axyp": {
+      "nodeId": "axyp",
+      "typeId": "plugin",
+      "position": [
+        1769.482421875,
+        778.5422973632812
+      ],
+      "refId": "tivraDistortion",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
+      "macroParams": []
+    },
+    "yzth": {
+      "nodeId": "yzth",
+      "typeId": "transport",
+      "position": [
+        457.81256103515625,
+        1244.155517578125
+      ],
+      "refId": null,
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
+      "macroParams": []
     }
   },
   "connections": [
     {
+      "fromNode": "wjdm",
+      "fromPort": 0,
+      "toNode": "glyb",
+      "toPort": 0
+    },
+    {
+      "fromNode": "wjdm",
+      "fromPort": 1,
+      "toNode": "glyb",
+      "toPort": 1
+    },
+    {
+      "fromNode": "sliu",
+      "fromPort": 0,
+      "toNode": "axyp",
+      "toPort": 0
+    },
+    {
+      "fromNode": "sliu",
+      "fromPort": 1,
+      "toNode": "axyp",
+      "toPort": 1
+    },
+    {
+      "fromNode": "axyp",
+      "fromPort": 0,
+      "toNode": "wjdm",
+      "toPort": 0
+    },
+    {
+      "fromNode": "axyp",
+      "fromPort": 1,
+      "toNode": "wjdm",
+      "toPort": 1
+    },
+    {
       "fromNode": "uqhh",
       "fromPort": 0,
-      "toNode": "sliu",
+      "toNode": "cdoy",
       "toPort": 0
     },
     {
-      "fromNode": "sliu",
+      "fromNode": "cdoy",
       "fromPort": 0,
-      "toNode": "iwdz",
+      "toNode": "axyp",
       "toPort": 0
     },
     {
-      "fromNode": "sliu",
+      "fromNode": "cdoy",
       "fromPort": 1,
-      "toNode": "iwdz",
-      "toPort": 1
-    },
-    {
-      "fromNode": "iwdz",
-      "fromPort": 0,
-      "toNode": "wjdm",
-      "toPort": 0
-    },
-    {
-      "fromNode": "iwdz",
-      "fromPort": 1,
-      "toNode": "wjdm",
-      "toPort": 1
-    },
-    {
-      "fromNode": "wjdm",
-      "fromPort": 0,
-      "toNode": "glyb",
-      "toPort": 0
-    },
-    {
-      "fromNode": "wjdm",
-      "fromPort": 1,
-      "toNode": "glyb",
+      "toNode": "axyp",
       "toPort": 1
     }
   ]

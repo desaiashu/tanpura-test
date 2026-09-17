@@ -118,14 +118,14 @@
   "tempoMarkers": [],
   "keyMarkers": [],
   "timeSigMarkers": [],
-  "spatialMode": false,
-  "rendererOutputMode": "binaural",
+  "spatialMode": true,
+  "rendererOutputMode": "quad",
   "speakerMaps": {
     "quad": [
-      0,
-      1,
-      2,
-      3
+      54,
+      55,
+      56,
+      57
     ]
   },
   "speakerLevels": {},
