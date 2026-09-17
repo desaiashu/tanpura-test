@@ -1,7 +1,6 @@
 {
   "name": "tanpura-test",
   "bpm": 130.0,
-  "key": "C major",
   "scale": {
     "division": "22shruti",
     "system": "western",
@@ -29,7 +28,7 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "xkc",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubState": "frozen",
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
@@ -84,16 +83,6 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "fnu": {
-      "id": "fnu",
-      "name": "Palette Patterns",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
     "cre": {
       "id": "cre",
       "name": "Audio",
@@ -113,7 +102,6 @@
     "raj",
     "rdw",
     "rep",
-    "fnu",
     "cre"
   ],
   "sections": {
@@ -122,10 +110,9 @@
       "name": "main",
       "startBeat": 0.0,
       "lengthBeats": 128.0,
-      "key": null,
+      "scale": null,
       "activeVariation": 0,
-      "variationCount": 0,
-      "scale": null
+      "variationCount": 2
     }
   },
   "tempoMarkers": [],

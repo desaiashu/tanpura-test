@@ -8,7 +8,7 @@
     "state": {
       "inputGainDb": 0.0,
       "loCutFreq": 16.0,
-      "hiCutFreq": 22000.0,
+      "hiCutFreq": 5360.0,
       "eqLowGain": 0.0,
       "eqLowFreq": 100.0,
       "eqMid1Gain": 0.0,
@@ -37,7 +37,7 @@
       "compKnee": 6.0,
       "compScHpfOn": 0.0,
       "compScHpfFreq": 80.0,
-      "eqLowQ": 0.7070000171661377,
+      "eqLowQ": 0.71,
       "eqHighQ": 0.7070000171661377,
       "compDetectMode": 0.0,
       "compAutoRelease": 0.0,

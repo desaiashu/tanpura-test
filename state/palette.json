@@ -4,14 +4,16 @@
       "nodeId": "pmbt",
       "typeId": "camera",
       "position": [
-        457.81256103515625,
-        394.0774230957031
+        275.9025573730469,
+        262.3775329589844
       ],
       "refId": null,
       "params": {},
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": [],
       "surface": {
         "kind": "camera",
@@ -75,6 +77,8 @@
       "chainLoop": true,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "sliu": {
@@ -93,6 +97,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "iwdz": {
@@ -107,6 +113,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "wjdm": {
@@ -126,6 +134,8 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
     },
     "glyb": {
@@ -144,7 +154,74 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
       "macroParams": []
+    },
+    "tvsj": {
+      "nodeId": "tvsj",
+      "typeId": "camera",
+      "position": [
+        403.8631286621094,
+        1242.764892578125
+      ],
+      "refId": null,
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
+      "macroParams": [],
+      "surface": {
+        "kind": "camera",
+        "direction": "input",
+        "enabled": true,
+        "settings": {
+          "kind": "camera",
+          "fps": 15,
+          "grid": 64,
+          "motionThreshold": 0.1
+        },
+        "bindings": [
+          {
+            "id": "motion",
+            "enabled": true,
+            "filter": {
+              "kind": "camera",
+              "feature": "motion"
+            },
+            "transform": {
+              "inMin": null,
+              "inMax": null,
+              "outMin": null,
+              "outMax": null,
+              "curve": "linear",
+              "inverted": false,
+              "deadband": 0.0
+            },
+            "outbound": null
+          },
+          {
+            "id": "bright",
+            "enabled": true,
+            "filter": {
+              "kind": "camera",
+              "feature": "brightness"
+            },
+            "transform": {
+              "inMin": null,
+              "inMax": null,
+              "outMin": null,
+              "outMax": null,
+              "curve": "linear",
+              "inverted": false,
+              "deadband": 0.0
+            },
+            "outbound": null
+          }
+        ]
+      }
     }
   },
   "connections": [
@@ -190,6 +267,5 @@
       "toNode": "glyb",
       "toPort": 1
     }
-  ],
-  "patternTrack": "fnu"
+  ]
 }

@@ -14,7 +14,7 @@
       },
       "dubClips": [
         {
-          "id": "mpxs",
+          "id": "izut",
           "trackId": "xkc",
           "name": "Dub freeze",
           "startBeat": 0.0,
@@ -22,7 +22,36 @@
           "offsetBeats": 0.0,
           "source": {
             "type": "Audio",
-            "path": "samples/frozen/midi_freeze_1788739450.wav",
+            "path": "samples/frozen/midi_freeze_1788825339.wav",
+            "sampleRate": 48000.0,
+            "channels": 2,
+            "lengthSamples": 3027692,
+            "timeStretchMode": "Signalsmith",
+            "sourceBpmOrigin": "Inherited"
+          },
+          "araEnabled": false,
+          "araBypassed": false,
+          "gain": 1.0,
+          "fadeInBeats": 0.0,
+          "fadeOutBeats": 0.0,
+          "fadeCurve": 1.0,
+          "loopEnabled": false,
+          "reversed": false,
+          "swing": {
+            "amount": 0.0,
+            "mode": "eighth"
+          }
+        },
+        {
+          "id": "vetq",
+          "trackId": "xkc",
+          "name": "Dub freeze",
+          "startBeat": 0.0,
+          "lengthBeats": 132.33333333333334,
+          "offsetBeats": 0.0,
+          "source": {
+            "type": "Audio",
+            "path": "samples/frozen/midi_freeze_1788555986.wav",
             "sampleRate": 48000.0,
             "channels": 2,
             "lengthSamples": 3027692,
@@ -44,7 +73,7 @@
         }
       ],
       "dubState": "frozen",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     }

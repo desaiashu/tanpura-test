@@ -15,10 +15,7 @@ tracks
     plugin Jup-8 V4
     fx tivraDistortion
     strip tivraStrip
-  4 Palette Patterns |fnu
-    type midi
-    strip tivraStrip
-  5 Audio |cre
+  4 Audio |cre
     type audio
     strip tivraStrip
 
@@ -36,13 +33,13 @@ returns
     fx tivraDistortion
     strip tivraStrip
 
+master
+  strip tivraMastering
+
 sec main
   trk 1 drone + drums |bmz
     c 0:0 31:262 |steh
       samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3
-    auto volume
-      . 0:0 8:0 16:0 24:0 32:0
-      _ 0.4000 0.7000 0.4000 0.7000 0.4000
   trk 2 midi |dgx
     c 0:192 2:0 |cafa
       p q~x _w _h _xxd
@@ -54,14 +51,11 @@ sec main
         .
         v 100
         n 101
-  trk 4 Palette Patterns |fnu
-    c 0:0 1:0 |xxoy
-      p _x _s s _xx _s s _xxd s _q s _xxd
+    c 4:0 2:0 |rjrq
+    c 16:0 2:0 |gknp
+      p _h _xxd _s s _w _q
         v 100
-        n 114 122 121 121
-  trk 5 Audio |cre
+        n 111
+  trk 4 Audio |cre
     c 3:176 16:251 |rujq
       samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3
-
-master
-  strip tivraMastering
