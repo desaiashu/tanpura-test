@@ -106,17 +106,22 @@
       "parts": [
         {
           "partId": "1A",
-          "label": "A"
+          "label": "A",
+          "slotIndex": 0
         },
         {
           "partId": "1B",
-          "label": "B"
+          "label": "B",
+          "slotIndex": 1
         },
         {
           "partId": "1C",
-          "label": "C"
+          "label": "C",
+          "slotIndex": 2
         }
-      ]
+      ],
+      "laneIds": [],
+      "mirrorOf": null
     },
     {
       "conceptId": "2",
@@ -124,17 +129,22 @@
       "parts": [
         {
           "partId": "2A",
-          "label": "A"
+          "label": "A",
+          "slotIndex": 3
         },
         {
           "partId": "2B",
-          "label": "B"
+          "label": "B",
+          "slotIndex": 4
         },
         {
           "partId": "2C",
-          "label": "C"
+          "label": "C",
+          "slotIndex": 5
         }
-      ]
+      ],
+      "laneIds": [],
+      "mirrorOf": null
     },
     {
       "conceptId": "3",
@@ -142,9 +152,12 @@
       "parts": [
         {
           "partId": "3A",
-          "label": "A"
+          "label": "A",
+          "slotIndex": 6
         }
-      ]
+      ],
+      "laneIds": [],
+      "mirrorOf": null
     }
   ],
   "slots": {}
