@@ -34,7 +34,12 @@
     }
   },
   "videoFilePath": null,
-  "spaces": [],
+  "spaces": [
+    {
+      "id": "space-f6a3e30f",
+      "view": "visualize"
+    }
+  ],
   "customEditors": {},
   "scriptFxEditors": {},
   "vibeFxEditors": {}
