@@ -6,7 +6,7 @@
       "kind": {
         "type": "VisualizerSource",
         "panelId": "main",
-        "kind": "wave",
+        "kind": "geometric",
         "inputSource": "{\"kind\":\"main\"}"
       }
     }
