@@ -13,7 +13,7 @@
   },
   "sends": [
     {
-      "trackId": "dgx",
+      "trackId": "xkc",
       "returnId": "rep",
       "gain": 0.0,
       "preFader": false
@@ -103,7 +103,7 @@
       "preFader": false
     },
     {
-      "trackId": "xkc",
+      "trackId": "dgx",
       "returnId": "rep",
       "gain": 0.0,
       "preFader": false
