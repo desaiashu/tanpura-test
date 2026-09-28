@@ -17,6 +17,7 @@ tracks
     strip tivraStrip
   4 Audio |cre
     type audio
+    fx tivraVibeFX
     strip tivraStrip
 
 returns

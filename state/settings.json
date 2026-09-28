@@ -1,7 +1,7 @@
 {
   "user": {
     "middleCOctave": 4,
-    "copyImportedSamples": true,
+    "copyImportedSamples": false,
     "autoSaveIntervalMs": 30000,
     "undoHistorySize": 100,
     "linkEnabled": false,
@@ -10,11 +10,11 @@
     "directMonitoring": false
   },
   "appearance": {
-    "theme": "dark"
+    "theme": "system"
   },
   "ai": {
     "aiComfort": 3,
-    "developmentStage": 2,
+    "developmentStage": 0,
     "pluginPreload": "enabled"
   },
   "workflow": {
