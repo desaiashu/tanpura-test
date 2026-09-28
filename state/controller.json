@@ -3,11 +3,74 @@
   "nextId": 0,
   "macros": {},
   "devices": {
-    "iac-driver-bus-1": {
-      "id": "iac-driver-bus-1",
-      "name": "IAC Driver Bus 1",
+    "moog-sub-37": {
+      "id": "moog-sub-37",
+      "name": "Moog Sub 37",
       "port": "In 1",
       "layoutId": null,
+      "channel": null,
+      "detectedChannel": null,
+      "manual": false
+    },
+    "keylab-mkii-61-midi": {
+      "id": "keylab-mkii-61-midi",
+      "name": "KeyLab mkII 61 MIDI",
+      "port": "In 2",
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": null,
+      "manual": false
+    },
+    "keylab-mkii-61-daw": {
+      "id": "keylab-mkii-61-daw",
+      "name": "KeyLab mkII 61 DAW",
+      "port": "In 3",
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": null,
+      "manual": false
+    },
+    "polybrute-midi": {
+      "id": "polybrute-midi",
+      "name": "PolyBrute MIDI",
+      "port": "In 4",
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": null,
+      "manual": false
+    },
+    "polybrute-vst": {
+      "id": "polybrute-vst",
+      "name": "PolyBrute VST",
+      "port": "In 5",
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": null,
+      "manual": false
+    },
+    "console-1-channel-mk-iii": {
+      "id": "console-1-channel-mk-iii",
+      "name": "Console 1 Channel Mk III",
+      "port": "In 6",
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": null,
+      "manual": false
+    },
+    "nord-wave-2-midi-output": {
+      "id": "nord-wave-2-midi-output",
+      "name": "Nord Wave 2 MIDI Output",
+      "port": "In 7",
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": null,
+      "manual": false
+    },
+    "xone-k2": {
+      "id": "xone-k2",
+      "name": "XONE:K2",
+      "port": "In 8",
+      "layoutId": "xone-k2",
       "channel": null,
       "detectedChannel": null,
       "manual": false
