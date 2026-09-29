@@ -13,7 +13,7 @@
     "monoSource": "sum"
   },
   "dgx": {
-    "gain": 1.0,
+    "gain": 0.14578013122081757,
     "pan": -0.6756312847137451,
     "muted": true,
     "solo": false,
@@ -26,7 +26,7 @@
     "monoSource": "sum"
   },
   "xkc": {
-    "gain": 1.0,
+    "gain": 0.14578013122081757,
     "pan": -0.6756312847137451,
     "muted": true,
     "solo": false,
