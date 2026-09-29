@@ -116,7 +116,7 @@
       "busIndex": 3,
       "gain": 1.0,
       "pan": 0.0,
-      "muted": false
+      "muted": true
     }
   }
 }
