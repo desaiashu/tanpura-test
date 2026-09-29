@@ -15,7 +15,7 @@
   "dgx": {
     "gain": 0.14578013122081757,
     "pan": -0.6756312847137451,
-    "muted": true,
+    "muted": false,
     "solo": false,
     "spatial": {
       "azimuth": -26.98574646258608,
@@ -28,7 +28,7 @@
   "xkc": {
     "gain": 0.14578013122081757,
     "pan": -0.6756312847137451,
-    "muted": true,
+    "muted": false,
     "solo": false,
     "spatial": {
       "azimuth": -26.98574646258608,
