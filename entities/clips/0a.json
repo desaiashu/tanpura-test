@@ -1,0 +1,216 @@
+{
+  "gxvj": {
+    "id": "gxvj",
+    "trackId": "neb",
+    "name": "NY1 v2 1-Am - Tisnat_Moonrock [2023-04-26 195658].wav",
+    "startBeat": 0.0,
+    "lengthBeats": 709.5433333333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/NY1 v2 1-Am - Tisnat_Moonrock [2023-04-26 195658].wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15964725,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 35,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "yxiy": {
+    "id": "yxiy",
+    "trackId": "ljd",
+    "name": "Plane Audio.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 704.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Plane Audio.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15840000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 15,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "aflh": {
+    "id": "aflh",
+    "trackId": "jmp",
+    "name": "heartbeat - clip",
+    "startBeat": 0.0,
+    "lengthBeats": 4.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "thhyxh",
+          "note": 43,
+          "velocity": 99,
+          "beat": 0.0,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thhyxg",
+          "note": 43,
+          "velocity": 65,
+          "beat": 0.25,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thhxkx",
+          "note": 43,
+          "velocity": 103,
+          "beat": 0.5,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thibzy",
+          "note": 43,
+          "velocity": 73,
+          "beat": 0.75,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thiamz",
+          "note": 43,
+          "velocity": 59,
+          "beat": 1.0,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thiesu",
+          "note": 43,
+          "velocity": 66,
+          "beat": 1.25,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thidfv",
+          "note": 43,
+          "velocity": 58,
+          "beat": 1.5,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thidfu",
+          "note": 43,
+          "velocity": 66,
+          "beat": 1.75,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thihvp",
+          "note": 43,
+          "velocity": 70,
+          "beat": 2.0,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thigim",
+          "note": 43,
+          "velocity": 111,
+          "beat": 2.25,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thikyh",
+          "note": 43,
+          "velocity": 43,
+          "beat": 2.5,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thikyg",
+          "note": 43,
+          "velocity": 43,
+          "beat": 2.75,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thijcb",
+          "note": 43,
+          "velocity": 104,
+          "beat": 3.0,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thinym",
+          "note": 43,
+          "velocity": 85,
+          "beat": 3.25,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thimkx",
+          "note": 43,
+          "velocity": 120,
+          "beat": 3.5,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        },
+        {
+          "id": "thgule",
+          "note": 43,
+          "velocity": 70,
+          "beat": 3.75,
+          "durationBeats": 0.040485816267066266,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 18,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  }
+}

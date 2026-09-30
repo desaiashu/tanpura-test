@@ -1,0 +1,371 @@
+{
+  "wizl": {
+    "id": "wizl",
+    "trackId": "akl",
+    "name": "nord 0005 [2026-02-07 193523].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 1951.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/nord 0005 [2026-02-07 193523].aif",
+      "sampleRate": 96000.0,
+      "channels": 2,
+      "lengthSamples": 87794944,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 29,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "xbik": {
+    "id": "xbik",
+    "trackId": "hgl",
+    "name": "Rec 1 - Bass 0010 [2026-01-19 160643].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 592.0000444444445,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 1 - Bass 0010 [2026-01-19 160643].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 13320001,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 32,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "oybl": {
+    "id": "oybl",
+    "trackId": "hgl",
+    "name": "Rec 1 - Bass 0017 [2026-03-01 225904].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 3790.8645833333335,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 1 - Bass 0017 [2026-03-01 225904].aif",
+      "sampleRate": 96000.0,
+      "channels": 2,
+      "lengthSamples": 170588672,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 50,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "nanc": {
+    "id": "nanc",
+    "trackId": "neb",
+    "name": "Centaur Kick.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 451.0476444444444,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Centaur Kick.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 10148572,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 5,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ljiw": {
+    "id": "ljiw",
+    "trackId": "neb",
+    "name": "Plane 2-Group.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 704.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Plane 2-Group.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15840000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 25,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ovab": {
+    "id": "ovab",
+    "trackId": "trg",
+    "name": "Plane arr1 minimal 2 14-Jup-8 V4.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 704.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Plane arr1 minimal 2 14-Jup-8 V4.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15840000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 14,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zihu": {
+    "id": "zihu",
+    "trackId": "hgk",
+    "name": "NY1 v2 Audio-3.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 709.5433333333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/NY1 v2 Audio-3.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15964725,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 12,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "bzlj": {
+    "id": "bzlj",
+    "trackId": "stg",
+    "name": "Rec 8 - Misc 0005 [2025-09-27 131003].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 301.29495555555553,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 8 - Misc 0005 [2025-09-27 131003].aif",
+      "sampleRate": 96000.0,
+      "channels": 2,
+      "lengthSamples": 13558273,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 0,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "vveq": {
+    "id": "vveq",
+    "trackId": "irg",
+    "name": "stage73 - clip",
+    "startBeat": 0.0,
+    "lengthBeats": 4.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "tiwtry",
+          "note": 46,
+          "velocity": 100,
+          "beat": 0.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tiwryf",
+          "note": 61,
+          "velocity": 100,
+          "beat": 0.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tiwwmq",
+          "note": 58,
+          "velocity": 100,
+          "beat": 1.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tiwuyl",
+          "note": 46,
+          "velocity": 100,
+          "beat": 2.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tiwzpi",
+          "note": 61,
+          "velocity": 100,
+          "beat": 2.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tiwzpl",
+          "note": 49,
+          "velocity": 100,
+          "beat": 3.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 52,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ruzw": {
+    "id": "ruzw",
+    "trackId": "rat",
+    "name": "aug voices - clip",
+    "startBeat": 0.0,
+    "lengthBeats": 2.5,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 30,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.05000000074505806,
+      "mode": "sixteenth"
+    }
+  },
+  "buyb": {
+    "id": "buyb",
+    "trackId": "neb",
+    "name": "Centaur Kick.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 451.0476444444444,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Centaur Kick.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 10148572,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 55,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": true,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  }
+}

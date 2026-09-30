@@ -1,15 +1,4 @@
 {
-  "nodes": {
-    "mypr": {
-      "id": "mypr",
-      "name": "visualizer[main]",
-      "kind": {
-        "type": "VisualizerSource",
-        "panelId": "main",
-        "kind": "spectrogram",
-        "inputSource": "{\"kind\":\"main\"}"
-      }
-    }
-  },
+  "nodes": {},
   "edges": {}
 }

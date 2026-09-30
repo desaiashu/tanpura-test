@@ -1,45 +1,695 @@
 {
-  "bmz": {
-    "gain": 0.47367146611213684,
+  "fce": {
+    "gain": 1.0,
     "pan": 0.0,
     "muted": false,
     "solo": false,
     "spatial": {
-      "azimuth": -96.74726750297738,
+      "azimuth": 0.0,
       "elevation": 0.0,
-      "distance": 0.5600171839679405
+      "distance": 1.0
     },
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "dgx": {
-    "gain": 0.14578013122081757,
-    "pan": -0.6756312847137451,
+  "wgv": {
+    "gain": 1.0,
+    "pan": 0.0,
     "muted": false,
     "solo": false,
     "spatial": {
-      "azimuth": -26.98574646258608,
+      "azimuth": 0.0,
       "elevation": 0.0,
-      "distance": 0.39258379868997534
+      "distance": 1.0
     },
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "xkc": {
-    "gain": 0.14578013122081757,
-    "pan": -0.6756312847137451,
+  "kyh": {
+    "gain": 1.0,
+    "pan": 0.0,
     "muted": false,
     "solo": false,
     "spatial": {
-      "azimuth": -26.98574646258608,
+      "azimuth": 0.0,
       "elevation": 0.0,
-      "distance": 0.39258379868997534
+      "distance": 1.0
     },
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "cre": {
-    "gain": 1.2170000076293945,
+  "akl": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "yzj": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "gxu": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "jmp": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "wdl": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "yky": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "beu": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "org": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "nxi": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ycv": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "lfd": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "umh": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "irg": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ydy": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "rat": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "yqb": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ycf": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "bzf": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "hgl": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "neb": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "trg": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "zbc": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ljd": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "hgk": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "xkh": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "stg": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "gwf": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ane": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "iti": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "pvr": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ilk": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ekg": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "hqs": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "oab": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "bdg": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "gvv": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "oow": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ujf": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ilr": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "nap": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "blg": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "kdg": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "cnu": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "nvv": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ubv": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "eat": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "ijq": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "dnb": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "aee": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "apd": {
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
+  },
+  "yme": {
+    "gain": 1.0,
     "pan": 0.0,
     "muted": false,
     "solo": false,
