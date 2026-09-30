@@ -120,7 +120,7 @@
   "keyMarkers": [],
   "timeSigMarkers": [],
   "spatialMode": true,
-  "rendererOutputMode": "quad",
+  "rendererOutputMode": "binaural",
   "speakerMaps": {
     "quad": [
       0,
