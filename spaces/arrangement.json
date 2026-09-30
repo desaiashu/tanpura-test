@@ -119,7 +119,7 @@
   "tempoMarkers": [],
   "keyMarkers": [],
   "timeSigMarkers": [],
-  "spatialMode": true,
+  "spatialMode": false,
   "rendererOutputMode": "binaural",
   "speakerMaps": {
     "quad": [
