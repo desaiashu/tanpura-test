@@ -1,0 +1,298 @@
+{
+  "muxo": {
+    "id": "muxo",
+    "trackId": "hgl",
+    "name": "Jan 28 stems 8-12km multiband bass alt.aif",
+    "startBeat": 0.0,
+    "lengthBeats": 273.0667555555556,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Jan 28 stems 8-12km multiband bass alt.aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 6144002,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 8,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "hgvp": {
+    "id": "hgvp",
+    "trackId": "hgl",
+    "name": "Rec 1 - Bass 0012 [2026-01-20 001451].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 208.00004444444446,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 1 - Bass 0012 [2026-01-20 001451].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 4680001,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 18,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "pezn": {
+    "id": "pezn",
+    "trackId": "zbc",
+    "name": "Infinite Crate Groove v4 13-Group.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 805.5873333333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Infinite Crate Groove v4 13-Group.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 18125715,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 6,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "bvop": {
+    "id": "bvop",
+    "trackId": "zbc",
+    "name": "Rec 3 - Mel 0009 [2026-01-19 174544].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 68.00004444444444,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 3 - Mel 0009 [2026-01-19 174544].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 1530001,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 35,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "qwfg": {
+    "id": "qwfg",
+    "trackId": "hgk",
+    "name": "Rec 6 - Drum 0011 [2026-01-19 175359].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 212.00004444444446,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 6 - Drum 0011 [2026-01-19 175359].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 4770001,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 35,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ctrr": {
+    "id": "ctrr",
+    "trackId": "gwf",
+    "name": "NY1 v2 Audio-1.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 709.5433333333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/NY1 v2 Audio-1.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15964725,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 12,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "avld": {
+    "id": "avld",
+    "trackId": "irg",
+    "name": "stage73 - clip",
+    "startBeat": 0.0,
+    "lengthBeats": 2.25,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "tiybzu",
+          "note": 27,
+          "velocity": 100,
+          "beat": 0.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tiygoz",
+          "note": 41,
+          "velocity": 100,
+          "beat": 0.75,
+          "durationBeats": 0.08400817932067932,
+          "channel": 0
+        },
+        {
+          "id": "tiyfaa",
+          "note": 27,
+          "velocity": 100,
+          "beat": 1.25,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tiykbn",
+          "note": 27,
+          "velocity": 100,
+          "beat": 1.5,
+          "durationBeats": 0.12483141858141858,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 49,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "gjzx": {
+    "id": "gjzx",
+    "trackId": "ydy",
+    "name": "prophet - clip",
+    "startBeat": 0.0,
+    "lengthBeats": 4.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "tgrbar",
+          "note": 71,
+          "velocity": 100,
+          "beat": 1.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tgrdzg",
+          "note": 71,
+          "velocity": 100,
+          "beat": 1.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tgrflv",
+          "note": 71,
+          "velocity": 100,
+          "beat": 3.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "tgrflu",
+          "note": 71,
+          "velocity": 100,
+          "beat": 3.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 43,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  }
+}

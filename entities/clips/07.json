@@ -1,0 +1,6032 @@
+{
+  "tdyi": {
+    "id": "tdyi",
+    "trackId": "akl",
+    "name": "nord 0003 [2026-01-24 194328].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 4191.96875,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/nord 0003 [2026-01-24 194328].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 94319232,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 32,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "cpnu": {
+    "id": "cpnu",
+    "trackId": "hgl",
+    "name": "Rec 1 - Bass 0010 [2026-01-19 160643].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 592.0000444444445,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 1 - Bass 0010 [2026-01-19 160643].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 13320001,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 24,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "qoss": {
+    "id": "qoss",
+    "trackId": "neb",
+    "name": "NY1 v2 1-Am - Tisnat_Moonrock [2023-04-26 195658].wav",
+    "startBeat": 0.0,
+    "lengthBeats": 709.5433333333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/NY1 v2 1-Am - Tisnat_Moonrock [2023-04-26 195658].wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15964725,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 12,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "quac": {
+    "id": "quac",
+    "trackId": "trg",
+    "name": "NY1 v2 2-Group.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 709.5433333333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/NY1 v2 2-Group.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15964725,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 12,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zwds": {
+    "id": "zwds",
+    "trackId": "trg",
+    "name": "Rec 3 - Mel 0011 [2026-02-11 202929].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 404.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 3 - Mel 0011 [2026-02-11 202929].aif",
+      "sampleRate": 96000.0,
+      "channels": 2,
+      "lengthSamples": 18180000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 38,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "foxs": {
+    "id": "foxs",
+    "trackId": "ljd",
+    "name": "Centaur Percussion.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 451.0476444444444,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Centaur Percussion.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 10148572,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 5,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "uyrf": {
+    "id": "uyrf",
+    "trackId": "hgk",
+    "name": "Rec 6 - Drum 0011 [2026-01-19 175359].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 212.00004444444446,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 6 - Drum 0011 [2026-01-19 175359].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 4770001,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 25,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ooic": {
+    "id": "ooic",
+    "trackId": "hgk",
+    "name": "Rec 6 - Drum 0013 [2026-03-01 225443].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 570.8645833333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 6 - Drum 0013 [2026-03-01 225443].aif",
+      "sampleRate": 96000.0,
+      "channels": 2,
+      "lengthSamples": 25688672,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 51,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "elmv": {
+    "id": "elmv",
+    "trackId": "xkh",
+    "name": "Rec 7 - Drum 0010 [2026-01-19 160643].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 1828.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 7 - Drum 0010 [2026-01-19 160643].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 41130000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 19,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ffqi": {
+    "id": "ffqi",
+    "trackId": "stg",
+    "name": "Jan 28 stems 1-Group.aif",
+    "startBeat": 0.0,
+    "lengthBeats": 273.0667555555556,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Jan 28 stems 1-Group.aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 6144002,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 8,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "piux": {
+    "id": "piux",
+    "trackId": "stg",
+    "name": "Rec 8 - Misc 0009 [2026-02-11 211314].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 4.397533333333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 8 - Misc 0009 [2026-02-11 211314].aif",
+      "sampleRate": 96000.0,
+      "channels": 2,
+      "lengthSamples": 197889,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 37,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "jcvy": {
+    "id": "jcvy",
+    "trackId": "gwf",
+    "name": "Infinite Crate Groove v4 Vox.wav",
+    "startBeat": 0.0,
+    "lengthBeats": 805.5873333333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Infinite Crate Groove v4 Vox.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 18125715,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 7,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "garh": {
+    "id": "garh",
+    "trackId": "gwf",
+    "name": "Rec 9 - Misc 0005 [2026-02-11 220657].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 90.95966666666666,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Recorded/Rec 9 - Misc 0005 [2026-02-11 220657].aif",
+      "sampleRate": 96000.0,
+      "channels": 2,
+      "lengthSamples": 4093185,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 48,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "akiy": {
+    "id": "akiy",
+    "trackId": "ydy",
+    "name": "prophet - clip",
+    "startBeat": 0.0,
+    "lengthBeats": 1136.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "tfqpvv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 0.05308883824508825,
+          "durationBeats": 0.5683111159673659,
+          "channel": 0
+        },
+        {
+          "id": "tfqoko",
+          "note": 60,
+          "velocity": 100,
+          "beat": 0.6050444347319347,
+          "durationBeats": 0.5366443452380952,
+          "channel": 0
+        },
+        {
+          "id": "tfqszt",
+          "note": 62,
+          "velocity": 100,
+          "beat": 1.3186888632201132,
+          "durationBeats": 0.23062224234099235,
+          "channel": 0
+        },
+        {
+          "id": "tfqrma",
+          "note": 64,
+          "velocity": 100,
+          "beat": 1.9785110722610724,
+          "durationBeats": 0.9222223089410589,
+          "channel": 0
+        },
+        {
+          "id": "tfozox",
+          "note": 65,
+          "velocity": 100,
+          "beat": 2.953111211704962,
+          "durationBeats": 0.8364666583416583,
+          "channel": 0
+        },
+        {
+          "id": "tfoxtu",
+          "note": 64,
+          "velocity": 100,
+          "beat": 3.917111013986014,
+          "durationBeats": 0.6479112033799533,
+          "channel": 0
+        },
+        {
+          "id": "tfpciz",
+          "note": 62,
+          "velocity": 100,
+          "beat": 4.708933254245754,
+          "durationBeats": 0.21557791167166168,
+          "channel": 0
+        },
+        {
+          "id": "tfpauq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 5.279888861138861,
+          "durationBeats": 0.5535779324841825,
+          "channel": 0
+        },
+        {
+          "id": "tfpaut",
+          "note": 62,
+          "velocity": 100,
+          "beat": 6.063088994338995,
+          "durationBeats": 0.5558889027639028,
+          "channel": 0
+        },
+        {
+          "id": "tfpfkk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 6.8869110056610054,
+          "durationBeats": 0.7063556235431235,
+          "channel": 0
+        },
+        {
+          "id": "tfpdyr",
+          "note": 72,
+          "velocity": 100,
+          "beat": 7.663177707708957,
+          "durationBeats": 0.5092444014319014,
+          "channel": 0
+        },
+        {
+          "id": "tfpiye",
+          "note": 71,
+          "velocity": 100,
+          "beat": 8.090310991092242,
+          "durationBeats": 0.5313335102397603,
+          "channel": 0
+        },
+        {
+          "id": "tfphjz",
+          "note": 65,
+          "velocity": 100,
+          "beat": 8.891733266733267,
+          "durationBeats": 0.5435332896270396,
+          "channel": 0
+        },
+        {
+          "id": "tfphjy",
+          "note": 64,
+          "velocity": 100,
+          "beat": 9.441466606310357,
+          "durationBeats": 0.42540012071262073,
+          "channel": 0
+        },
+        {
+          "id": "tfplzt",
+          "note": 60,
+          "velocity": 100,
+          "beat": 9.993822323509823,
+          "durationBeats": 0.6867554320679321,
+          "channel": 0
+        },
+        {
+          "id": "tfpkng",
+          "note": 64,
+          "velocity": 100,
+          "beat": 10.754533227189476,
+          "durationBeats": 0.390600024975025,
+          "channel": 0
+        },
+        {
+          "id": "tfppcl",
+          "note": 64,
+          "velocity": 100,
+          "beat": 11.609266774891775,
+          "durationBeats": 0.2802000083250083,
+          "channel": 0
+        },
+        {
+          "id": "tfpnpy",
+          "note": 64,
+          "velocity": 100,
+          "beat": 12.067933368714618,
+          "durationBeats": 0.6436222631535131,
+          "channel": 0
+        },
+        {
+          "id": "tfpnqb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 13.001555475774225,
+          "durationBeats": 0.5383556547619047,
+          "channel": 0
+        },
+        {
+          "id": "tfprvg",
+          "note": 74,
+          "velocity": 100,
+          "beat": 13.588244567932067,
+          "durationBeats": 0.27968880078255076,
+          "channel": 0
+        },
+        {
+          "id": "tfpqix",
+          "note": 72,
+          "velocity": 100,
+          "beat": 14.04815549034299,
+          "durationBeats": 0.565533424908425,
+          "channel": 0
+        },
+        {
+          "id": "tfpuxy",
+          "note": 71,
+          "velocity": 100,
+          "beat": 14.791466606310356,
+          "durationBeats": 0.4848890692640693,
+          "channel": 0
+        },
+        {
+          "id": "tfptkz",
+          "note": 71,
+          "velocity": 100,
+          "beat": 15.379333426989676,
+          "durationBeats": 0.325,
+          "channel": 0
+        },
+        {
+          "id": "tfptky",
+          "note": 64,
+          "velocity": 100,
+          "beat": 16.037422213203463,
+          "durationBeats": 0.6163778929403929,
+          "channel": 0
+        },
+        {
+          "id": "tfobol",
+          "note": 60,
+          "velocity": 100,
+          "beat": 16.944222184065936,
+          "durationBeats": 0.35377773268398266,
+          "channel": 0
+        },
+        {
+          "id": "tfoale",
+          "note": 62,
+          "velocity": 100,
+          "beat": 17.47540012071262,
+          "durationBeats": 0.2482220904095904,
+          "channel": 0
+        },
+        {
+          "id": "tfofaz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 17.934111201298702,
+          "durationBeats": 0.683977741008991,
+          "channel": 0
+        },
+        {
+          "id": "tfodnw",
+          "note": 72,
+          "velocity": 100,
+          "beat": 18.71564451173826,
+          "durationBeats": 0.7037332459207459,
+          "channel": 0
+        },
+        {
+          "id": "tfodnz",
+          "note": 71,
+          "velocity": 100,
+          "beat": 19.452333343739593,
+          "durationBeats": 0.5325554653679654,
+          "channel": 0
+        },
+        {
+          "id": "tfoidq",
+          "note": 72,
+          "velocity": 100,
+          "beat": 19.913822115384615,
+          "durationBeats": 1.0466889880952381,
+          "channel": 0
+        },
+        {
+          "id": "tfoffd",
+          "note": 65,
+          "velocity": 100,
+          "beat": 21.03204451798202,
+          "durationBeats": 0.5329110993173494,
+          "channel": 0
+        },
+        {
+          "id": "tfokbo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 21.51153325840826,
+          "durationBeats": 0.5137778887778888,
+          "channel": 0
+        },
+        {
+          "id": "tfoinz",
+          "note": 60,
+          "velocity": 100,
+          "beat": 22.098555611055613,
+          "durationBeats": 0.6716666146353646,
+          "channel": 0
+        },
+        {
+          "id": "tfoiny",
+          "note": 62,
+          "velocity": 100,
+          "beat": 22.73720003954379,
+          "durationBeats": 0.5528666645854146,
+          "channel": 0
+        },
+        {
+          "id": "tfonar",
+          "note": 64,
+          "velocity": 100,
+          "beat": 23.304177853396602,
+          "durationBeats": 0.4493777056277056,
+          "channel": 0
+        },
+        {
+          "id": "tfolmy",
+          "note": 64,
+          "velocity": 100,
+          "beat": 24.12775557775558,
+          "durationBeats": 0.8518889964202464,
+          "channel": 0
+        },
+        {
+          "id": "tfopzr",
+          "note": 65,
+          "velocity": 100,
+          "beat": 25.08013340825841,
+          "durationBeats": 0.45368875915750917,
+          "channel": 0
+        },
+        {
+          "id": "tfooly",
+          "note": 64,
+          "velocity": 100,
+          "beat": 25.545733433233433,
+          "durationBeats": 0.59373334998335,
+          "channel": 0
+        },
+        {
+          "id": "tfooll",
+          "note": 65,
+          "velocity": 100,
+          "beat": 26.172155448717948,
+          "durationBeats": 0.6585999937562438,
+          "channel": 0
+        },
+        {
+          "id": "tfopoa",
+          "note": 64,
+          "velocity": 100,
+          "beat": 26.848555611055613,
+          "durationBeats": 0.7570221445221446,
+          "channel": 0
+        },
+        {
+          "id": "tfoubj",
+          "note": 65,
+          "velocity": 100,
+          "beat": 27.729911234598735,
+          "durationBeats": 0.9131553342490842,
+          "channel": 0
+        },
+        {
+          "id": "tfosna",
+          "note": 64,
+          "velocity": 100,
+          "beat": 28.626866622960375,
+          "durationBeats": 1.0253111471861471,
+          "channel": 0
+        },
+        {
+          "id": "tfoxaj",
+          "note": 65,
+          "velocity": 100,
+          "beat": 29.618422202797202,
+          "durationBeats": 0.6353110431235431,
+          "channel": 0
+        },
+        {
+          "id": "tfoxai",
+          "note": 64,
+          "velocity": 100,
+          "beat": 30.20666677072927,
+          "durationBeats": 0.885244443056943,
+          "channel": 0
+        },
+        {
+          "id": "tfovmd",
+          "note": 65,
+          "velocity": 100,
+          "beat": 31.059511061854813,
+          "durationBeats": 0.5846666354478854,
+          "channel": 0
+        },
+        {
+          "id": "tfndww",
+          "note": 64,
+          "velocity": 100,
+          "beat": 31.61497773060273,
+          "durationBeats": 0.31468895687645687,
+          "channel": 0
+        },
+        {
+          "id": "tfnchl",
+          "note": 64,
+          "velocity": 100,
+          "beat": 32.16242221320346,
+          "durationBeats": 0.6514443889443889,
+          "channel": 0
+        },
+        {
+          "id": "tfngwm",
+          "note": 65,
+          "velocity": 100,
+          "beat": 32.867533248002,
+          "durationBeats": 0.675,
+          "channel": 0
+        },
+        {
+          "id": "tfnfhr",
+          "note": 64,
+          "velocity": 100,
+          "beat": 33.65819987304362,
+          "durationBeats": 0.922644542957043,
+          "channel": 0
+        },
+        {
+          "id": "tfnjug",
+          "note": 64,
+          "velocity": 100,
+          "beat": 36.0732889506327,
+          "durationBeats": 0.46119999791874794,
+          "channel": 0
+        },
+        {
+          "id": "tfnjuj",
+          "note": 60,
+          "velocity": 100,
+          "beat": 36.64606669372294,
+          "durationBeats": 0.7435111763236764,
+          "channel": 0
+        },
+        {
+          "id": "tfnhvo",
+          "note": 62,
+          "velocity": 100,
+          "beat": 37.436488771645024,
+          "durationBeats": 0.4622000395437895,
+          "channel": 0
+        },
+        {
+          "id": "tfnmkt",
+          "note": 64,
+          "velocity": 100,
+          "beat": 38.01086673742924,
+          "durationBeats": 0.8532665251415251,
+          "channel": 0
+        },
+        {
+          "id": "tfnkvu",
+          "note": 65,
+          "velocity": 100,
+          "beat": 39.00122221528471,
+          "durationBeats": 0.4886889152514153,
+          "channel": 0
+        },
+        {
+          "id": "tfnphx",
+          "note": 64,
+          "velocity": 100,
+          "beat": 39.44415558399933,
+          "durationBeats": 0.5877554736929737,
+          "channel": 0
+        },
+        {
+          "id": "tfnphw",
+          "note": 65,
+          "velocity": 100,
+          "beat": 40.00226674367299,
+          "durationBeats": 0.7414221195471196,
+          "channel": 0
+        },
+        {
+          "id": "tfnntr",
+          "note": 64,
+          "velocity": 100,
+          "beat": 40.69808889027639,
+          "durationBeats": 0.3191776973026973,
+          "channel": 0
+        },
+        {
+          "id": "tfnsic",
+          "note": 64,
+          "velocity": 100,
+          "beat": 41.491044372294375,
+          "durationBeats": 0.3102223297535798,
+          "channel": 0
+        },
+        {
+          "id": "tfnrdt",
+          "note": 64,
+          "velocity": 100,
+          "beat": 42.061777805527804,
+          "durationBeats": 0.9216221278721278,
+          "channel": 0
+        },
+        {
+          "id": "tfnvps",
+          "note": 62,
+          "velocity": 100,
+          "beat": 42.91511119089244,
+          "durationBeats": 0.20013320013320013,
+          "channel": 0
+        },
+        {
+          "id": "tfnvpv",
+          "note": 62,
+          "velocity": 100,
+          "beat": 43.146644501332,
+          "durationBeats": 0.3934222027972028,
+          "channel": 0
+        },
+        {
+          "id": "tfnubm",
+          "note": 60,
+          "velocity": 100,
+          "beat": 44.0723333957709,
+          "durationBeats": 0.6175777347652348,
+          "channel": 0
+        },
+        {
+          "id": "tfnyof",
+          "note": 62,
+          "velocity": 100,
+          "beat": 44.72548883408258,
+          "durationBeats": 0.5748444264069265,
+          "channel": 0
+        },
+        {
+          "id": "tfnxbs",
+          "note": 64,
+          "velocity": 100,
+          "beat": 45.57128886738262,
+          "durationBeats": 0.43766676032301033,
+          "channel": 0
+        },
+        {
+          "id": "tfnxbv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 46.155444555444554,
+          "durationBeats": 0.7918888403263403,
+          "channel": 0
+        },
+        {
+          "id": "tfmera",
+          "note": 65,
+          "velocity": 100,
+          "beat": 46.98653325840826,
+          "durationBeats": 0.5218445616883117,
+          "channel": 0
+        },
+        {
+          "id": "tfmder",
+          "note": 64,
+          "velocity": 100,
+          "beat": 47.46377788877789,
+          "durationBeats": 0.5011777285214786,
+          "channel": 0
+        },
+        {
+          "id": "tfmhsm",
+          "note": 65,
+          "velocity": 100,
+          "beat": 48.02413341866467,
+          "durationBeats": 0.6939331501831502,
+          "channel": 0
+        },
+        {
+          "id": "tfmgbf",
+          "note": 74,
+          "velocity": 100,
+          "beat": 48.796733214701966,
+          "durationBeats": 0.6596445221445222,
+          "channel": 0
+        },
+        {
+          "id": "tfmgbe",
+          "note": 72,
+          "velocity": 100,
+          "beat": 49.43984453046953,
+          "durationBeats": 0.565488677988678,
+          "channel": 0
+        },
+        {
+          "id": "tfmkqz",
+          "note": 71,
+          "velocity": 100,
+          "beat": 50.03497778263403,
+          "durationBeats": 1.823977845071595,
+          "channel": 0
+        },
+        {
+          "id": "tfmjka",
+          "note": 65,
+          "velocity": 100,
+          "beat": 52.01711101398601,
+          "durationBeats": 0.6479778034465534,
+          "channel": 0
+        },
+        {
+          "id": "tfmnxj",
+          "note": 64,
+          "velocity": 100,
+          "beat": 52.70844442016317,
+          "durationBeats": 0.6388889756077256,
+          "channel": 0
+        },
+        {
+          "id": "tfmmlm",
+          "note": 60,
+          "velocity": 100,
+          "beat": 53.43971107017982,
+          "durationBeats": 0.42357772435897434,
+          "channel": 0
+        },
+        {
+          "id": "tfmmlp",
+          "note": 62,
+          "velocity": 100,
+          "beat": 53.930488782051285,
+          "durationBeats": 0.824755713036963,
+          "channel": 0
+        },
+        {
+          "id": "tfmqwi",
+          "note": 64,
+          "velocity": 100,
+          "beat": 55.02373329795205,
+          "durationBeats": 0.29648892773892777,
+          "channel": 0
+        },
+        {
+          "id": "tfmpkp",
+          "note": 64,
+          "velocity": 100,
+          "beat": 55.524177905427905,
+          "durationBeats": 0.12071105977355977,
+          "channel": 0
+        },
+        {
+          "id": "tfmtxu",
+          "note": 64,
+          "velocity": 100,
+          "beat": 56.07777769105894,
+          "durationBeats": 0.7038890796703297,
+          "channel": 0
+        },
+        {
+          "id": "tfmtyn",
+          "note": 62,
+          "velocity": 100,
+          "beat": 56.926644449300696,
+          "durationBeats": 0.4919333270895771,
+          "channel": 0
+        },
+        {
+          "id": "tfmrxg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 57.421622127872126,
+          "durationBeats": 0.41055559024309024,
+          "channel": 0
+        },
+        {
+          "id": "tfmwml",
+          "note": 64,
+          "velocity": 100,
+          "beat": 58.096600014568764,
+          "durationBeats": 0.5713333541458542,
+          "channel": 0
+        },
+        {
+          "id": "tfmuva",
+          "note": 64,
+          "velocity": 100,
+          "beat": 58.708466793623046,
+          "durationBeats": 0.1246219925907426,
+          "channel": 0
+        },
+        {
+          "id": "tfmzkf",
+          "note": 65,
+          "velocity": 100,
+          "beat": 58.865310991092244,
+          "durationBeats": 0.6061113365800865,
+          "channel": 0
+        },
+        {
+          "id": "tfmzke",
+          "note": 65,
+          "velocity": 100,
+          "beat": 60.05013346028971,
+          "durationBeats": 0.5924221611721612,
+          "channel": 0
+        },
+        {
+          "id": "tfmxxv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 60.87446667915418,
+          "durationBeats": 0.5087555673493174,
+          "channel": 0
+        },
+        {
+          "id": "tflgfm",
+          "note": 64,
+          "velocity": 100,
+          "beat": 61.549377705627705,
+          "durationBeats": 0.11006675616050617,
+          "channel": 0
+        },
+        {
+          "id": "tfletd",
+          "note": 60,
+          "velocity": 100,
+          "beat": 62.02244448260073,
+          "durationBeats": 0.5922665875790876,
+          "channel": 0
+        },
+        {
+          "id": "tfljho",
+          "note": 64,
+          "velocity": 100,
+          "beat": 62.98380005411256,
+          "durationBeats": 0.3266444493006993,
+          "channel": 0
+        },
+        {
+          "id": "tfljhr",
+          "note": 64,
+          "velocity": 100,
+          "beat": 64.03793342074592,
+          "durationBeats": 0.6367999188311688,
+          "channel": 0
+        },
+        {
+          "id": "tflhqw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 64.73146671037296,
+          "durationBeats": 0.54795542998668,
+          "channel": 0
+        },
+        {
+          "id": "tflmfl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 65.24362226315351,
+          "durationBeats": 0.6223555090742591,
+          "channel": 0
+        },
+        {
+          "id": "tflnfo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 65.92126675407926,
+          "durationBeats": 1.1140666625041624,
+          "channel": 0
+        },
+        {
+          "id": "tfllsp",
+          "note": 72,
+          "velocity": 100,
+          "beat": 67.00628876332001,
+          "durationBeats": 0.5533557588245088,
+          "channel": 0
+        },
+        {
+          "id": "tfllso",
+          "note": 71,
+          "velocity": 100,
+          "beat": 67.50373324592074,
+          "durationBeats": 0.4786000457875458,
+          "channel": 0
+        },
+        {
+          "id": "tflqdl",
+          "note": 64,
+          "velocity": 100,
+          "beat": 68.08915563603064,
+          "durationBeats": 0.7630442474192474,
+          "channel": 0
+        },
+        {
+          "id": "tflouq",
+          "note": 62,
+          "velocity": 100,
+          "beat": 68.84204441391941,
+          "durationBeats": 0.2065777972027972,
+          "channel": 0
+        },
+        {
+          "id": "tflthj",
+          "note": 62,
+          "velocity": 100,
+          "beat": 69.19531119921744,
+          "durationBeats": 0.6360889110889111,
+          "channel": 0
+        },
+        {
+          "id": "tflrtq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 69.99773325632701,
+          "durationBeats": 0.31171120546120545,
+          "channel": 0
+        },
+        {
+          "id": "tflrtt",
+          "note": 64,
+          "velocity": 100,
+          "beat": 72.032466751998,
+          "durationBeats": 0.7345110618548119,
+          "channel": 0
+        },
+        {
+          "id": "tflwlg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 72.75022217365968,
+          "durationBeats": 0.692222360972361,
+          "channel": 0
+        },
+        {
+          "id": "tfluxr",
+          "note": 62,
+          "velocity": 100,
+          "beat": 73.42248896936397,
+          "durationBeats": 0.5298664876789877,
+          "channel": 0
+        },
+        {
+          "id": "tflzpe",
+          "note": 64,
+          "velocity": 100,
+          "beat": 73.99088879870129,
+          "durationBeats": 1.0671778742091242,
+          "channel": 0
+        },
+        {
+          "id": "tflzph",
+          "note": 72,
+          "velocity": 100,
+          "beat": 75.06066667707293,
+          "durationBeats": 0.4950221653346653,
+          "channel": 0
+        },
+        {
+          "id": "tflyay",
+          "note": 71,
+          "velocity": 100,
+          "beat": 75.48551110347985,
+          "durationBeats": 0.5202888257575757,
+          "channel": 0
+        },
+        {
+          "id": "tfmcoh",
+          "note": 64,
+          "velocity": 100,
+          "beat": 76.0374000999001,
+          "durationBeats": 0.7102220695970696,
+          "channel": 0
+        },
+        {
+          "id": "tfmale",
+          "note": 60,
+          "velocity": 100,
+          "beat": 76.72828889860139,
+          "durationBeats": 0.6079776993839494,
+          "channel": 0
+        },
+        {
+          "id": "tfkimf",
+          "note": 62,
+          "velocity": 100,
+          "beat": 77.33284449925075,
+          "durationBeats": 0.7304666687479188,
+          "channel": 0
+        },
+        {
+          "id": "tfkgxw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 78.06300002081252,
+          "durationBeats": 0.8667556401931402,
+          "channel": 0
+        },
+        {
+          "id": "tfkgxz",
+          "note": 74,
+          "velocity": 100,
+          "beat": 79.02257768273394,
+          "durationBeats": 0.517711195054945,
+          "channel": 0
+        },
+        {
+          "id": "tfklqc",
+          "note": 72,
+          "velocity": 100,
+          "beat": 79.47280011655012,
+          "durationBeats": 0.5121555527805528,
+          "channel": 0
+        },
+        {
+          "id": "tfkkbh",
+          "note": 64,
+          "velocity": 100,
+          "beat": 80.03626659798535,
+          "durationBeats": 0.7512667020479521,
+          "channel": 0
+        },
+        {
+          "id": "tfkosu",
+          "note": 60,
+          "velocity": 100,
+          "beat": 80.78188894438894,
+          "durationBeats": 0.6376665001665002,
+          "channel": 0
+        },
+        {
+          "id": "tfkngl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 81.38717766608391,
+          "durationBeats": 0.6227335164835165,
+          "channel": 0
+        },
+        {
+          "id": "tfkngk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 82.00617767649018,
+          "durationBeats": 0.9059999895937396,
+          "channel": 0
+        },
+        {
+          "id": "tfkrtd",
+          "note": 72,
+          "velocity": 100,
+          "beat": 82.59826657717282,
+          "durationBeats": 1.1144444097569097,
+          "channel": 0
+        },
+        {
+          "id": "tfkqjc",
+          "note": 74,
+          "velocity": 100,
+          "beat": 83.66199997918748,
+          "durationBeats": 1.0686443764568765,
+          "channel": 0
+        },
+        {
+          "id": "tfkuvv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 84.680200008325,
+          "durationBeats": 0.9224444826007326,
+          "channel": 0
+        },
+        {
+          "id": "tfktji",
+          "note": 62,
+          "velocity": 100,
+          "beat": 85.64988891317016,
+          "durationBeats": 0.4988443847818848,
+          "channel": 0
+        },
+        {
+          "id": "tfktiv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 86.1482889506327,
+          "durationBeats": 0.16117762445887446,
+          "channel": 0
+        },
+        {
+          "id": "tfkxhg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 86.33193343115218,
+          "durationBeats": 0.6717332147019647,
+          "channel": 0
+        },
+        {
+          "id": "tfkvrv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 88.08502226939727,
+          "durationBeats": 0.6937999500499501,
+          "channel": 0
+        },
+        {
+          "id": "tflajy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 88.81326668123543,
+          "durationBeats": 0.5403554778554779,
+          "channel": 0
+        },
+        {
+          "id": "tfkywz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 89.37104432026307,
+          "durationBeats": 0.9047111742424242,
+          "channel": 0
+        },
+        {
+          "id": "tfkywy",
+          "note": 64,
+          "velocity": 100,
+          "beat": 91.9532888986014,
+          "durationBeats": 0.8101999562937063,
+          "channel": 0
+        },
+        {
+          "id": "tfldkh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 92.79997788669664,
+          "durationBeats": 0.6797777743090243,
+          "channel": 0
+        },
+        {
+          "id": "tflbzq",
+          "note": 62,
+          "velocity": 100,
+          "beat": 93.48159991050616,
+          "durationBeats": 0.5784668456543457,
+          "channel": 0
+        },
+        {
+          "id": "tfjkbx",
+          "note": 64,
+          "velocity": 100,
+          "beat": 94.04326662920413,
+          "durationBeats": 1.0162668061105562,
+          "channel": 0
+        },
+        {
+          "id": "tfjioe",
+          "note": 72,
+          "velocity": 100,
+          "beat": 95.00813327297702,
+          "durationBeats": 0.550777867965368,
+          "channel": 0
+        },
+        {
+          "id": "tfjioh",
+          "note": 74,
+          "velocity": 100,
+          "beat": 95.50264449092575,
+          "durationBeats": 0.4583778200965701,
+          "channel": 0
+        },
+        {
+          "id": "tfjndi",
+          "note": 64,
+          "velocity": 100,
+          "beat": 96.01079987720613,
+          "durationBeats": 0.8319558046120547,
+          "channel": 0
+        },
+        {
+          "id": "tfjlsf",
+          "note": 60,
+          "velocity": 100,
+          "beat": 96.80037774725275,
+          "durationBeats": 0.5213778409090909,
+          "channel": 0
+        },
+        {
+          "id": "tfjpno",
+          "note": 62,
+          "velocity": 100,
+          "beat": 97.32968880078255,
+          "durationBeats": 0.6964668144355645,
+          "channel": 0
+        },
+        {
+          "id": "tfjnzz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 97.99160006660007,
+          "durationBeats": 0.7656221382783883,
+          "channel": 0
+        },
+        {
+          "id": "tfjnzy",
+          "note": 71,
+          "velocity": 100,
+          "beat": 98.6710222069597,
+          "durationBeats": 0.8355334769397269,
+          "channel": 0
+        },
+        {
+          "id": "tfjspd",
+          "note": 72,
+          "velocity": 100,
+          "beat": 99.43293321262071,
+          "durationBeats": 0.6172223609723609,
+          "channel": 0
+        },
+        {
+          "id": "tfjrdg",
+          "note": 64,
+          "velocity": 100,
+          "beat": 100.00319992507492,
+          "durationBeats": 0.8516223359973359,
+          "channel": 0
+        },
+        {
+          "id": "tfjvtb",
+          "note": 62,
+          "velocity": 100,
+          "beat": 100.78693337912088,
+          "durationBeats": 0.6391556360306361,
+          "channel": 0
+        },
+        {
+          "id": "tfjues",
+          "note": 64,
+          "velocity": 100,
+          "beat": 101.31864437645687,
+          "durationBeats": 0.33420017482517483,
+          "channel": 0
+        },
+        {
+          "id": "tfjuev",
+          "note": 62,
+          "velocity": 100,
+          "beat": 101.48162228396603,
+          "durationBeats": 0.772110961954712,
+          "channel": 0
+        },
+        {
+          "id": "tfjyum",
+          "note": 64,
+          "velocity": 100,
+          "beat": 102.20182213619714,
+          "durationBeats": 0.8692445575258075,
+          "channel": 0
+        },
+        {
+          "id": "tfjxit",
+          "note": 60,
+          "velocity": 100,
+          "beat": 103.00617767649018,
+          "durationBeats": 0.5517113095238095,
+          "channel": 0
+        },
+        {
+          "id": "tfkbyk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 103.50275557775558,
+          "durationBeats": 0.9100667561605061,
+          "channel": 0
+        },
+        {
+          "id": "tfkakv",
+          "note": 74,
+          "velocity": 100,
+          "beat": 104.15708900474526,
+          "durationBeats": 0.8004888340825841,
+          "channel": 0
+        },
+        {
+          "id": "tfkezw",
+          "note": 72,
+          "velocity": 100,
+          "beat": 104.87377778471529,
+          "durationBeats": 0.710600077006327,
+          "channel": 0
+        },
+        {
+          "id": "tfkezz",
+          "note": 71,
+          "velocity": 100,
+          "beat": 105.53155568389943,
+          "durationBeats": 2.447044361888112,
+          "channel": 0
+        },
+        {
+          "id": "tfkfuo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 108.01359994172495,
+          "durationBeats": 0.6250223734598734,
+          "channel": 0
+        },
+        {
+          "id": "tfkeif",
+          "note": 60,
+          "velocity": 100,
+          "beat": 108.81635551948052,
+          "durationBeats": 0.7149111305361305,
+          "channel": 0
+        },
+        {
+          "id": "tfimky",
+          "note": 62,
+          "velocity": 100,
+          "beat": 109.47722225690976,
+          "durationBeats": 0.5484666375291375,
+          "channel": 0
+        },
+        {
+          "id": "tfikyp",
+          "note": 64,
+          "velocity": 100,
+          "beat": 109.97997783466533,
+          "durationBeats": 1.1149332438394939,
+          "channel": 0
+        },
+        {
+          "id": "tfikyo",
+          "note": 74,
+          "velocity": 100,
+          "beat": 111.00228885697636,
+          "durationBeats": 0.5546888007825508,
+          "channel": 0
+        },
+        {
+          "id": "tfipnd",
+          "note": 72,
+          "velocity": 100,
+          "beat": 111.50304435148185,
+          "durationBeats": 0.5466889880952381,
+          "channel": 0
+        },
+        {
+          "id": "tfiobg",
+          "note": 64,
+          "velocity": 100,
+          "beat": 112.01497773060274,
+          "durationBeats": 0.8214889277389278,
+          "channel": 0
+        },
+        {
+          "id": "tfispv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 112.76915558399934,
+          "durationBeats": 0.726933223026973,
+          "channel": 0
+        },
+        {
+          "id": "tfispu",
+          "note": 62,
+          "velocity": 100,
+          "beat": 113.51091122419247,
+          "durationBeats": 0.5211109203296703,
+          "channel": 0
+        },
+        {
+          "id": "tfireb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 114.01466658341658,
+          "durationBeats": 1.1016889360639361,
+          "channel": 0
+        },
+        {
+          "id": "tfivsm",
+          "note": 72,
+          "velocity": 100,
+          "beat": 114.95422234015984,
+          "durationBeats": 0.6695775578588079,
+          "channel": 0
+        },
+        {
+          "id": "tfiugt",
+          "note": 74,
+          "velocity": 100,
+          "beat": 115.49953327922078,
+          "durationBeats": 0.6443777576590076,
+          "channel": 0
+        },
+        {
+          "id": "tfiyve",
+          "note": 60,
+          "velocity": 100,
+          "beat": 116.10282217782218,
+          "durationBeats": 0.6757554945054945,
+          "channel": 0
+        },
+        {
+          "id": "tfiymb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 116.74604432026307,
+          "durationBeats": 1.1440223838661339,
+          "channel": 0
+        },
+        {
+          "id": "tfiwxc",
+          "note": 62,
+          "velocity": 100,
+          "beat": 117.31811105561106,
+          "durationBeats": 0.17380015817515818,
+          "channel": 0
+        },
+        {
+          "id": "tfjblb",
+          "note": 62,
+          "velocity": 100,
+          "beat": 117.79217787420913,
+          "durationBeats": 1.2831777597402598,
+          "channel": 0
+        },
+        {
+          "id": "tfizwc",
+          "note": 72,
+          "velocity": 100,
+          "beat": 118.85955554861805,
+          "durationBeats": 0.7494887924575424,
+          "channel": 0
+        },
+        {
+          "id": "tfjekb",
+          "note": 71,
+          "velocity": 100,
+          "beat": 119.49868881118881,
+          "durationBeats": 0.537044465950716,
+          "channel": 0
+        },
+        {
+          "id": "tfjeka",
+          "note": 64,
+          "velocity": 100,
+          "beat": 120.00573332917082,
+          "durationBeats": 0.8075554653679654,
+          "channel": 0
+        },
+        {
+          "id": "tfjcvf",
+          "note": 60,
+          "velocity": 100,
+          "beat": 120.73117767649018,
+          "durationBeats": 0.8650222173659674,
+          "channel": 0
+        },
+        {
+          "id": "tfjhja",
+          "note": 62,
+          "velocity": 100,
+          "beat": 121.53264443889444,
+          "durationBeats": 0.6595555486180487,
+          "channel": 0
+        },
+        {
+          "id": "tfjfuf",
+          "note": 64,
+          "velocity": 100,
+          "beat": 122.11786676864801,
+          "durationBeats": 1.6831108995171495,
+          "channel": 0
+        },
+        {
+          "id": "tfhnvc",
+          "note": 64,
+          "velocity": 100,
+          "beat": 124.00224437021312,
+          "durationBeats": 0.8175777347652348,
+          "channel": 0
+        },
+        {
+          "id": "tfhmgx",
+          "note": 60,
+          "velocity": 100,
+          "beat": 124.78408882783883,
+          "durationBeats": 0.6382890546953047,
+          "channel": 0
+        },
+        {
+          "id": "tfhmgw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 125.33419991466866,
+          "durationBeats": 1.2770221965534465,
+          "channel": 0
+        },
+        {
+          "id": "tfhquf",
+          "note": 64,
+          "velocity": 100,
+          "beat": 128.0206223464036,
+          "durationBeats": 0.722533195970696,
+          "channel": 0
+        },
+        {
+          "id": "tfhpfw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 128.70795558608057,
+          "durationBeats": 0.7692666708291709,
+          "channel": 0
+        },
+        {
+          "id": "tfhttf",
+          "note": 62,
+          "velocity": 100,
+          "beat": 129.49702224858476,
+          "durationBeats": 0.5271556568431568,
+          "channel": 0
+        },
+        {
+          "id": "tfhtte",
+          "note": 64,
+          "velocity": 100,
+          "beat": 130.005200008325,
+          "durationBeats": 1.052711090992341,
+          "channel": 0
+        },
+        {
+          "id": "tfhsez",
+          "note": 72,
+          "velocity": 100,
+          "beat": 130.97080003330004,
+          "durationBeats": 0.5480444035131535,
+          "channel": 0
+        },
+        {
+          "id": "tfhwro",
+          "note": 74,
+          "velocity": 100,
+          "beat": 131.4491110452048,
+          "durationBeats": 0.42644438894438896,
+          "channel": 0
+        },
+        {
+          "id": "tfhvct",
+          "note": 64,
+          "velocity": 100,
+          "beat": 131.9465779012654,
+          "durationBeats": 0.8421999875124875,
+          "channel": 0
+        },
+        {
+          "id": "tfhzru",
+          "note": 60,
+          "velocity": 100,
+          "beat": 132.747733256327,
+          "durationBeats": 0.6638889756077256,
+          "channel": 0
+        },
+        {
+          "id": "tfhzrx",
+          "note": 62,
+          "velocity": 100,
+          "beat": 133.38317775974025,
+          "durationBeats": 0.6237111846486847,
+          "channel": 0
+        },
+        {
+          "id": "tfhycy",
+          "note": 64,
+          "velocity": 100,
+          "beat": 133.9741110452048,
+          "durationBeats": 2.2751555735930737,
+          "channel": 0
+        },
+        {
+          "id": "tficpr",
+          "note": 62,
+          "velocity": 100,
+          "beat": 136.12593344155843,
+          "durationBeats": 0.8883332813020313,
+          "channel": 0
+        },
+        {
+          "id": "tfibas",
+          "note": 74,
+          "velocity": 100,
+          "beat": 136.73093338952714,
+          "durationBeats": 0.5015333624708624,
+          "channel": 0
+        },
+        {
+          "id": "tfifph",
+          "note": 72,
+          "velocity": 100,
+          "beat": 137.1059555028305,
+          "durationBeats": 0.7761335019147519,
+          "channel": 0
+        },
+        {
+          "id": "tfifpg",
+          "note": 71,
+          "velocity": 100,
+          "beat": 137.81415563603065,
+          "durationBeats": 0.45828884657009655,
+          "channel": 0
+        },
+        {
+          "id": "tfiebb",
+          "note": 60,
+          "velocity": 100,
+          "beat": 138.34631124084248,
+          "durationBeats": 0.5725553092740593,
+          "channel": 0
+        },
+        {
+          "id": "tfiina",
+          "note": 64,
+          "velocity": 100,
+          "beat": 138.86426672286046,
+          "durationBeats": 0.6915555798368298,
+          "channel": 0
+        },
+        {
+          "id": "tfigyv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 140.31975550491177,
+          "durationBeats": 0.324155531968032,
+          "channel": 0
+        },
+        {
+          "id": "tfigyu",
+          "note": 64,
+          "velocity": 100,
+          "beat": 141.08159991050616,
+          "durationBeats": 0.7540888798701298,
+          "channel": 0
+        },
+        {
+          "id": "tfgpbb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 144.0722444222444,
+          "durationBeats": 0.7451556256243757,
+          "channel": 0
+        },
+        {
+          "id": "tfgnms",
+          "note": 60,
+          "velocity": 100,
+          "beat": 144.7838445408758,
+          "durationBeats": 0.7082888465700966,
+          "channel": 0
+        },
+        {
+          "id": "tfgsar",
+          "note": 62,
+          "velocity": 100,
+          "beat": 145.45777789918415,
+          "durationBeats": 0.7119110056610056,
+          "channel": 0
+        },
+        {
+          "id": "tfgqjg",
+          "note": 64,
+          "velocity": 100,
+          "beat": 146.08255546536796,
+          "durationBeats": 0.9788222194472195,
+          "channel": 0
+        },
+        {
+          "id": "tfgqjj",
+          "note": 72,
+          "velocity": 100,
+          "beat": 146.99926661879786,
+          "durationBeats": 0.5548667478354978,
+          "channel": 0
+        },
+        {
+          "id": "tfguxe",
+          "note": 71,
+          "velocity": 100,
+          "beat": 147.4313556235431,
+          "durationBeats": 0.5349554091741592,
+          "channel": 0
+        },
+        {
+          "id": "tfgtkv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 147.98540001665,
+          "durationBeats": 0.7990223318348318,
+          "channel": 0
+        },
+        {
+          "id": "tfgxwe",
+          "note": 60,
+          "velocity": 100,
+          "beat": 148.74628886738262,
+          "durationBeats": 0.7655334249084249,
+          "channel": 0
+        },
+        {
+          "id": "tfgxwh",
+          "note": 62,
+          "velocity": 100,
+          "beat": 149.5136444284882,
+          "durationBeats": 0.5303110951548452,
+          "channel": 0
+        },
+        {
+          "id": "tfgwju",
+          "note": 64,
+          "velocity": 100,
+          "beat": 149.98884448884448,
+          "durationBeats": 1.0125777867965369,
+          "channel": 0
+        },
+        {
+          "id": "tfhaxd",
+          "note": 74,
+          "velocity": 100,
+          "beat": 150.98837776806528,
+          "durationBeats": 0.49506665209790207,
+          "channel": 0
+        },
+        {
+          "id": "tfhchc",
+          "note": 72,
+          "velocity": 100,
+          "beat": 151.41502221736596,
+          "durationBeats": 0.621266754079254,
+          "channel": 0
+        },
+        {
+          "id": "tfhavj",
+          "note": 64,
+          "velocity": 100,
+          "beat": 152.02133335414587,
+          "durationBeats": 1.02711117007992,
+          "channel": 0
+        },
+        {
+          "id": "tfhfgc",
+          "note": 60,
+          "velocity": 100,
+          "beat": 152.94397789710288,
+          "durationBeats": 0.6710443202630703,
+          "channel": 0
+        },
+        {
+          "id": "tfhfgf",
+          "note": 62,
+          "velocity": 100,
+          "beat": 153.5127333603896,
+          "durationBeats": 0.6053110951548452,
+          "channel": 0
+        },
+        {
+          "id": "tfhdrw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 154.04291099525474,
+          "durationBeats": 0.894755765068265,
+          "channel": 0
+        },
+        {
+          "id": "tfhihr",
+          "note": 74,
+          "velocity": 100,
+          "beat": 154.94975545288045,
+          "durationBeats": 0.5167111534299035,
+          "channel": 0
+        },
+        {
+          "id": "tfhgqw",
+          "note": 72,
+          "velocity": 100,
+          "beat": 155.40022217365967,
+          "durationBeats": 0.6012445887445887,
+          "channel": 0
+        },
+        {
+          "id": "tfhlfl",
+          "note": 64,
+          "velocity": 100,
+          "beat": 156.041444493007,
+          "durationBeats": 0.7904889381451882,
+          "channel": 0
+        },
+        {
+          "id": "tfhlfk",
+          "note": 60,
+          "velocity": 100,
+          "beat": 156.78042218198468,
+          "durationBeats": 0.9250666000666,
+          "channel": 0
+        },
+        {
+          "id": "tfhjtb",
+          "note": 62,
+          "velocity": 100,
+          "beat": 157.42182218822845,
+          "durationBeats": 0.7639555756743257,
+          "channel": 0
+        },
+        {
+          "id": "tffrqw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 158.09937770562772,
+          "durationBeats": 0.9790001665001665,
+          "channel": 0
+        },
+        {
+          "id": "tffqen",
+          "note": 74,
+          "velocity": 100,
+          "beat": 159.01339988136863,
+          "durationBeats": 0.5430002289377289,
+          "channel": 0
+        },
+        {
+          "id": "tffqem",
+          "note": 72,
+          "velocity": 100,
+          "beat": 159.48873340201465,
+          "durationBeats": 0.5600222693972694,
+          "channel": 0
+        },
+        {
+          "id": "tffuot",
+          "note": 64,
+          "velocity": 100,
+          "beat": 160.0539777930403,
+          "durationBeats": 0.8484000374625374,
+          "channel": 0
+        },
+        {
+          "id": "tfftcg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 160.89048893814518,
+          "durationBeats": 0.6373777264402264,
+          "channel": 0
+        },
+        {
+          "id": "tffxrl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 161.45811115967365,
+          "durationBeats": 0.5888887154512155,
+          "channel": 0
+        },
+        {
+          "id": "tffvzk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 162.046644501332,
+          "durationBeats": 0.8725110826673327,
+          "channel": 0
+        },
+        {
+          "id": "tfgapf",
+          "note": 74,
+          "velocity": 100,
+          "beat": 162.95946657509157,
+          "durationBeats": 0.4919112137862138,
+          "channel": 0
+        },
+        {
+          "id": "tfgape",
+          "note": 72,
+          "velocity": 100,
+          "beat": 163.4011556152181,
+          "durationBeats": 0.5443332708957709,
+          "channel": 0
+        },
+        {
+          "id": "tffzcf",
+          "note": 64,
+          "velocity": 100,
+          "beat": 164.01675564019314,
+          "durationBeats": 0.6762222152847153,
+          "channel": 0
+        },
+        {
+          "id": "tfgdmy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 164.66148877164503,
+          "durationBeats": 0.7254001207126207,
+          "channel": 0
+        },
+        {
+          "id": "tfgbzz",
+          "note": 62,
+          "velocity": 100,
+          "beat": 165.40215565684315,
+          "durationBeats": 0.5347777222777222,
+          "channel": 0
+        },
+        {
+          "id": "tfgbzy",
+          "note": 64,
+          "velocity": 100,
+          "beat": 165.92168898809524,
+          "durationBeats": 1.1017110493672995,
+          "channel": 0
+        },
+        {
+          "id": "tfggon",
+          "note": 74,
+          "velocity": 100,
+          "beat": 166.92915547993672,
+          "durationBeats": 0.5882666812354312,
+          "channel": 0
+        },
+        {
+          "id": "tfgfau",
+          "note": 72,
+          "velocity": 100,
+          "beat": 167.47028882575756,
+          "durationBeats": 0.5872666396103896,
+          "channel": 0
+        },
+        {
+          "id": "tfgjnn",
+          "note": 64,
+          "velocity": 100,
+          "beat": 168.01797785547785,
+          "durationBeats": 0.8590888278388278,
+          "channel": 0
+        },
+        {
+          "id": "tfghuw",
+          "note": 62,
+          "velocity": 100,
+          "beat": 168.74957776598401,
+          "durationBeats": 0.7852223297535798,
+          "channel": 0
+        },
+        {
+          "id": "tfgmhp",
+          "note": 60,
+          "velocity": 100,
+          "beat": 169.5001334602897,
+          "durationBeats": 0.4430220820845821,
+          "channel": 0
+        },
+        {
+          "id": "tfgmho",
+          "note": 62,
+          "velocity": 100,
+          "beat": 169.9034220987346,
+          "durationBeats": 1.1361999979187478,
+          "channel": 0
+        },
+        {
+          "id": "tfgktz",
+          "note": 74,
+          "velocity": 100,
+          "beat": 170.91311110764235,
+          "durationBeats": 0.6098666958041958,
+          "channel": 0
+        },
+        {
+          "id": "tfesze",
+          "note": 72,
+          "velocity": 100,
+          "beat": 171.43811110764236,
+          "durationBeats": 0.5622666396103896,
+          "channel": 0
+        },
+        {
+          "id": "tferkz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 171.96291104728604,
+          "durationBeats": 0.7749555132367633,
+          "channel": 0
+        },
+        {
+          "id": "tferky",
+          "note": 60,
+          "velocity": 100,
+          "beat": 172.67771109099235,
+          "durationBeats": 0.8177556818181818,
+          "channel": 0
+        },
+        {
+          "id": "tfevtj",
+          "note": 62,
+          "velocity": 100,
+          "beat": 173.44011119089245,
+          "durationBeats": 0.5859778242590743,
+          "channel": 0
+        },
+        {
+          "id": "tfeufa",
+          "note": 64,
+          "velocity": 100,
+          "beat": 173.98913326257076,
+          "durationBeats": 1.9908000853313352,
+          "channel": 0
+        },
+        {
+          "id": "tfeysj",
+          "note": 64,
+          "velocity": 100,
+          "beat": 176.1433556027306,
+          "durationBeats": 0.05715560481185481,
+          "channel": 0
+        },
+        {
+          "id": "tfexiy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 176.2128665605228,
+          "durationBeats": 0.548422410922411,
+          "channel": 0
+        },
+        {
+          "id": "tfexjb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 180.03597782425908,
+          "durationBeats": 1.831022102897103,
+          "channel": 0
+        },
+        {
+          "id": "tffbwg",
+          "note": 64,
+          "velocity": 100,
+          "beat": 181.90175553613054,
+          "durationBeats": 0.14513325216450215,
+          "channel": 0
+        },
+        {
+          "id": "tffair",
+          "note": 64,
+          "velocity": 100,
+          "beat": 184.02011113886113,
+          "durationBeats": 0.603555559024309,
+          "channel": 0
+        },
+        {
+          "id": "tffeqi",
+          "note": 60,
+          "velocity": 100,
+          "beat": 184.73402222777221,
+          "durationBeats": 0.7080666729104229,
+          "channel": 0
+        },
+        {
+          "id": "tffdbn",
+          "note": 62,
+          "velocity": 100,
+          "beat": 185.37502211330337,
+          "durationBeats": 0.6752224338161839,
+          "channel": 0
+        },
+        {
+          "id": "tffdbm",
+          "note": 64,
+          "velocity": 100,
+          "beat": 186.00604447635698,
+          "durationBeats": 1.0405555382117881,
+          "channel": 0
+        },
+        {
+          "id": "tffhtd",
+          "note": 72,
+          "velocity": 100,
+          "beat": 187.002688977689,
+          "durationBeats": 0.5157998251748251,
+          "channel": 0
+        },
+        {
+          "id": "tffggq",
+          "note": 71,
+          "velocity": 100,
+          "beat": 187.48313327297703,
+          "durationBeats": 0.5894444097569097,
+          "channel": 0
+        },
+        {
+          "id": "tffktj",
+          "note": 64,
+          "velocity": 100,
+          "beat": 188.0375556734932,
+          "durationBeats": 0.8147331834831835,
+          "channel": 0
+        },
+        {
+          "id": "tffkti",
+          "note": 60,
+          "velocity": 100,
+          "beat": 188.81953333125207,
+          "durationBeats": 0.7552221216283717,
+          "channel": 0
+        },
+        {
+          "id": "tffiyz",
+          "note": 62,
+          "velocity": 100,
+          "beat": 189.51257778679653,
+          "durationBeats": 0.5965776411088911,
+          "channel": 0
+        },
+        {
+          "id": "tffnme",
+          "note": 64,
+          "velocity": 100,
+          "beat": 190.050422234016,
+          "durationBeats": 0.5950887654012654,
+          "channel": 0
+        },
+        {
+          "id": "tfflzf",
+          "note": 74,
+          "velocity": 100,
+          "beat": 190.51217766608391,
+          "durationBeats": 0.5477556297868797,
+          "channel": 0
+        },
+        {
+          "id": "tfdufa",
+          "note": 72,
+          "velocity": 100,
+          "beat": 191.00677785755911,
+          "durationBeats": 0.5094665750915751,
+          "channel": 0
+        },
+        {
+          "id": "tfdufd",
+          "note": 74,
+          "velocity": 100,
+          "beat": 191.4328666125541,
+          "durationBeats": 0.47968906093906094,
+          "channel": 0
+        },
+        {
+          "id": "tfdspo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 191.96406666250417,
+          "durationBeats": 0.7746667395104895,
+          "channel": 0
+        },
+        {
+          "id": "tfdtxf",
+          "note": 60,
+          "velocity": 100,
+          "beat": 192.71117788461538,
+          "durationBeats": 0.6918888403263403,
+          "channel": 0
+        },
+        {
+          "id": "tfdylq",
+          "note": 62,
+          "velocity": 100,
+          "beat": 193.3040443931069,
+          "durationBeats": 0.753977793040293,
+          "channel": 0
+        },
+        {
+          "id": "tfdwxl",
+          "note": 64,
+          "velocity": 100,
+          "beat": 194.0122666396104,
+          "durationBeats": 0.6917111534299034,
+          "channel": 0
+        },
+        {
+          "id": "tfdwxk",
+          "note": 74,
+          "velocity": 100,
+          "beat": 194.54331111596736,
+          "durationBeats": 0.5319776577589077,
+          "channel": 0
+        },
+        {
+          "id": "tfebnv",
+          "note": 72,
+          "velocity": 100,
+          "beat": 194.9866443452381,
+          "durationBeats": 0.679755661005661,
+          "channel": 0
+        },
+        {
+          "id": "tfeabi",
+          "note": 71,
+          "velocity": 100,
+          "beat": 195.53984453046954,
+          "durationBeats": 0.5716442411754912,
+          "channel": 0
+        },
+        {
+          "id": "tfeeph",
+          "note": 64,
+          "velocity": 100,
+          "beat": 196.21439992299366,
+          "durationBeats": 0.6598000957375957,
+          "channel": 0
+        },
+        {
+          "id": "tfeepg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 196.81924455752582,
+          "durationBeats": 0.6751553134365634,
+          "channel": 0
+        },
+        {
+          "id": "tfectb",
+          "note": 62,
+          "velocity": 100,
+          "beat": 197.43646665834166,
+          "durationBeats": 0.557111118048618,
+          "channel": 0
+        },
+        {
+          "id": "tfehji",
+          "note": 64,
+          "velocity": 100,
+          "beat": 197.94244453463205,
+          "durationBeats": 0.950844468031968,
+          "channel": 0
+        },
+        {
+          "id": "tfefwz",
+          "note": 72,
+          "velocity": 100,
+          "beat": 198.87962220071594,
+          "durationBeats": 0.6544445138195139,
+          "channel": 0
+        },
+        {
+          "id": "tfekke",
+          "note": 71,
+          "velocity": 100,
+          "beat": 199.46657769314018,
+          "durationBeats": 0.6042444534632034,
+          "channel": 0
+        },
+        {
+          "id": "tfekkh",
+          "note": 64,
+          "velocity": 100,
+          "beat": 199.98435548826174,
+          "durationBeats": 0.8874666999666999,
+          "channel": 0
+        },
+        {
+          "id": "tfeiyk",
+          "note": 60,
+          "velocity": 100,
+          "beat": 200.78311115967367,
+          "durationBeats": 0.7502442869630369,
+          "channel": 0
+        },
+        {
+          "id": "tfenej",
+          "note": 62,
+          "velocity": 100,
+          "beat": 201.42135546744922,
+          "durationBeats": 0.6373556131368632,
+          "channel": 0
+        },
+        {
+          "id": "tfelsm",
+          "note": 64,
+          "velocity": 100,
+          "beat": 201.99459993131867,
+          "durationBeats": 0.6914223797036297,
+          "channel": 0
+        },
+        {
+          "id": "tfeqfv",
+          "note": 74,
+          "velocity": 100,
+          "beat": 202.9358888507326,
+          "durationBeats": 0.7587555673493174,
+          "channel": 0
+        },
+        {
+          "id": "tfeqfu",
+          "note": 72,
+          "velocity": 100,
+          "beat": 203.6614221715784,
+          "durationBeats": 0.14188884032634033,
+          "channel": 0
+        },
+        {
+          "id": "tfeoub",
+          "note": 64,
+          "velocity": 100,
+          "beat": 203.66288893398269,
+          "durationBeats": 1.085177842990343,
+          "channel": 0
+        },
+        {
+          "id": "tfcwwu",
+          "note": 62,
+          "velocity": 100,
+          "beat": 204.72626670204795,
+          "durationBeats": 0.9156887383449883,
+          "channel": 0
+        },
+        {
+          "id": "tfcvap",
+          "note": 60,
+          "velocity": 100,
+          "beat": 205.6322666916417,
+          "durationBeats": 0.5737998980186481,
+          "channel": 0
+        },
+        {
+          "id": "tfcvao",
+          "note": 62,
+          "velocity": 100,
+          "beat": 206.13195554445554,
+          "durationBeats": 0.6286445325507826,
+          "channel": 0
+        },
+        {
+          "id": "tfczpt",
+          "note": 64,
+          "velocity": 100,
+          "beat": 208.05319992507492,
+          "durationBeats": 0.8066667707292707,
+          "channel": 0
+        },
+        {
+          "id": "tfcydg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 208.83144433691308,
+          "durationBeats": 0.6749557733932734,
+          "channel": 0
+        },
+        {
+          "id": "tfdcsl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 209.40579992923742,
+          "durationBeats": 0.6574001519314019,
+          "channel": 0
+        },
+        {
+          "id": "tfdcsk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 210.0115111451049,
+          "durationBeats": 1.0666666666666667,
+          "channel": 0
+        },
+        {
+          "id": "tfdbgb",
+          "note": 74,
+          "velocity": 100,
+          "beat": 211.0274665438728,
+          "durationBeats": 0.6167780136530137,
+          "channel": 0
+        },
+        {
+          "id": "tfdfum",
+          "note": 72,
+          "velocity": 100,
+          "beat": 211.55235545704295,
+          "durationBeats": 0.5900667041292041,
+          "channel": 0
+        },
+        {
+          "id": "tfddyx",
+          "note": 64,
+          "velocity": 100,
+          "beat": 212.11206657925408,
+          "durationBeats": 0.9162889194139194,
+          "channel": 0
+        },
+        {
+          "id": "tfdini",
+          "note": 60,
+          "velocity": 100,
+          "beat": 212.98191105769232,
+          "durationBeats": 0.6555777555777555,
+          "channel": 0
+        },
+        {
+          "id": "tfdinl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 213.54682218822845,
+          "durationBeats": 0.5310665896603397,
+          "channel": 0
+        },
+        {
+          "id": "tfdhbo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 214.0142443494006,
+          "durationBeats": 0.852822437978688,
+          "channel": 0
+        },
+        {
+          "id": "tfdlqd",
+          "note": 71,
+          "velocity": 100,
+          "beat": 214.70426656676656,
+          "durationBeats": 0.7264001623376624,
+          "channel": 0
+        },
+        {
+          "id": "tfdkeg",
+          "note": 72,
+          "velocity": 100,
+          "beat": 215.32462225274725,
+          "durationBeats": 0.8011777285214785,
+          "channel": 0
+        },
+        {
+          "id": "tfdoij",
+          "note": 64,
+          "velocity": 100,
+          "beat": 216.0000889735265,
+          "durationBeats": 0.8519555964868465,
+          "channel": 0
+        },
+        {
+          "id": "tfdoii",
+          "note": 60,
+          "velocity": 100,
+          "beat": 216.7823998917749,
+          "durationBeats": 0.6567112574925075,
+          "channel": 0
+        },
+        {
+          "id": "tfdmtn",
+          "note": 62,
+          "velocity": 100,
+          "beat": 217.3695112179487,
+          "durationBeats": 0.6634219946719947,
+          "channel": 0
+        },
+        {
+          "id": "tfdrhi",
+          "note": 64,
+          "velocity": 100,
+          "beat": 217.9875999000999,
+          "durationBeats": 0.6588666541791541,
+          "channel": 0
+        },
+        {
+          "id": "tfdpsn",
+          "note": 74,
+          "velocity": 100,
+          "beat": 218.49459993131867,
+          "durationBeats": 0.6336444805194805,
+          "channel": 0
+        },
+        {
+          "id": "tfdpsm",
+          "note": 72,
+          "velocity": 100,
+          "beat": 219.02408893190145,
+          "durationBeats": 0.5331553862803863,
+          "channel": 0
+        },
+        {
+          "id": "tfbxud",
+          "note": 71,
+          "velocity": 100,
+          "beat": 219.49806677697302,
+          "durationBeats": 0.4318220841658342,
+          "channel": 0
+        },
+        {
+          "id": "tfbwpa",
+          "note": 64,
+          "velocity": 100,
+          "beat": 219.979777774309,
+          "durationBeats": 0.8439110368797869,
+          "channel": 0
+        },
+        {
+          "id": "tfcbcj",
+          "note": 60,
+          "velocity": 100,
+          "beat": 220.76079987720613,
+          "durationBeats": 0.6571334915084915,
+          "channel": 0
+        },
+        {
+          "id": "tfbzoa",
+          "note": 62,
+          "velocity": 100,
+          "beat": 221.3217111013986,
+          "durationBeats": 0.6864221715784216,
+          "channel": 0
+        },
+        {
+          "id": "tfbzod",
+          "note": 64,
+          "velocity": 100,
+          "beat": 221.94382232350983,
+          "durationBeats": 1.10415547993673,
+          "channel": 0
+        },
+        {
+          "id": "tfcebi",
+          "note": 74,
+          "velocity": 100,
+          "beat": 223.00599998959373,
+          "durationBeats": 0.5466221278721278,
+          "channel": 0
+        },
+        {
+          "id": "tfccnd",
+          "note": 72,
+          "velocity": 100,
+          "beat": 223.48540001665,
+          "durationBeats": 0.564155636030636,
+          "channel": 0
+        },
+        {
+          "id": "tfchai",
+          "note": 64,
+          "velocity": 100,
+          "beat": 224.04891098484848,
+          "durationBeats": 0.7903778513153513,
+          "channel": 0
+        },
+        {
+          "id": "tfcfvz",
+          "note": 62,
+          "velocity": 100,
+          "beat": 224.73897768897768,
+          "durationBeats": 0.8617333187645687,
+          "channel": 0
+        },
+        {
+          "id": "tfcfvy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 225.57011113886114,
+          "durationBeats": 0.49377783674658676,
+          "channel": 0
+        },
+        {
+          "id": "tfckir",
+          "note": 62,
+          "velocity": 100,
+          "beat": 226.013088994339,
+          "durationBeats": 0.9520666833166833,
+          "channel": 0
+        },
+        {
+          "id": "tfcits",
+          "note": 74,
+          "velocity": 100,
+          "beat": 226.96939987096238,
+          "durationBeats": 0.6054445554445554,
+          "channel": 0
+        },
+        {
+          "id": "tfcnix",
+          "note": 72,
+          "velocity": 100,
+          "beat": 227.48071121586747,
+          "durationBeats": 0.521444440975691,
+          "channel": 0
+        },
+        {
+          "id": "tfcniw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 228.00115561521812,
+          "durationBeats": 0.8188889235764236,
+          "channel": 0
+        },
+        {
+          "id": "tfclub",
+          "note": 60,
+          "velocity": 100,
+          "beat": 228.7427999084249,
+          "durationBeats": 0.7169333270895771,
+          "channel": 0
+        },
+        {
+          "id": "tfcmci",
+          "note": 62,
+          "velocity": 100,
+          "beat": 229.34748896936398,
+          "durationBeats": 0.7875777867965368,
+          "channel": 0
+        },
+        {
+          "id": "tfcqpb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 230.04479999167498,
+          "durationBeats": 0.8978001165501166,
+          "channel": 0
+        },
+        {
+          "id": "tfcpco",
+          "note": 74,
+          "velocity": 100,
+          "beat": 230.91764433483183,
+          "durationBeats": 0.6588000541125542,
+          "channel": 0
+        },
+        {
+          "id": "tfcpcb",
+          "note": 72,
+          "velocity": 100,
+          "beat": 231.46680012695637,
+          "durationBeats": 0.5681110556110556,
+          "channel": 0
+        },
+        {
+          "id": "tfctpg",
+          "note": 71,
+          "velocity": 100,
+          "beat": 231.96933327089576,
+          "durationBeats": 0.7440889839327339,
+          "channel": 0
+        },
+        {
+          "id": "tfcrzv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 232.71228901307026,
+          "durationBeats": 0.768311115967366,
+          "channel": 0
+        },
+        {
+          "id": "tfbako",
+          "note": 60,
+          "velocity": 100,
+          "beat": 233.4017110493673,
+          "durationBeats": 0.8369778658841159,
+          "channel": 0
+        },
+        {
+          "id": "tfbakr",
+          "note": 62,
+          "velocity": 100,
+          "beat": 234.17059997294373,
+          "durationBeats": 0.9575778388278389,
+          "channel": 0
+        },
+        {
+          "id": "tfayxo",
+          "note": 74,
+          "velocity": 100,
+          "beat": 235.07217782217782,
+          "durationBeats": 0.542533248001998,
+          "channel": 0
+        },
+        {
+          "id": "tfbdkx",
+          "note": 72,
+          "velocity": 100,
+          "beat": 235.5400667041292,
+          "durationBeats": 0.5860665376290376,
+          "channel": 0
+        },
+        {
+          "id": "tfbbvi",
+          "note": 71,
+          "velocity": 100,
+          "beat": 236.08888897560772,
+          "durationBeats": 0.671866674991675,
+          "channel": 0
+        },
+        {
+          "id": "tfbgjx",
+          "note": 64,
+          "velocity": 100,
+          "beat": 236.74793331668332,
+          "durationBeats": 0.791377892940393,
+          "channel": 0
+        },
+        {
+          "id": "tfbgjw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 237.5163778929404,
+          "durationBeats": 0.565844311938062,
+          "channel": 0
+        },
+        {
+          "id": "tfbewh",
+          "note": 62,
+          "velocity": 100,
+          "beat": 237.99197781385283,
+          "durationBeats": 1.4018445096570096,
+          "channel": 0
+        },
+        {
+          "id": "tfbjqg",
+          "note": 74,
+          "velocity": 100,
+          "beat": 238.96537785131534,
+          "durationBeats": 0.4656442515817516,
+          "channel": 0
+        },
+        {
+          "id": "tfbifd",
+          "note": 72,
+          "velocity": 100,
+          "beat": 239.37875561938063,
+          "durationBeats": 0.5828221257908758,
+          "channel": 0
+        },
+        {
+          "id": "tfbifc",
+          "note": 64,
+          "velocity": 100,
+          "beat": 239.9652667644855,
+          "durationBeats": 0.8532888986013986,
+          "channel": 0
+        },
+        {
+          "id": "tfbmpj",
+          "note": 60,
+          "velocity": 100,
+          "beat": 240.79959987928737,
+          "durationBeats": 0.6722446824009324,
+          "channel": 0
+        },
+        {
+          "id": "tfblbq",
+          "note": 62,
+          "velocity": 100,
+          "beat": 241.3901333041958,
+          "durationBeats": 0.6058889027639027,
+          "channel": 0
+        },
+        {
+          "id": "tfbpqv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 241.96228901307026,
+          "durationBeats": 0.6901333041958042,
+          "channel": 0
+        },
+        {
+          "id": "tfbojw",
+          "note": 74,
+          "velocity": 100,
+          "beat": 242.50871108058607,
+          "durationBeats": 0.46982236513486514,
+          "channel": 0
+        },
+        {
+          "id": "tfbojz",
+          "note": 72,
+          "velocity": 100,
+          "beat": 242.91811105561106,
+          "durationBeats": 0.5154223380785881,
+          "channel": 0
+        },
+        {
+          "id": "tfbszq",
+          "note": 71,
+          "velocity": 100,
+          "beat": 243.3917777534965,
+          "durationBeats": 0.46140005827505826,
+          "channel": 0
+        },
+        {
+          "id": "tfbrll",
+          "note": 64,
+          "velocity": 100,
+          "beat": 243.90251103063602,
+          "durationBeats": 0.7732444638694639,
+          "channel": 0
+        },
+        {
+          "id": "tfbvwe",
+          "note": 60,
+          "velocity": 100,
+          "beat": 244.60553326881453,
+          "durationBeats": 0.8183556027306027,
+          "channel": 0
+        },
+        {
+          "id": "tfbukl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 245.29682218822845,
+          "durationBeats": 0.8178222818847819,
+          "channel": 0
+        },
+        {
+          "id": "tfbukk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 246.04186672702298,
+          "durationBeats": 0.606688884032634,
+          "channel": 0
+        },
+        {
+          "id": "tfabef",
+          "note": 74,
+          "velocity": 100,
+          "beat": 246.54722230894106,
+          "durationBeats": 0.4942666708291708,
+          "channel": 0
+        },
+        {
+          "id": "tezzrs",
+          "note": 72,
+          "velocity": 100,
+          "beat": 246.7731333770396,
+          "durationBeats": 0.1443111575924076,
+          "channel": 0
+        },
+        {
+          "id": "tfaegx",
+          "note": 72,
+          "velocity": 100,
+          "beat": 247.00468880078256,
+          "durationBeats": 0.6761779886779887,
+          "channel": 0
+        },
+        {
+          "id": "tfaegw",
+          "note": 71,
+          "velocity": 100,
+          "beat": 247.67953322718947,
+          "durationBeats": 0.48628897144522143,
+          "channel": 0
+        },
+        {
+          "id": "tfacpp",
+          "note": 60,
+          "velocity": 100,
+          "beat": 248.161244484682,
+          "durationBeats": 0.7815777972027972,
+          "channel": 0
+        },
+        {
+          "id": "tfaheq",
+          "note": 62,
+          "velocity": 100,
+          "beat": 248.84182224025975,
+          "durationBeats": 0.5946665313852814,
+          "channel": 0
+        },
+        {
+          "id": "tfafsh",
+          "note": 64,
+          "velocity": 100,
+          "beat": 249.33560007700632,
+          "durationBeats": 0.83548873001998,
+          "channel": 0
+        },
+        {
+          "id": "tfakmg",
+          "note": 72,
+          "velocity": 100,
+          "beat": 250.16831111596736,
+          "durationBeats": 0.6063111367798868,
+          "channel": 0
+        },
+        {
+          "id": "tfakmj",
+          "note": 71,
+          "velocity": 100,
+          "beat": 250.70235545704296,
+          "durationBeats": 0.5380889943389944,
+          "channel": 0
+        },
+        {
+          "id": "tfaizg",
+          "note": 72,
+          "velocity": 100,
+          "beat": 251.21939987096238,
+          "durationBeats": 0.23322224650349652,
+          "channel": 0
+        },
+        {
+          "id": "tfankd",
+          "note": 71,
+          "velocity": 100,
+          "beat": 251.48026660839162,
+          "durationBeats": 0.25382221944721944,
+          "channel": 0
+        },
+        {
+          "id": "tfalxa",
+          "note": 72,
+          "velocity": 100,
+          "beat": 251.68324435980685,
+          "durationBeats": 0.264089035964036,
+          "channel": 0
+        },
+        {
+          "id": "tfaqmv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 251.93093338952713,
+          "durationBeats": 0.6731333770396271,
+          "channel": 0
+        },
+        {
+          "id": "tfaqmu",
+          "note": 60,
+          "velocity": 100,
+          "beat": 252.63606653762903,
+          "durationBeats": 0.9106224504662005,
+          "channel": 0
+        },
+        {
+          "id": "tfapet",
+          "note": 62,
+          "velocity": 100,
+          "beat": 253.49299996878122,
+          "durationBeats": 0.4636444284881785,
+          "channel": 0
+        },
+        {
+          "id": "tfatuk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 253.90211117007993,
+          "durationBeats": 0.5894220362970363,
+          "channel": 0
+        },
+        {
+          "id": "tfasdd",
+          "note": 62,
+          "velocity": 100,
+          "beat": 254.4189778971029,
+          "durationBeats": 0.3948665917415917,
+          "channel": 0
+        },
+        {
+          "id": "tfasdc",
+          "note": 72,
+          "velocity": 100,
+          "beat": 254.61311110764237,
+          "durationBeats": 0.18422228812853814,
+          "channel": 0
+        },
+        {
+          "id": "tfawut",
+          "note": 71,
+          "velocity": 100,
+          "beat": 254.77600004162505,
+          "durationBeats": 0.28644428488178486,
+          "channel": 0
+        },
+        {
+          "id": "tfavha",
+          "note": 72,
+          "velocity": 100,
+          "beat": 255.020222225691,
+          "durationBeats": 0.4469998751248751,
+          "channel": 0
+        },
+        {
+          "id": "tezdmj",
+          "note": 71,
+          "velocity": 100,
+          "beat": 255.3785555590243,
+          "durationBeats": 0.3065777972027972,
+          "channel": 0
+        },
+        {
+          "id": "tezbyq",
+          "note": 64,
+          "velocity": 100,
+          "beat": 255.82513346028972,
+          "durationBeats": 0.835066496003996,
+          "channel": 0
+        },
+        {
+          "id": "tezbyt",
+          "note": 60,
+          "velocity": 100,
+          "beat": 256.6094665750916,
+          "durationBeats": 0.8470001352813853,
+          "channel": 0
+        },
+        {
+          "id": "tezgli",
+          "note": 62,
+          "velocity": 100,
+          "beat": 257.31553342490844,
+          "durationBeats": 0.6043331668331668,
+          "channel": 0
+        },
+        {
+          "id": "tezfcb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 257.84933321886444,
+          "durationBeats": 0.7654889381451881,
+          "channel": 0
+        },
+        {
+          "id": "tezjpg",
+          "note": 74,
+          "velocity": 100,
+          "beat": 258.5078000124875,
+          "durationBeats": 0.31584431193806195,
+          "channel": 0
+        },
+        {
+          "id": "tezibb",
+          "note": 72,
+          "velocity": 100,
+          "beat": 258.6993111055611,
+          "durationBeats": 0.37675553613053614,
+          "channel": 0
+        },
+        {
+          "id": "teziba",
+          "note": 71,
+          "velocity": 100,
+          "beat": 258.9505778076091,
+          "durationBeats": 0.4616667186979687,
+          "channel": 0
+        },
+        {
+          "id": "tezifd",
+          "note": 72,
+          "velocity": 100,
+          "beat": 259.32053337287715,
+          "durationBeats": 0.4664666063103563,
+          "channel": 0
+        },
+        {
+          "id": "tezmsi",
+          "note": 64,
+          "velocity": 100,
+          "beat": 259.9132666812354,
+          "durationBeats": 0.889399922993673,
+          "channel": 0
+        },
+        {
+          "id": "tezljb",
+          "note": 60,
+          "velocity": 100,
+          "beat": 260.746733214702,
+          "durationBeats": 0.5858891108891109,
+          "channel": 0
+        },
+        {
+          "id": "tezlja",
+          "note": 62,
+          "velocity": 100,
+          "beat": 261.37388887154515,
+          "durationBeats": 0.5835110202297702,
+          "channel": 0
+        },
+        {
+          "id": "tezpwz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 261.9200445387945,
+          "durationBeats": 0.7127333603896104,
+          "channel": 0
+        },
+        {
+          "id": "tezoia",
+          "note": 74,
+          "velocity": 100,
+          "beat": 262.5599332958708,
+          "durationBeats": 0.37055548618048617,
+          "channel": 0
+        },
+        {
+          "id": "tezszr",
+          "note": 72,
+          "velocity": 100,
+          "beat": 262.8109999375624,
+          "durationBeats": 0.4479333166833167,
+          "channel": 0
+        },
+        {
+          "id": "tezrks",
+          "note": 71,
+          "velocity": 100,
+          "beat": 263.1663778929404,
+          "durationBeats": 0.7782444118381618,
+          "channel": 0
+        },
+        {
+          "id": "tezrkv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 263.80573332917083,
+          "durationBeats": 0.9979999167499167,
+          "channel": 0
+        },
+        {
+          "id": "tezvzw",
+          "note": 62,
+          "velocity": 100,
+          "beat": 264.6900001040626,
+          "durationBeats": 0.9302666083916084,
+          "channel": 0
+        },
+        {
+          "id": "tezupz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 265.5476221694972,
+          "durationBeats": 1.6721112221112222,
+          "channel": 0
+        },
+        {
+          "id": "tezzco",
+          "note": 62,
+          "velocity": 100,
+          "beat": 267.18402222777223,
+          "durationBeats": 0.8521777701465202,
+          "channel": 0
+        },
+        {
+          "id": "tezxsr",
+          "note": 64,
+          "velocity": 100,
+          "beat": 268.0196444180819,
+          "durationBeats": 0.9928667686480186,
+          "channel": 0
+        },
+        {
+          "id": "tezxsq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 268.9416000666001,
+          "durationBeats": 0.7167777534965035,
+          "channel": 0
+        },
+        {
+          "id": "teyfux",
+          "note": 62,
+          "velocity": 100,
+          "beat": 269.5481110035798,
+          "durationBeats": 1.8188002102064602,
+          "channel": 0
+        },
+        {
+          "id": "teyego",
+          "note": 64,
+          "velocity": 100,
+          "beat": 271.2511332417582,
+          "durationBeats": 5.711533518564768,
+          "channel": 0
+        },
+        {
+          "id": "teyixp",
+          "note": 60,
+          "velocity": 100,
+          "beat": 273.1393778096903,
+          "durationBeats": 2.6884222548285046,
+          "channel": 0
+        },
+        {
+          "id": "teyhjg",
+          "note": 62,
+          "velocity": 100,
+          "beat": 276.80184450965703,
+          "durationBeats": 0.8490220716783217,
+          "channel": 0
+        },
+        {
+          "id": "teyqrf",
+          "note": 60,
+          "velocity": 100,
+          "beat": 277.56599988553114,
+          "durationBeats": 2.16886681027306,
+          "channel": 0
+        },
+        {
+          "id": "teytus",
+          "note": 74,
+          "velocity": 100,
+          "beat": 280.0533778721279,
+          "durationBeats": 0.5124888132700632,
+          "channel": 0
+        },
+        {
+          "id": "teysht",
+          "note": 72,
+          "velocity": 100,
+          "beat": 280.7659556589244,
+          "durationBeats": 0.39006644397269397,
+          "channel": 0
+        },
+        {
+          "id": "teywvo",
+          "note": 71,
+          "velocity": 100,
+          "beat": 281.1172665875791,
+          "durationBeats": 0.6215113011988012,
+          "channel": 0
+        },
+        {
+          "id": "teyvjf",
+          "note": 64,
+          "velocity": 100,
+          "beat": 281.6347332355145,
+          "durationBeats": 0.4952445991508492,
+          "channel": 0
+        },
+        {
+          "id": "teyvje",
+          "note": 62,
+          "velocity": 100,
+          "beat": 282.0256888944389,
+          "durationBeats": 0.7326223255910755,
+          "channel": 0
+        },
+        {
+          "id": "teyzzp",
+          "note": 64,
+          "velocity": 100,
+          "beat": 282.7267776494339,
+          "durationBeats": 0.6862444846819847,
+          "channel": 0
+        },
+        {
+          "id": "teyync",
+          "note": 60,
+          "velocity": 100,
+          "beat": 283.3790222798035,
+          "durationBeats": 0.8712222673160173,
+          "channel": 0
+        },
+        {
+          "id": "texgot",
+          "note": 62,
+          "velocity": 100,
+          "beat": 284.12391098484846,
+          "durationBeats": 1.685889110889111,
+          "channel": 0
+        },
+        {
+          "id": "texgos",
+          "note": 74,
+          "velocity": 100,
+          "beat": 284.95613344988345,
+          "durationBeats": 1.0364221715784216,
+          "channel": 0
+        },
+        {
+          "id": "texfcj",
+          "note": 62,
+          "velocity": 100,
+          "beat": 285.871222267316,
+          "durationBeats": 2.0544221403596405,
+          "channel": 0
+        },
+        {
+          "id": "texjsa",
+          "note": 74,
+          "velocity": 100,
+          "beat": 288.03275552572427,
+          "durationBeats": 0.47086663336663337,
+          "channel": 0
+        },
+        {
+          "id": "texigh",
+          "note": 72,
+          "velocity": 100,
+          "beat": 288.5175111346986,
+          "durationBeats": 0.4127554736929737,
+          "channel": 0
+        },
+        {
+          "id": "texmtm",
+          "note": 71,
+          "velocity": 100,
+          "beat": 288.90902222777225,
+          "durationBeats": 0.4216221278721279,
+          "channel": 0
+        },
+        {
+          "id": "texmtp",
+          "note": 64,
+          "velocity": 100,
+          "beat": 289.3301334082584,
+          "durationBeats": 0.678311011904762,
+          "channel": 0
+        },
+        {
+          "id": "texlhs",
+          "note": 72,
+          "velocity": 100,
+          "beat": 289.86873334998336,
+          "durationBeats": 0.9246888528138528,
+          "channel": 0
+        },
+        {
+          "id": "texpxn",
+          "note": 64,
+          "velocity": 100,
+          "beat": 290.78800002081255,
+          "durationBeats": 0.8225555694305694,
+          "channel": 0
+        },
+        {
+          "id": "texolq",
+          "note": 74,
+          "velocity": 100,
+          "beat": 291.48324435980686,
+          "durationBeats": 0.5827112991175492,
+          "channel": 0
+        },
+        {
+          "id": "texokn",
+          "note": 72,
+          "velocity": 100,
+          "beat": 292.08633345820846,
+          "durationBeats": 0.6272219967532467,
+          "channel": 0
+        },
+        {
+          "id": "texrnc",
+          "note": 71,
+          "velocity": 100,
+          "beat": 292.62522217365967,
+          "durationBeats": 0.5573777784715285,
+          "channel": 0
+        },
+        {
+          "id": "texwch",
+          "note": 64,
+          "velocity": 100,
+          "beat": 293.1402667644855,
+          "durationBeats": 0.852711090992341,
+          "channel": 0
+        },
+        {
+          "id": "texupu",
+          "note": 72,
+          "velocity": 100,
+          "beat": 293.9578000124875,
+          "durationBeats": 0.8682000291375291,
+          "channel": 0
+        },
+        {
+          "id": "texzez",
+          "note": 64,
+          "velocity": 100,
+          "beat": 294.84817786380285,
+          "durationBeats": 0.709822209040959,
+          "channel": 0
+        },
+        {
+          "id": "texxsm",
+          "note": 72,
+          "velocity": 100,
+          "beat": 295.4811110764236,
+          "durationBeats": 0.6458666333666334,
+          "channel": 0
+        },
+        {
+          "id": "texxsp",
+          "note": 74,
+          "velocity": 100,
+          "beat": 296.12757789085913,
+          "durationBeats": 0.5400222173659673,
+          "channel": 0
+        },
+        {
+          "id": "teychq",
+          "note": 72,
+          "velocity": 100,
+          "beat": 296.63886660214786,
+          "durationBeats": 0.5489999583749584,
+          "channel": 0
+        },
+        {
+          "id": "teycir",
+          "note": 71,
+          "velocity": 100,
+          "beat": 297.0883556547619,
+          "durationBeats": 0.6057775557775558,
+          "channel": 0
+        },
+        {
+          "id": "teyavo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 297.56666666666666,
+          "durationBeats": 0.704755661005661,
+          "channel": 0
+        },
+        {
+          "id": "theacx",
+          "note": 72,
+          "velocity": 100,
+          "beat": 298.04635546744925,
+          "durationBeats": 0.8835333936896437,
+          "channel": 0
+        },
+        {
+          "id": "theacw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 298.8637110285548,
+          "durationBeats": 0.8354223901098901,
+          "channel": 0
+        },
+        {
+          "id": "thdypx",
+          "note": 74,
+          "velocity": 100,
+          "beat": 299.5526221174659,
+          "durationBeats": 0.5218224483849484,
+          "channel": 0
+        },
+        {
+          "id": "thedfo",
+          "note": 72,
+          "velocity": 100,
+          "beat": 299.9968666749917,
+          "durationBeats": 0.609044341075591,
+          "channel": 0
+        },
+        {
+          "id": "thebsp",
+          "note": 71,
+          "velocity": 100,
+          "beat": 300.51908898393276,
+          "durationBeats": 0.5553110951548451,
+          "channel": 0
+        },
+        {
+          "id": "thebso",
+          "note": 60,
+          "velocity": 100,
+          "beat": 301.04777774309025,
+          "durationBeats": 0.5545334873459874,
+          "channel": 0
+        },
+        {
+          "id": "thegfx",
+          "note": 62,
+          "velocity": 100,
+          "beat": 301.51802234224107,
+          "durationBeats": 0.525666520979021,
+          "channel": 0
+        },
+        {
+          "id": "theese",
+          "note": 64,
+          "velocity": 100,
+          "beat": 301.9784444721945,
+          "durationBeats": 0.8834665334665335,
+          "channel": 0
+        },
+        {
+          "id": "thejex",
+          "note": 74,
+          "velocity": 100,
+          "beat": 302.752688977689,
+          "durationBeats": 0.7523333437395937,
+          "channel": 0
+        },
+        {
+          "id": "thehre",
+          "note": 72,
+          "velocity": 100,
+          "beat": 303.4555556422744,
+          "durationBeats": 0.5073109182484182,
+          "channel": 0
+        },
+        {
+          "id": "thehrh",
+          "note": 71,
+          "velocity": 100,
+          "beat": 303.9004667207792,
+          "durationBeats": 0.6859554507992008,
+          "channel": 0
+        },
+        {
+          "id": "themdw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 304.3937999500499,
+          "durationBeats": 0.8354000166500166,
+          "channel": 0
+        },
+        {
+          "id": "theljz",
+          "note": 72,
+          "velocity": 100,
+          "beat": 305.0343110014985,
+          "durationBeats": 0.5656445117382617,
+          "channel": 0
+        },
+        {
+          "id": "thepwo",
+          "note": 74,
+          "velocity": 100,
+          "beat": 305.5618667790543,
+          "durationBeats": 0.590488677988678,
+          "channel": 0
+        },
+        {
+          "id": "theoij",
+          "note": 70,
+          "velocity": 100,
+          "beat": 308.00228885697635,
+          "durationBeats": 0.4125777867965368,
+          "channel": 0
+        },
+        {
+          "id": "theoii",
+          "note": 61,
+          "velocity": 100,
+          "beat": 308.5293776535964,
+          "durationBeats": 0.7176890817515817,
+          "channel": 0
+        },
+        {
+          "id": "thesvr",
+          "note": 71,
+          "velocity": 100,
+          "beat": 309.0346666354479,
+          "durationBeats": 0.4965555278055278,
+          "channel": 0
+        },
+        {
+          "id": "therhi",
+          "note": 72,
+          "velocity": 100,
+          "beat": 309.47544434731935,
+          "durationBeats": 0.5299333479020979,
+          "channel": 0
+        },
+        {
+          "id": "thevur",
+          "note": 64,
+          "velocity": 100,
+          "beat": 309.9914221195471,
+          "durationBeats": 0.6356666770729271,
+          "channel": 0
+        },
+        {
+          "id": "thevuq",
+          "note": 70,
+          "velocity": 100,
+          "beat": 310.47051099941723,
+          "durationBeats": 0.3908000853313353,
+          "channel": 0
+        },
+        {
+          "id": "theugl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 310.8797332875458,
+          "durationBeats": 0.7686443764568764,
+          "channel": 0
+        },
+        {
+          "id": "thdchi",
+          "note": 71,
+          "velocity": 100,
+          "beat": 311.67666656260405,
+          "durationBeats": 0.28391114094239095,
+          "channel": 0
+        },
+        {
+          "id": "thdasn",
+          "note": 70,
+          "velocity": 100,
+          "beat": 312.17426661879784,
+          "durationBeats": 0.32522217365967365,
+          "channel": 0
+        },
+        {
+          "id": "thdffc",
+          "note": 62,
+          "velocity": 100,
+          "beat": 312.5176222215285,
+          "durationBeats": 0.548377664002664,
+          "channel": 0
+        },
+        {
+          "id": "thdfff",
+          "note": 64,
+          "velocity": 100,
+          "beat": 313.04606669372293,
+          "durationBeats": 0.5013554154179154,
+          "channel": 0
+        },
+        {
+          "id": "thddss",
+          "note": 64,
+          "velocity": 100,
+          "beat": 314.1893112096237,
+          "durationBeats": 0.12179981476856477,
+          "channel": 0
+        },
+        {
+          "id": "thdhlt",
+          "note": 64,
+          "velocity": 100,
+          "beat": 315.9791554799367,
+          "durationBeats": 0.5357335372960373,
+          "channel": 0
+        },
+        {
+          "id": "thdfwu",
+          "note": 74,
+          "velocity": 100,
+          "beat": 316.4334444201632,
+          "durationBeats": 0.5634222548285048,
+          "channel": 0
+        },
+        {
+          "id": "thdkjn",
+          "note": 72,
+          "velocity": 100,
+          "beat": 316.96175543206795,
+          "durationBeats": 0.45748912545787546,
+          "channel": 0
+        },
+        {
+          "id": "thdkjm",
+          "note": 70,
+          "velocity": 100,
+          "beat": 317.3209556068931,
+          "durationBeats": 0.4945109577922078,
+          "channel": 0
+        },
+        {
+          "id": "thdiwn",
+          "note": 60,
+          "velocity": 100,
+          "beat": 317.8813111367799,
+          "durationBeats": 0.8174887612387612,
+          "channel": 0
+        },
+        {
+          "id": "thdnjs",
+          "note": 62,
+          "velocity": 100,
+          "beat": 318.7023333437396,
+          "durationBeats": 0.45844442016317016,
+          "channel": 0
+        },
+        {
+          "id": "thdluh",
+          "note": 64,
+          "velocity": 100,
+          "beat": 319.1140445492008,
+          "durationBeats": 0.8495332792207793,
+          "channel": 0
+        },
+        {
+          "id": "thdlug",
+          "note": 72,
+          "velocity": 100,
+          "beat": 319.7498444264069,
+          "durationBeats": 0.8717111013986014,
+          "channel": 0
+        },
+        {
+          "id": "thdqhp",
+          "note": 71,
+          "velocity": 100,
+          "beat": 320.55497783466535,
+          "durationBeats": 0.29471101814851813,
+          "channel": 0
+        },
+        {
+          "id": "thdoum",
+          "note": 69,
+          "velocity": 100,
+          "beat": 321.0688665501165,
+          "durationBeats": 0.4929778554778555,
+          "channel": 0
+        },
+        {
+          "id": "thdthv",
+          "note": 72,
+          "velocity": 100,
+          "beat": 321.59708884865137,
+          "durationBeats": 0.7538888195138195,
+          "channel": 0
+        },
+        {
+          "id": "thdrsg",
+          "note": 69,
+          "velocity": 100,
+          "beat": 322.12206673534797,
+          "durationBeats": 0.9355555902430902,
+          "channel": 0
+        },
+        {
+          "id": "thdruf",
+          "note": 64,
+          "velocity": 100,
+          "beat": 324.4058889027639,
+          "durationBeats": 0.10951106185481185,
+          "channel": 0
+        },
+        {
+          "id": "thdwya",
+          "note": 64,
+          "velocity": 100,
+          "beat": 328.15975560897436,
+          "durationBeats": 0.25071100774225774,
+          "channel": 0
+        },
+        {
+          "id": "thdvkl",
+          "note": 72,
+          "velocity": 100,
+          "beat": 328.6588221674159,
+          "durationBeats": 0.3321777181152181,
+          "channel": 0
+        },
+        {
+          "id": "thcdne",
+          "note": 69,
+          "velocity": 100,
+          "beat": 329.08953338328337,
+          "durationBeats": 0.32819992507492507,
+          "channel": 0
+        },
+        {
+          "id": "thcbxd",
+          "note": 71,
+          "velocity": 100,
+          "beat": 329.5795332271895,
+          "durationBeats": 0.25397779304029305,
+          "channel": 0
+        },
+        {
+          "id": "thcbxc",
+          "note": 72,
+          "velocity": 100,
+          "beat": 330.1170667873793,
+          "durationBeats": 0.3145776098901099,
+          "channel": 0
+        },
+        {
+          "id": "thcgmh",
+          "note": 64,
+          "velocity": 100,
+          "beat": 330.6148000437063,
+          "durationBeats": 0.3357998772061272,
+          "channel": 0
+        },
+        {
+          "id": "thceyo",
+          "note": 69,
+          "velocity": 100,
+          "beat": 331.00635562354313,
+          "durationBeats": 0.372711143023643,
+          "channel": 0
+        },
+        {
+          "id": "thcjiv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 331.6463999542124,
+          "durationBeats": 0.4419333270895771,
+          "channel": 0
+        },
+        {
+          "id": "thcjiu",
+          "note": 64,
+          "velocity": 100,
+          "beat": 336.03853334165836,
+          "durationBeats": 0.3416000666000666,
+          "channel": 0
+        },
+        {
+          "id": "thchxb",
+          "note": 72,
+          "velocity": 100,
+          "beat": 336.6056888424076,
+          "durationBeats": 0.35302223817848816,
+          "channel": 0
+        },
+        {
+          "id": "thcmhu",
+          "note": 71,
+          "velocity": 100,
+          "beat": 336.98222220487844,
+          "durationBeats": 0.352711090992341,
+          "channel": 0
+        },
+        {
+          "id": "thcktp",
+          "note": 62,
+          "velocity": 100,
+          "beat": 337.51402217574093,
+          "durationBeats": 0.4085112803862804,
+          "channel": 0
+        },
+        {
+          "id": "thcpjg",
+          "note": 69,
+          "velocity": 100,
+          "beat": 338.01022232975356,
+          "durationBeats": 0.3000221133033633,
+          "channel": 0
+        },
+        {
+          "id": "thcpjj",
+          "note": 64,
+          "velocity": 100,
+          "beat": 338.37075554653677,
+          "durationBeats": 0.5309999895937396,
+          "channel": 0
+        },
+        {
+          "id": "thcpzq",
+          "note": 72,
+          "velocity": 100,
+          "beat": 338.9529556381119,
+          "durationBeats": 0.38819982101232103,
+          "channel": 0
+        },
+        {
+          "id": "thcomr",
+          "note": 60,
+          "velocity": 100,
+          "beat": 339.49968885281385,
+          "durationBeats": 0.4876667603230103,
+          "channel": 0
+        },
+        {
+          "id": "thctbs",
+          "note": 71,
+          "velocity": 100,
+          "beat": 339.95364453255075,
+          "durationBeats": 0.3899111305361305,
+          "channel": 0
+        },
+        {
+          "id": "thcrkl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 340.32059997294374,
+          "durationBeats": 0.5682221424408924,
+          "channel": 0
+        },
+        {
+          "id": "thcvzm",
+          "note": 69,
+          "velocity": 100,
+          "beat": 340.8709332334332,
+          "durationBeats": 0.46533336455211455,
+          "channel": 0
+        },
+        {
+          "id": "thcuif",
+          "note": 64,
+          "velocity": 100,
+          "beat": 341.48031109515483,
+          "durationBeats": 0.5958221466033966,
+          "channel": 0
+        },
+        {
+          "id": "thcuie",
+          "note": 72,
+          "velocity": 100,
+          "beat": 342.0770666833167,
+          "durationBeats": 0.39413321053946054,
+          "channel": 0
+        },
+        {
+          "id": "thcyxj",
+          "note": 71,
+          "velocity": 100,
+          "beat": 342.4771998834499,
+          "durationBeats": 0.5136446886446886,
+          "channel": 0
+        },
+        {
+          "id": "thcxkw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 343.0318889443889,
+          "durationBeats": 0.48962209665334666,
+          "channel": 0
+        },
+        {
+          "id": "thbfif",
+          "note": 69,
+          "velocity": 100,
+          "beat": 343.50546666874794,
+          "durationBeats": 0.4081111596736597,
+          "channel": 0
+        },
+        {
+          "id": "thbfie",
+          "note": 62,
+          "velocity": 100,
+          "beat": 343.97064445970693,
+          "durationBeats": 0.45486674783549785,
+          "channel": 0
+        },
+        {
+          "id": "thbdwl",
+          "note": 72,
+          "velocity": 100,
+          "beat": 344.47028882575756,
+          "durationBeats": 0.4355779637029637,
+          "channel": 0
+        },
+        {
+          "id": "thbikw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 344.89373334998334,
+          "durationBeats": 0.6232665771728272,
+          "channel": 0
+        },
+        {
+          "id": "thbhnx",
+          "note": 71,
+          "velocity": 100,
+          "beat": 345.37066657301034,
+          "durationBeats": 0.44588900682650684,
+          "channel": 0
+        },
+        {
+          "id": "thbmci",
+          "note": 69,
+          "velocity": 100,
+          "beat": 345.87544434731933,
+          "durationBeats": 0.42222230894105894,
+          "channel": 0
+        },
+        {
+          "id": "thbmcl",
+          "note": 70,
+          "velocity": 100,
+          "beat": 346.7610444243257,
+          "durationBeats": 0.3161778325840826,
+          "channel": 0
+        },
+        {
+          "id": "thbklq",
+          "note": 64,
+          "velocity": 100,
+          "beat": 347.46668877997,
+          "durationBeats": 0.5163334061771562,
+          "channel": 0
+        },
+        {
+          "id": "thbpdh",
+          "note": 71,
+          "velocity": 100,
+          "beat": 348.10688894438897,
+          "durationBeats": 0.41102205086580085,
+          "channel": 0
+        },
+        {
+          "id": "thbnoi",
+          "note": 62,
+          "velocity": 100,
+          "beat": 348.51833322927075,
+          "durationBeats": 0.5128444472194472,
+          "channel": 0
+        },
+        {
+          "id": "thbnol",
+          "note": 72,
+          "velocity": 100,
+          "beat": 348.94902233183484,
+          "durationBeats": 0.5272219967532468,
+          "channel": 0
+        },
+        {
+          "id": "thbrxi",
+          "note": 71,
+          "velocity": 100,
+          "beat": 349.4741779054279,
+          "durationBeats": 0.4524665438727939,
+          "channel": 0
+        },
+        {
+          "id": "thbqin",
+          "note": 69,
+          "velocity": 100,
+          "beat": 349.8868444055944,
+          "durationBeats": 0.40544455544455543,
+          "channel": 0
+        },
+        {
+          "id": "thbuwi",
+          "note": 64,
+          "velocity": 100,
+          "beat": 350.56211106601734,
+          "durationBeats": 0.5025334040959041,
+          "channel": 0
+        },
+        {
+          "id": "thbtml",
+          "note": 60,
+          "velocity": 100,
+          "beat": 351.04242216117217,
+          "durationBeats": 0.5370889527139527,
+          "channel": 0
+        },
+        {
+          "id": "thbtmk",
+          "note": 62,
+          "velocity": 100,
+          "beat": 351.8068444576257,
+          "durationBeats": 0.10677785755910756,
+          "channel": 0
+        },
+        {
+          "id": "thbxzt",
+          "note": 62,
+          "velocity": 100,
+          "beat": 352.1562666500167,
+          "durationBeats": 0.39651104104229107,
+          "channel": 0
+        },
+        {
+          "id": "thbvmu",
+          "note": 72,
+          "velocity": 100,
+          "beat": 352.72635567557444,
+          "durationBeats": 0.3866443452380952,
+          "channel": 0
+        },
+        {
+          "id": "thcaad",
+          "note": 71,
+          "velocity": 100,
+          "beat": 353.0508889547952,
+          "durationBeats": 0.6611555111555112,
+          "channel": 0
+        },
+        {
+          "id": "thbylu",
+          "note": 69,
+          "velocity": 100,
+          "beat": 353.67686662296035,
+          "durationBeats": 0.4586889672827173,
+          "channel": 0
+        },
+        {
+          "id": "thbylx",
+          "note": 64,
+          "velocity": 100,
+          "beat": 354.1342222881285,
+          "durationBeats": 0.5159777722277722,
+          "channel": 0
+        },
+        {
+          "id": "thagrs",
+          "note": 70,
+          "velocity": 100,
+          "beat": 354.6137110285548,
+          "durationBeats": 0.40906671453546456,
+          "channel": 0
+        },
+        {
+          "id": "thafdn",
+          "note": 69,
+          "velocity": 100,
+          "beat": 355.00646671037293,
+          "durationBeats": 0.4456444597069597,
+          "channel": 0
+        },
+        {
+          "id": "thajqs",
+          "note": 62,
+          "velocity": 100,
+          "beat": 355.4687333499833,
+          "durationBeats": 0.5902888777888778,
+          "channel": 0
+        },
+        {
+          "id": "thajrl",
+          "note": 72,
+          "velocity": 100,
+          "beat": 356.0892001227939,
+          "durationBeats": 0.48573327713952713,
+          "channel": 0
+        },
+        {
+          "id": "thahxo",
+          "note": 71,
+          "velocity": 100,
+          "beat": 356.56531099109225,
+          "durationBeats": 0.4321334915084915,
+          "channel": 0
+        },
+        {
+          "id": "thamkh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 357.0486443244256,
+          "durationBeats": 0.4116222319347319,
+          "channel": 0
+        },
+        {
+          "id": "thalag",
+          "note": 69,
+          "velocity": 100,
+          "beat": 357.42744443056944,
+          "durationBeats": 0.4935777763902764,
+          "channel": 0
+        },
+        {
+          "id": "thappl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 357.90197770979023,
+          "durationBeats": 0.5918446137196137,
+          "channel": 0
+        },
+        {
+          "id": "thappk",
+          "note": 70,
+          "velocity": 100,
+          "beat": 358.3136889152514,
+          "durationBeats": 0.37033331252081253,
+          "channel": 0
+        },
+        {
+          "id": "thaoap",
+          "note": 71,
+          "velocity": 100,
+          "beat": 358.91764433483183,
+          "durationBeats": 0.5540446532634032,
+          "channel": 0
+        },
+        {
+          "id": "thatby",
+          "note": 72,
+          "velocity": 100,
+          "beat": 359.52962220071595,
+          "durationBeats": 0.5404665646853147,
+          "channel": 0
+        },
+        {
+          "id": "tharnd",
+          "note": 64,
+          "velocity": 100,
+          "beat": 360.00159996253745,
+          "durationBeats": 0.6898000437062937,
+          "channel": 0
+        },
+        {
+          "id": "tharnc",
+          "note": 69,
+          "velocity": 100,
+          "beat": 360.58831116799865,
+          "durationBeats": 0.46117762445887445,
+          "channel": 0
+        },
+        {
+          "id": "thawbr",
+          "note": 70,
+          "velocity": 100,
+          "beat": 361.04906655844155,
+          "durationBeats": 0.5721778221778222,
+          "channel": 0
+        },
+        {
+          "id": "thausg",
+          "note": 72,
+          "velocity": 100,
+          "beat": 361.74462230477855,
+          "durationBeats": 0.5306443556443556,
+          "channel": 0
+        },
+        {
+          "id": "thazej",
+          "note": 71,
+          "velocity": 100,
+          "beat": 362.16955544455544,
+          "durationBeats": 0.6394888965201465,
+          "channel": 0
+        },
+        {
+          "id": "thaxlc",
+          "note": 69,
+          "velocity": 100,
+          "beat": 362.7383777680653,
+          "durationBeats": 0.5004667207792208,
+          "channel": 0
+        },
+        {
+          "id": "thaxlf",
+          "note": 64,
+          "velocity": 100,
+          "beat": 363.19966673951046,
+          "durationBeats": 0.7810221028971029,
+          "channel": 0
+        },
+        {
+          "id": "thbbzq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 363.9298667478355,
+          "durationBeats": 0.5557109557109557,
+          "channel": 0
+        },
+        {
+          "id": "thball",
+          "note": 62,
+          "velocity": 100,
+          "beat": 364.53802213411586,
+          "durationBeats": 0.6352668165168165,
+          "channel": 0
+        },
+        {
+          "id": "tgzipk",
+          "note": 72,
+          "velocity": 100,
+          "beat": 365.0732889506327,
+          "durationBeats": 0.3631332209457209,
+          "channel": 0
+        },
+        {
+          "id": "tgzipn",
+          "note": 71,
+          "velocity": 100,
+          "beat": 365.37208884865134,
+          "durationBeats": 0.43973344363969363,
+          "channel": 0
+        },
+        {
+          "id": "tgzhda",
+          "note": 70,
+          "velocity": 100,
+          "beat": 366.00564435564434,
+          "durationBeats": 0.46155563186813187,
+          "channel": 0
+        },
+        {
+          "id": "tgzlqz",
+          "note": 69,
+          "velocity": 100,
+          "beat": 366.4133777680653,
+          "durationBeats": 0.5394667832167832,
+          "channel": 0
+        },
+        {
+          "id": "tgzmbs",
+          "note": 64,
+          "velocity": 100,
+          "beat": 366.9757999812687,
+          "durationBeats": 0.9671333874458874,
+          "channel": 0
+        },
+        {
+          "id": "tgzkqp",
+          "note": 72,
+          "velocity": 100,
+          "beat": 367.92611112845486,
+          "durationBeats": 0.5003332604895104,
+          "channel": 0
+        },
+        {
+          "id": "tgzkqo",
+          "note": 71,
+          "velocity": 100,
+          "beat": 368.3904665646853,
+          "durationBeats": 0.7127333603896104,
+          "channel": 0
+        },
+        {
+          "id": "tgzpft",
+          "note": 69,
+          "velocity": 100,
+          "beat": 369.03040006868133,
+          "durationBeats": 0.5737109244921745,
+          "channel": 0
+        },
+        {
+          "id": "tgznrk",
+          "note": 60,
+          "velocity": 100,
+          "beat": 369.56791099525475,
+          "durationBeats": 0.5717334748584748,
+          "channel": 0
+        },
+        {
+          "id": "tgzshf",
+          "note": 72,
+          "velocity": 100,
+          "beat": 370.0652667644855,
+          "durationBeats": 0.8987109244921745,
+          "channel": 0
+        },
+        {
+          "id": "tgzshe",
+          "note": 62,
+          "velocity": 100,
+          "beat": 370.48933332292705,
+          "durationBeats": 0.5372890130702631,
+          "channel": 0
+        },
+        {
+          "id": "tgzqlp",
+          "note": 71,
+          "velocity": 100,
+          "beat": 370.96717787420914,
+          "durationBeats": 1.1067331106393605,
+          "channel": 0
+        },
+        {
+          "id": "tgzvbg",
+          "note": 64,
+          "velocity": 100,
+          "beat": 371.5221778221778,
+          "durationBeats": 0.9218443015318015,
+          "channel": 0
+        },
+        {
+          "id": "tgztnb",
+          "note": 69,
+          "velocity": 100,
+          "beat": 371.9671999875125,
+          "durationBeats": 0.7669112137862137,
+          "channel": 0
+        },
+        {
+          "id": "tgzycs",
+          "note": 70,
+          "velocity": 100,
+          "beat": 372.6705333728771,
+          "durationBeats": 0.46877783674658674,
+          "channel": 0
+        },
+        {
+          "id": "tgzycv",
+          "note": 72,
+          "velocity": 100,
+          "beat": 373.1196444180819,
+          "durationBeats": 0.6289333062770562,
+          "channel": 0
+        },
+        {
+          "id": "tgzwqi",
+          "note": 71,
+          "velocity": 100,
+          "beat": 373.63768887362636,
+          "durationBeats": 0.6038001061438562,
+          "channel": 0
+        },
+        {
+          "id": "thabpj",
+          "note": 69,
+          "velocity": 100,
+          "beat": 374.1335778804529,
+          "durationBeats": 0.6355111034798535,
+          "channel": 0
+        },
+        {
+          "id": "thaacw",
+          "note": 62,
+          "velocity": 100,
+          "beat": 374.6359333374958,
+          "durationBeats": 0.4630221341158841,
+          "channel": 0
+        },
+        {
+          "id": "thaacz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 375.0606221903097,
+          "durationBeats": 1.4344889485514485,
+          "channel": 0
+        },
+        {
+          "id": "thaesa",
+          "note": 72,
+          "velocity": 100,
+          "beat": 375.66920007076254,
+          "durationBeats": 0.6503777472527472,
+          "channel": 0
+        },
+        {
+          "id": "thadfr",
+          "note": 71,
+          "velocity": 100,
+          "beat": 376.31735556110556,
+          "durationBeats": 0.5192887841325341,
+          "channel": 0
+        },
+        {
+          "id": "tgylik",
+          "note": 69,
+          "velocity": 100,
+          "beat": 376.75293326465203,
+          "durationBeats": 0.8260445283882784,
+          "channel": 0
+        },
+        {
+          "id": "tgyjvl",
+          "note": 60,
+          "velocity": 100,
+          "beat": 377.1029111513487,
+          "durationBeats": 0.7156445117382617,
+          "channel": 0
+        },
+        {
+          "id": "tgyjvk",
+          "note": 62,
+          "velocity": 100,
+          "beat": 377.7436222631535,
+          "durationBeats": 0.6388000020812521,
+          "channel": 0
+        },
+        {
+          "id": "tgyobj",
+          "note": 64,
+          "velocity": 100,
+          "beat": 378.32722225690975,
+          "durationBeats": 0.8364000582750583,
+          "channel": 0
+        },
+        {
+          "id": "tgymog",
+          "note": 72,
+          "velocity": 100,
+          "beat": 379.0202001123876,
+          "durationBeats": 1.1276442307692307,
+          "channel": 0
+        },
+        {
+          "id": "tgyreb",
+          "note": 71,
+          "velocity": 100,
+          "beat": 380.0548222610723,
+          "durationBeats": 0.6908221986346986,
+          "channel": 0
+        },
+        {
+          "id": "tgyrea",
+          "note": 60,
+          "velocity": 100,
+          "beat": 380.40873345404594,
+          "durationBeats": 0.6272219967532467,
+          "channel": 0
+        },
+        {
+          "id": "tgyprb",
+          "note": 62,
+          "velocity": 100,
+          "beat": 380.77902227980354,
+          "durationBeats": 0.9333778200965701,
+          "channel": 0
+        },
+        {
+          "id": "tgyugs",
+          "note": 64,
+          "velocity": 100,
+          "beat": 381.6141111492674,
+          "durationBeats": 1.6213999542124542,
+          "channel": 0
+        },
+        {
+          "id": "tgyugn",
+          "note": 69,
+          "velocity": 100,
+          "beat": 382.577511030636,
+          "durationBeats": 1.6016444493006994,
+          "channel": 0
+        },
+        {
+          "id": "tgyvsi",
+          "note": 72,
+          "velocity": 100,
+          "beat": 384.0346890089078,
+          "durationBeats": 0.415066443972694,
+          "channel": 0
+        },
+        {
+          "id": "tgyvsl",
+          "note": 71,
+          "velocity": 100,
+          "beat": 384.32175558816186,
+          "durationBeats": 0.39186672702297703,
+          "channel": 0
+        },
+        {
+          "id": "tgyxfm",
+          "note": 69,
+          "velocity": 100,
+          "beat": 384.6027555777556,
+          "durationBeats": 0.4074222652347652,
+          "channel": 0
+        },
+        {
+          "id": "tgyyrl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 384.63948889652016,
+          "durationBeats": 0.4096221486846487,
+          "channel": 0
+        },
+        {
+          "id": "tgzaem",
+          "note": 64,
+          "velocity": 100,
+          "beat": 384.9432221424409,
+          "durationBeats": 0.7411557192807193,
+          "channel": 0
+        },
+        {
+          "id": "tgzaep",
+          "note": 60,
+          "velocity": 100,
+          "beat": 385.6502000603563,
+          "durationBeats": 1.9651999042624042,
+          "channel": 0
+        },
+        {
+          "id": "tgzcag",
+          "note": 62,
+          "velocity": 100,
+          "beat": 387.6595555486181,
+          "durationBeats": 0.3004888340825841,
+          "channel": 0
+        },
+        {
+          "id": "tgzdmv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 387.8769111097236,
+          "durationBeats": 0.5512443285880786,
+          "channel": 0
+        },
+        {
+          "id": "tgzezg",
+          "note": 72,
+          "velocity": 100,
+          "beat": 388.13853334165833,
+          "durationBeats": 0.5561110764235764,
+          "channel": 0
+        },
+        {
+          "id": "tgzglv",
+          "note": 71,
+          "velocity": 100,
+          "beat": 388.5131555944056,
+          "durationBeats": 0.46099993756243757,
+          "channel": 0
+        },
+        {
+          "id": "tgzglu",
+          "note": 69,
+          "velocity": 100,
+          "beat": 388.8398000437063,
+          "durationBeats": 0.654999947968698,
+          "channel": 0
+        },
+        {
+          "id": "tgxlmb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 389.3664889797702,
+          "durationBeats": 2.688977688977689,
+          "channel": 0
+        },
+        {
+          "id": "tgxmym",
+          "note": 72,
+          "velocity": 100,
+          "beat": 392.0184222027972,
+          "durationBeats": 0.3689110368797869,
+          "channel": 0
+        },
+        {
+          "id": "tgxobf",
+          "note": 71,
+          "velocity": 100,
+          "beat": 392.265022217366,
+          "durationBeats": 0.39544439935064934,
+          "channel": 0
+        },
+        {
+          "id": "tgxobe",
+          "note": 69,
+          "velocity": 100,
+          "beat": 392.59471101814853,
+          "durationBeats": 0.4321334915084915,
+          "channel": 0
+        },
+        {
+          "id": "tgxpnd",
+          "note": 60,
+          "velocity": 100,
+          "beat": 392.9245111659174,
+          "durationBeats": 0.5172665875790876,
+          "channel": 0
+        },
+        {
+          "id": "tgxqyy",
+          "note": 62,
+          "velocity": 100,
+          "beat": 393.4005112075425,
+          "durationBeats": 0.41357756826506825,
+          "channel": 0
+        },
+        {
+          "id": "tgxsnj",
+          "note": 64,
+          "velocity": 100,
+          "beat": 393.7978001165501,
+          "durationBeats": 0.8704888861138861,
+          "channel": 0
+        },
+        {
+          "id": "tgxtze",
+          "note": 62,
+          "velocity": 100,
+          "beat": 394.3347332355145,
+          "durationBeats": 1.6134667415917416,
+          "channel": 0
+        },
+        {
+          "id": "tgxtzh",
+          "note": 71,
+          "velocity": 100,
+          "beat": 394.71722210081583,
+          "durationBeats": 0.5552223817848818,
+          "channel": 0
+        },
+        {
+          "id": "tgxvuy",
+          "note": 72,
+          "velocity": 100,
+          "beat": 395.2733776640027,
+          "durationBeats": 0.5845555486180486,
+          "channel": 0
+        },
+        {
+          "id": "tgxxgx",
+          "note": 71,
+          "velocity": 100,
+          "beat": 395.78864442848817,
+          "durationBeats": 0.35606658966033966,
+          "channel": 0
+        },
+        {
+          "id": "tgxyve",
+          "note": 69,
+          "velocity": 100,
+          "beat": 396.0940444971695,
+          "durationBeats": 0.4080666729104229,
+          "channel": 0
+        },
+        {
+          "id": "tgyahd",
+          "note": 71,
+          "velocity": 100,
+          "beat": 396.40811115967364,
+          "durationBeats": 0.3057333291708292,
+          "channel": 0
+        },
+        {
+          "id": "tgyahc",
+          "note": 64,
+          "velocity": 100,
+          "beat": 396.57059997294374,
+          "durationBeats": 1.3465110410422911,
+          "channel": 0
+        },
+        {
+          "id": "tgybsl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 397.1038888195138,
+          "durationBeats": 0.3024223172660673,
+          "channel": 0
+        },
+        {
+          "id": "tgybhq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 397.86811105561105,
+          "durationBeats": 0.5518666229603729,
+          "channel": 0
+        },
+        {
+          "id": "tgycvl",
+          "note": 62,
+          "velocity": 100,
+          "beat": 398.29439987096237,
+          "durationBeats": 0.6390224358974359,
+          "channel": 0
+        },
+        {
+          "id": "tgycvk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 398.8835778804529,
+          "durationBeats": 0.7216442411754912,
+          "channel": 0
+        },
+        {
+          "id": "tgyehz",
+          "note": 60,
+          "velocity": 100,
+          "beat": 399.5967777014652,
+          "durationBeats": 0.4206223464035964,
+          "channel": 0
+        },
+        {
+          "id": "tgyfte",
+          "note": 62,
+          "velocity": 100,
+          "beat": 399.9329110993173,
+          "durationBeats": 0.3129779075091575,
+          "channel": 0
+        },
+        {
+          "id": "tgyhgz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 400.14626675407925,
+          "durationBeats": 0.9536887591575092,
+          "channel": 0
+        },
+        {
+          "id": "tgwmhs",
+          "note": 72,
+          "velocity": 100,
+          "beat": 400.76273336038963,
+          "durationBeats": 2.4344889485514485,
+          "channel": 0
+        },
+        {
+          "id": "tgwmhv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 401.1444443577256,
+          "durationBeats": 0.39884464493839494,
+          "channel": 0
+        },
+        {
+          "id": "tgwoba",
+          "note": 64,
+          "velocity": 100,
+          "beat": 402.6825333520646,
+          "durationBeats": 1.616022258991009,
+          "channel": 0
+        },
+        {
+          "id": "tgwpqr",
+          "note": 71,
+          "velocity": 100,
+          "beat": 403.12919996669996,
+          "durationBeats": 0.346511041042291,
+          "channel": 0
+        },
+        {
+          "id": "tgwraa",
+          "note": 69,
+          "velocity": 100,
+          "beat": 403.42797775141526,
+          "durationBeats": 0.39602220695970697,
+          "channel": 0
+        },
+        {
+          "id": "tgwsnf",
+          "note": 70,
+          "velocity": 100,
+          "beat": 403.69366674991676,
+          "durationBeats": 0.5194222444222444,
+          "channel": 0
+        },
+        {
+          "id": "tgwsne",
+          "note": 61,
+          "velocity": 100,
+          "beat": 404.2693998709624,
+          "durationBeats": 0.7987335581085581,
+          "channel": 0
+        },
+        {
+          "id": "tgwubp",
+          "note": 64,
+          "velocity": 100,
+          "beat": 404.9778666645854,
+          "durationBeats": 1.045666573010323,
+          "channel": 0
+        },
+        {
+          "id": "tgwvbs",
+          "note": 69,
+          "velocity": 100,
+          "beat": 405.62404444513817,
+          "durationBeats": 0.3332667332667333,
+          "channel": 0
+        },
+        {
+          "id": "tgwwqt",
+          "note": 72,
+          "velocity": 100,
+          "beat": 405.9017334228272,
+          "durationBeats": 0.8231331168831169,
+          "channel": 0
+        },
+        {
+          "id": "tgwwqs",
+          "note": 60,
+          "velocity": 100,
+          "beat": 406.13591122419245,
+          "durationBeats": 0.6056443556443556,
+          "channel": 0
+        },
+        {
+          "id": "tgwydh",
+          "note": 62,
+          "velocity": 100,
+          "beat": 406.6626443868631,
+          "durationBeats": 0.5483334373959374,
+          "channel": 0
+        },
+        {
+          "id": "tgwzng",
+          "note": 64,
+          "velocity": 100,
+          "beat": 407.1477777430902,
+          "durationBeats": 0.8743555923243423,
+          "channel": 0
+        },
+        {
+          "id": "tgxbch",
+          "note": 71,
+          "velocity": 100,
+          "beat": 407.8254443473193,
+          "durationBeats": 0.33104447635697637,
+          "channel": 0
+        },
+        {
+          "id": "tgxcwc",
+          "note": 72,
+          "velocity": 100,
+          "beat": 408.1624666999667,
+          "durationBeats": 0.5387110285547786,
+          "channel": 0
+        },
+        {
+          "id": "tgxejh",
+          "note": 71,
+          "velocity": 100,
+          "beat": 408.64091117216117,
+          "durationBeats": 0.45531109515484514,
+          "channel": 0
+        },
+        {
+          "id": "tgxejg",
+          "note": 64,
+          "velocity": 100,
+          "beat": 408.9575999521312,
+          "durationBeats": 1.0528445512820512,
+          "channel": 0
+        },
+        {
+          "id": "tgxfxr",
+          "note": 69,
+          "velocity": 100,
+          "beat": 409.0376888736264,
+          "durationBeats": 0.3290222798035298,
+          "channel": 0
+        },
+        {
+          "id": "tgxhha",
+          "note": 64,
+          "velocity": 100,
+          "beat": 410.2966221278721,
+          "durationBeats": 0.246866674991675,
+          "channel": 0
+        },
+        {
+          "id": "tgxivl",
+          "note": 64,
+          "velocity": 100,
+          "beat": 411.0413778929404,
+          "durationBeats": 0.40606658966033965,
+          "channel": 0
+        },
+        {
+          "id": "tgvnxk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 411.6267110493673,
+          "durationBeats": 0.23202240467865468,
+          "channel": 0
+        },
+        {
+          "id": "tgvnxn",
+          "note": 64,
+          "velocity": 100,
+          "beat": 412.05311121170496,
+          "durationBeats": 0.3043555402930403,
+          "channel": 0
+        },
+        {
+          "id": "tgvqkk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 413.0507554945055,
+          "durationBeats": 0.5003335206460207,
+          "channel": 0
+        },
+        {
+          "id": "tgvryf",
+          "note": 64,
+          "velocity": 100,
+          "beat": 414.5255333208458,
+          "durationBeats": 0.30191110972360974,
+          "channel": 0
+        },
+        {
+          "id": "tgvtie",
+          "note": 64,
+          "velocity": 100,
+          "beat": 415.5615777451715,
+          "durationBeats": 0.33095550283050285,
+          "channel": 0
+        },
+        {
+          "id": "tgvuvz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 416.03735561313687,
+          "durationBeats": 0.5012443285880785,
+          "channel": 0
+        },
+        {
+          "id": "tgvuvy",
+          "note": 71,
+          "velocity": 100,
+          "beat": 416.62415553196803,
+          "durationBeats": 0.6200666520979021,
+          "channel": 0
+        },
+        {
+          "id": "tgvwkz",
+          "note": 64,
+          "velocity": 100,
+          "beat": 417.1953554258242,
+          "durationBeats": 1.3994666791541792,
+          "channel": 0
+        },
+        {
+          "id": "tgvzsm",
+          "note": 72,
+          "velocity": 100,
+          "beat": 418.5247333395771,
+          "durationBeats": 0.4590888278388278,
+          "channel": 0
+        },
+        {
+          "id": "tgwbgh",
+          "note": 71,
+          "velocity": 100,
+          "beat": 418.9521998834499,
+          "durationBeats": 0.4108001373626374,
+          "channel": 0
+        },
+        {
+          "id": "tgwcqg",
+          "note": 69,
+          "velocity": 100,
+          "beat": 419.3057999292374,
+          "durationBeats": 0.44677796162171163,
+          "channel": 0
+        },
+        {
+          "id": "tgwefx",
+          "note": 64,
+          "velocity": 100,
+          "beat": 419.62280011655014,
+          "durationBeats": 1.5457776598401598,
+          "channel": 0
+        },
+        {
+          "id": "tgwefw",
+          "note": 72,
+          "velocity": 100,
+          "beat": 421.02922234015983,
+          "durationBeats": 0.2882221944721945,
+          "channel": 0
+        },
+        {
+          "id": "tgwfdb",
+          "note": 71,
+          "velocity": 100,
+          "beat": 421.2662889194139,
+          "durationBeats": 0.47837787212787214,
+          "channel": 0
+        },
+        {
+          "id": "tgwgqc",
+          "note": 69,
+          "velocity": 100,
+          "beat": 421.64111123251746,
+          "durationBeats": 0.367533248001998,
+          "channel": 0
+        },
+        {
+          "id": "tgwicb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 421.83742221320347,
+          "durationBeats": 1.1190000104062605,
+          "channel": 0
+        },
+        {
+          "id": "tgwica",
+          "note": 71,
+          "velocity": 100,
+          "beat": 422.8107556505994,
+          "durationBeats": 0.5482220904095904,
+          "channel": 0
+        },
+        {
+          "id": "tgwjud",
+          "note": 64,
+          "velocity": 100,
+          "beat": 423.41051110347985,
+          "durationBeats": 0.28977767024642026,
+          "channel": 0
+        },
+        {
+          "id": "tgwlfy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 423.64242216117214,
+          "durationBeats": 0.5908000853313353,
+          "channel": 0
+        },
+        {
+          "id": "tguqgf",
+          "note": 62,
+          "velocity": 100,
+          "beat": 424.13913326257074,
+          "durationBeats": 0.5448223651348651,
+          "channel": 0
+        },
+        {
+          "id": "tgurxo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 424.6267110493673,
+          "durationBeats": 0.7759110680985681,
+          "channel": 0
+        },
+        {
+          "id": "tgurxr",
+          "note": 60,
+          "velocity": 100,
+          "beat": 425.36968890484513,
+          "durationBeats": 1.9899111305361306,
+          "channel": 0
+        },
+        {
+          "id": "tgutkc",
+          "note": 64,
+          "velocity": 100,
+          "beat": 428.0569776577589,
+          "durationBeats": 0.5484445242257743,
+          "channel": 0
+        },
+        {
+          "id": "tguvbp",
+          "note": 72,
+          "velocity": 100,
+          "beat": 428.55242231726606,
+          "durationBeats": 0.3052666083916084,
+          "channel": 0
+        },
+        {
+          "id": "tguwoa",
+          "note": 71,
+          "velocity": 100,
+          "beat": 428.8489778450716,
+          "durationBeats": 0.3917111534299034,
+          "channel": 0
+        },
+        {
+          "id": "tguwod",
+          "note": 69,
+          "velocity": 100,
+          "beat": 429.6171999875125,
+          "durationBeats": 0.354755661005661,
+          "channel": 0
+        },
+        {
+          "id": "tguyao",
+          "note": 64,
+          "velocity": 100,
+          "beat": 430.64875567141195,
+          "durationBeats": 0.3426443348318348,
+          "channel": 0
+        },
+        {
+          "id": "tguxkj",
+          "note": 74,
+          "velocity": 100,
+          "beat": 431.09593323343324,
+          "durationBeats": 0.43946678321678323,
+          "channel": 0
+        },
+        {
+          "id": "tguywe",
+          "note": 60,
+          "velocity": 100,
+          "beat": 432.0070000312188,
+          "durationBeats": 0.4430889423076923,
+          "channel": 0
+        },
+        {
+          "id": "tgvakp",
+          "note": 74,
+          "velocity": 100,
+          "beat": 432.48140011030637,
+          "durationBeats": 0.4774444305694306,
+          "channel": 0
+        },
+        {
+          "id": "tgvako",
+          "note": 60,
+          "velocity": 100,
+          "beat": 434.12540012071264,
+          "durationBeats": 0.2338442807192807,
+          "channel": 0
+        },
+        {
+          "id": "tgvcbl",
+          "note": 60,
+          "velocity": 100,
+          "beat": 435.0652888777889,
+          "durationBeats": 0.359822209040959,
+          "channel": 0
+        },
+        {
+          "id": "tgvdng",
+          "note": 60,
+          "velocity": 100,
+          "beat": 435.977933264652,
+          "durationBeats": 0.3468000749250749,
+          "channel": 0
+        },
+        {
+          "id": "tgvfed",
+          "note": 69,
+          "velocity": 100,
+          "beat": 436.61215555278056,
+          "durationBeats": 0.33508886946386945,
+          "channel": 0
+        },
+        {
+          "id": "tgvgsk",
+          "note": 64,
+          "velocity": 100,
+          "beat": 437.0046666874792,
+          "durationBeats": 0.3020666833166833,
+          "channel": 0
+        },
+        {
+          "id": "tgvgrx",
+          "note": 67,
+          "velocity": 100,
+          "beat": 437.4809555028305,
+          "durationBeats": 0.4103334165834166,
+          "channel": 0
+        },
+        {
+          "id": "tgviei",
+          "note": 63,
+          "velocity": 100,
+          "beat": 437.8784889589577,
+          "durationBeats": 0.4434443161005661,
+          "channel": 0
+        },
+        {
+          "id": "tgvjup",
+          "note": 72,
+          "velocity": 100,
+          "beat": 438.4824888653014,
+          "durationBeats": 0.39286676864801867,
+          "channel": 0
+        },
+        {
+          "id": "tgvlha",
+          "note": 62,
+          "velocity": 100,
+          "beat": 438.9923110743423,
+          "durationBeats": 0.46155563186813187,
+          "channel": 0
+        },
+        {
+          "id": "tgvlhd",
+          "note": 71,
+          "velocity": 100,
+          "beat": 439.3867112054612,
+          "durationBeats": 0.37199987512487515,
+          "channel": 0
+        },
+        {
+          "id": "tgvmuu",
+          "note": 64,
+          "velocity": 100,
+          "beat": 439.8678222818848,
+          "durationBeats": 0.4959556068931069,
+          "channel": 0
+        },
+        {
+          "id": "tgtrgh",
+          "note": 69,
+          "velocity": 100,
+          "beat": 440.42031119921745,
+          "durationBeats": 0.4236222111222111,
+          "channel": 0
+        },
+        {
+          "id": "tgtsrm",
+          "note": 60,
+          "velocity": 100,
+          "beat": 440.95142227564105,
+          "durationBeats": 0.5856221903096903,
+          "channel": 0
+        },
+        {
+          "id": "tgtuht",
+          "note": 62,
+          "velocity": 100,
+          "beat": 441.5610444243257,
+          "durationBeats": 0.41860014985014987,
+          "channel": 0
+        },
+        {
+          "id": "tgtuhs",
+          "note": 72,
+          "velocity": 100,
+          "beat": 442.14524433899436,
+          "durationBeats": 0.6354000166500167,
+          "channel": 0
+        },
+        {
+          "id": "tgtvux",
+          "note": 63,
+          "velocity": 100,
+          "beat": 442.67517768689646,
+          "durationBeats": 0.463311167998668,
+          "channel": 0
+        },
+        {
+          "id": "tgtxje",
+          "note": 60,
+          "velocity": 100,
+          "beat": 443.3353779033466,
+          "durationBeats": 0.8122442661505161,
+          "channel": 0
+        },
+        {
+          "id": "tgtyyv",
+          "note": 62,
+          "velocity": 100,
+          "beat": 444.11617783258407,
+          "durationBeats": 0.7845776619214119,
+          "channel": 0
+        },
+        {
+          "id": "tgtyyu",
+          "note": 67,
+          "velocity": 100,
+          "beat": 444.77299991674994,
+          "durationBeats": 0.4101333562271062,
+          "channel": 0
+        },
+        {
+          "id": "tguanf",
+          "note": 72,
+          "velocity": 100,
+          "beat": 445.16495561729937,
+          "durationBeats": 0.6719777618215118,
+          "channel": 0
+        },
+        {
+          "id": "tgucag",
+          "note": 71,
+          "velocity": 100,
+          "beat": 445.7332888465701,
+          "durationBeats": 0.4651333041958042,
+          "channel": 0
+        },
+        {
+          "id": "tgudor",
+          "note": 64,
+          "velocity": 100,
+          "beat": 446.2688223235098,
+          "durationBeats": 0.7609554507992008,
+          "channel": 0
+        },
+        {
+          "id": "tgudoq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 447.1036445325508,
+          "durationBeats": 0.7048888611388612,
+          "channel": 0
+        },
+        {
+          "id": "tgufdr",
+          "note": 62,
+          "velocity": 100,
+          "beat": 447.7956889464702,
+          "durationBeats": 0.4827555257242757,
+          "channel": 0
+        },
+        {
+          "id": "tguhmg",
+          "note": 71,
+          "velocity": 100,
+          "beat": 448.22893330627704,
+          "durationBeats": 0.5280001248751248,
+          "channel": 0
+        },
+        {
+          "id": "tguiyv",
+          "note": 69,
+          "velocity": 100,
+          "beat": 448.7403778513154,
+          "durationBeats": 0.5323998917748918,
+          "channel": 0
+        },
+        {
+          "id": "tgukns",
+          "note": 60,
+          "velocity": 100,
+          "beat": 449.1633556547619,
+          "durationBeats": 1.0879776473526475,
+          "channel": 0
+        },
+        {
+          "id": "tguknv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 451.9388889756077,
+          "durationBeats": 0.4045553404928405,
+          "channel": 0
+        },
+        {
+          "id": "tgumcs",
+          "note": 61,
+          "velocity": 100,
+          "beat": 452.3894222964536,
+          "durationBeats": 0.2753553737928738,
+          "channel": 0
+        },
+        {
+          "id": "tgunqn",
+          "note": 63,
+          "velocity": 100,
+          "beat": 452.84955565268064,
+          "durationBeats": 0.31208869255744254,
+          "channel": 0
+        },
+        {
+          "id": "tgupeu",
+          "note": 62,
+          "velocity": 100,
+          "beat": 453.43086678946054,
+          "durationBeats": 0.30426656676656677,
+          "channel": 0
+        },
+        {
+          "id": "tgupex",
+          "note": 60,
+          "velocity": 100,
+          "beat": 454.11304450757575,
+          "durationBeats": 0.31426672286047286,
+          "channel": 0
+        },
+        {
+          "id": "tgsugw",
+          "note": 64,
+          "velocity": 100,
+          "beat": 454.7642667228605,
+          "durationBeats": 0.2835110202297702,
+          "channel": 0
+        },
+        {
+          "id": "tgsvvh",
+          "note": 61,
+          "velocity": 100,
+          "beat": 455.55257789085914,
+          "durationBeats": 0.33246649184149185,
+          "channel": 0
+        },
+        {
+          "id": "tgsxjo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 456.0803332084582,
+          "durationBeats": 0.4095779220779221,
+          "channel": 0
+        },
+        {
+          "id": "tgsyxz",
+          "note": 62,
+          "velocity": 100,
+          "beat": 456.5917556401931,
+          "durationBeats": 0.4093554882617383,
+          "channel": 0
+        },
+        {
+          "id": "tgsyxy",
+          "note": 64,
+          "velocity": 100,
+          "beat": 457.0286887591575,
+          "durationBeats": 0.36720024766899767,
+          "channel": 0
+        },
+        {
+          "id": "tgtamj",
+          "note": 60,
+          "velocity": 100,
+          "beat": 457.75162233599735,
+          "durationBeats": 0.16546656468531468,
+          "channel": 0
+        },
+        {
+          "id": "tgtbgi",
+          "note": 60,
+          "velocity": 100,
+          "beat": 458.44162217990345,
+          "durationBeats": 0.21211106601731602,
+          "channel": 0
+        },
+        {
+          "id": "tgtcvj",
+          "note": 60,
+          "velocity": 100,
+          "beat": 459.12071105977356,
+          "durationBeats": 0.2839335144022644,
+          "channel": 0
+        },
+        {
+          "id": "tgtcvi",
+          "note": 60,
+          "velocity": 100,
+          "beat": 459.95757783882783,
+          "durationBeats": 0.31862226315351316,
+          "channel": 0
+        },
+        {
+          "id": "tgtejd",
+          "note": 60,
+          "velocity": 100,
+          "beat": 461.15284455128204,
+          "durationBeats": 0.2795332271894772,
+          "channel": 0
+        },
+        {
+          "id": "tgtfya",
+          "note": 60,
+          "velocity": 100,
+          "beat": 461.9382000811688,
+          "durationBeats": 0.16982210497835498,
+          "channel": 0
+        },
+        {
+          "id": "tgthlv",
+          "note": 62,
+          "velocity": 100,
+          "beat": 471.9023112304362,
+          "durationBeats": 1.7791999666999667,
+          "channel": 0
+        },
+        {
+          "id": "tgtjas",
+          "note": 64,
+          "velocity": 100,
+          "beat": 473.94751108266735,
+          "durationBeats": 1.26042212995338,
+          "channel": 0
+        },
+        {
+          "id": "tgtizp",
+          "note": 60,
+          "velocity": 100,
+          "beat": 475.90397779304027,
+          "durationBeats": 0.8685111763236764,
+          "channel": 0
+        },
+        {
+          "id": "tgtkmq",
+          "note": 62,
+          "velocity": 100,
+          "beat": 477.4909777722278,
+          "durationBeats": 1.2945999313186813,
+          "channel": 0
+        },
+        {
+          "id": "tgtlyp",
+          "note": 64,
+          "velocity": 100,
+          "beat": 479.47557780760906,
+          "durationBeats": 0.3353555298867799,
+          "channel": 0
+        },
+        {
+          "id": "tgtnlq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 480.2767334228272,
+          "durationBeats": 0.31922218406593406,
+          "channel": 0
+        },
+        {
+          "id": "tgtoxp",
+          "note": 71,
+          "velocity": 100,
+          "beat": 481.2890887758075,
+          "durationBeats": 0.5298667478354978,
+          "channel": 0
+        },
+        {
+          "id": "tgtoxo",
+          "note": 64,
+          "velocity": 100,
+          "beat": 483.3299554612055,
+          "durationBeats": 0.6384446282883783,
+          "channel": 0
+        },
+        {
+          "id": "tgtqkt",
+          "note": 62,
+          "velocity": 100,
+          "beat": 484.53939992299365,
+          "durationBeats": 0.23984453046953047,
+          "channel": 0
+        },
+        {
+          "id": "tgtqje",
+          "note": 74,
+          "velocity": 100,
+          "beat": 485.1805556422744,
+          "durationBeats": 0.4253553737928738,
+          "channel": 0
+        },
+        {
+          "id": "tgrvjl",
+          "note": 72,
+          "velocity": 100,
+          "beat": 485.82197776182153,
+          "durationBeats": 0.29922213203463205,
+          "channel": 0
+        },
+        {
+          "id": "tgrvjk",
+          "note": 60,
+          "velocity": 100,
+          "beat": 486.553533445721,
+          "durationBeats": 0.5665998064435565,
+          "channel": 0
+        },
+        {
+          "id": "tgrwvz",
+          "note": 62,
+          "velocity": 100,
+          "beat": 487.083977741009,
+          "durationBeats": 0.5532667852980353,
+          "channel": 0
+        },
+        {
+          "id": "tgryik",
+          "note": 64,
+          "velocity": 100,
+          "beat": 487.58615551115554,
+          "durationBeats": 0.584333374958375,
+          "channel": 0
+        },
+        {
+          "id": "tgrzuz",
+          "note": 72,
+          "velocity": 100,
+          "beat": 488.11255567349315,
+          "durationBeats": 0.7718443015318015,
+          "channel": 0
+        },
+        {
+          "id": "tgsbhk",
+          "note": 72,
+          "velocity": 100,
+          "beat": 489.63439997502496,
+          "durationBeats": 0.3803334686147186,
+          "channel": 0
+        },
+        {
+          "id": "tgsbhn",
+          "note": 64,
+          "velocity": 100,
+          "beat": 490.35464457417584,
+          "durationBeats": 0.48195554445554445,
+          "channel": 0
+        },
+        {
+          "id": "tgscty",
+          "note": 62,
+          "velocity": 100,
+          "beat": 492.16497773060274,
+          "durationBeats": 0.6835333936896437,
+          "channel": 0
+        },
+        {
+          "id": "tgsehd",
+          "note": 64,
+          "velocity": 100,
+          "beat": 492.8080000728438,
+          "durationBeats": 0.749644366050616,
+          "channel": 0
+        },
+        {
+          "id": "tgsfsy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 495.17531114718616,
+          "durationBeats": 0.49742210914085916,
+          "channel": 0
+        },
+        {
+          "id": "tgsftb",
+          "note": 62,
+          "velocity": 100,
+          "beat": 495.81791099525475,
+          "durationBeats": 0.3712222673160173,
+          "channel": 0
+        },
+        {
+          "id": "tgshew",
+          "note": 64,
+          "velocity": 100,
+          "beat": 496.791444493007,
+          "durationBeats": 0.8160443722943723,
+          "channel": 0
+        },
+        {
+          "id": "tgsiqv",
+          "note": 62,
+          "velocity": 100,
+          "beat": 504.04522222569096,
+          "durationBeats": 0.6741334186646687,
+          "channel": 0
+        },
+        {
+          "id": "tgskfc",
+          "note": 62,
+          "velocity": 100,
+          "beat": 504.7559110160673,
+          "durationBeats": 0.9098000957375957,
+          "channel": 0
+        },
+        {
+          "id": "tgslrb",
+          "note": 64,
+          "velocity": 100,
+          "beat": 507.74591112012985,
+          "durationBeats": 1.7762222152847154,
+          "channel": 0
+        },
+        {
+          "id": "tgslra",
+          "note": 60,
+          "velocity": 100,
+          "beat": 509.67546672077924,
+          "durationBeats": 1.3140666625041626,
+          "channel": 0
+        },
+        {
+          "id": "tgsncj",
+          "note": 62,
+          "velocity": 100,
+          "beat": 511.28217771811524,
+          "durationBeats": 2.168355602730603,
+          "channel": 0
+        },
+        {
+          "id": "tgsoou",
+          "note": 60,
+          "velocity": 100,
+          "beat": 513.5265999625375,
+          "durationBeats": 1.0776000041625042,
+          "channel": 0
+        },
+        {
+          "id": "tgsqcp",
+          "note": 64,
+          "velocity": 100,
+          "beat": 514.8857556505994,
+          "durationBeats": 1.1021998834498834,
+          "channel": 0
+        },
+        {
+          "id": "tgsrpa",
+          "note": 64,
+          "velocity": 100,
+          "beat": 547.0925111346986,
+          "durationBeats": 1.8261111284548786,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 41,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ticj": {
+    "id": "ticj",
+    "trackId": "neb",
+    "name": "Jan 28 stems Audio-2.aif",
+    "startBeat": 0.0,
+    "lengthBeats": 273.0667555555556,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "/Volumes/Studio Collective/Dropbox/Updating template Project/Samples/Imported/Jan 28 stems Audio-2.aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 6144002,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 57,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": true,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  }
+}
