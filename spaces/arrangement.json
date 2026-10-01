@@ -82,16 +82,6 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
-    },
-    "fnu": {
-      "id": "fnu",
-      "name": "Palette Patterns",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -101,9 +91,9 @@
     "rnq",
     "raj",
     "rdw",
-    "rep",
-    "fnu"
+    "rep"
   ],
+  "groups": {},
   "sections": {
     "ifc": {
       "id": "ifc",

@@ -1,7 +1,7 @@
 {
-  "vaut": {
-    "id": "vaut",
-    "trackId": "fnu",
+  "htpf": {
+    "id": "htpf",
+    "trackId": "cre",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,

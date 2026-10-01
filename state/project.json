@@ -12,8 +12,10 @@
     "bufferSize": 512
   },
   "trackAppearance": {},
-  "customEditors": {},
-  "vibeFxEditors": {},
+  "embeddedTemplates": {},
   "videoFilePath": null,
-  "scriptFxEditors": {}
+  "spaces": [],
+  "customEditors": {},
+  "scriptFxEditors": {},
+  "vibeFxEditors": {}
 }
