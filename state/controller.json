@@ -1,75 +1,7132 @@
 {
-  "mappings": {},
-  "nextId": 0,
-  "macros": {},
+  "mappings": {
+    "m0": {
+      "id": "m0",
+      "cc": {
+        "channel": 10,
+        "cc": 36,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "fce",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "piano mute"
+    },
+    "m1": {
+      "id": "m1",
+      "cc": {
+        "channel": 10,
+        "cc": 16,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "fce",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "piano vol"
+    },
+    "m2": {
+      "id": "m2",
+      "cc": {
+        "channel": 10,
+        "cc": 37,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wgv",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "polybrute -m mute"
+    },
+    "m3": {
+      "id": "m3",
+      "cc": {
+        "channel": 10,
+        "cc": 17,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wgv",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "polybrute -m vol"
+    },
+    "m4": {
+      "id": "m4",
+      "cc": {
+        "channel": 10,
+        "cc": 38,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "kyh",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "sub37 mute"
+    },
+    "m5": {
+      "id": "m5",
+      "cc": {
+        "channel": 10,
+        "cc": 18,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "kyh",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "sub37 vol"
+    },
+    "m6": {
+      "id": "m6",
+      "cc": {
+        "channel": 10,
+        "cc": 39,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "akl",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "nord mute"
+    },
+    "m7": {
+      "id": "m7",
+      "cc": {
+        "channel": 10,
+        "cc": 19,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "akl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "nord vol"
+    },
+    "m8": {
+      "id": "m8",
+      "cc": {
+        "channel": 11,
+        "cc": 36,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "gxu",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kick mute"
+    },
+    "m9": {
+      "id": "m9",
+      "cc": {
+        "channel": 11,
+        "cc": 16,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "gxu",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kick vol"
+    },
+    "m10": {
+      "id": "m10",
+      "cc": {
+        "channel": 11,
+        "cc": 37,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "jmp",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "heartbeat mute"
+    },
+    "m11": {
+      "id": "m11",
+      "cc": {
+        "channel": 11,
+        "cc": 17,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "jmp",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "heartbeat vol"
+    },
+    "m12": {
+      "id": "m12",
+      "cc": {
+        "channel": 11,
+        "cc": 38,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit mute"
+    },
+    "m13": {
+      "id": "m13",
+      "cc": {
+        "channel": 11,
+        "cc": 18,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m14": {
+      "id": "m14",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m15": {
+      "id": "m15",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m16": {
+      "id": "m16",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m17": {
+      "id": "m17",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m18": {
+      "id": "m18",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m19": {
+      "id": "m19",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m20": {
+      "id": "m20",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m21": {
+      "id": "m21",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m22": {
+      "id": "m22",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m23": {
+      "id": "m23",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m24": {
+      "id": "m24",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m25": {
+      "id": "m25",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m26": {
+      "id": "m26",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m27": {
+      "id": "m27",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m28": {
+      "id": "m28",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m29": {
+      "id": "m29",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit vol"
+    },
+    "m30": {
+      "id": "m30",
+      "cc": {
+        "channel": 16,
+        "cc": 7,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit mute"
+    },
+    "m31": {
+      "id": "m31",
+      "cc": {
+        "channel": 16,
+        "cc": 4,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit mute"
+    },
+    "m32": {
+      "id": "m32",
+      "cc": {
+        "channel": 16,
+        "cc": 6,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "wdl",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kit mute"
+    },
+    "m33": {
+      "id": "m33",
+      "cc": {
+        "channel": 11,
+        "cc": 39,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "yky",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "sampler mute"
+    },
+    "m34": {
+      "id": "m34",
+      "cc": {
+        "channel": 11,
+        "cc": 19,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "yky",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "sampler vol"
+    },
+    "m35": {
+      "id": "m35",
+      "cc": {
+        "channel": 12,
+        "cc": 36,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "org",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "mic/line mute"
+    },
+    "m36": {
+      "id": "m36",
+      "cc": {
+        "channel": 12,
+        "cc": 16,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "org",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "mic/line vol"
+    },
+    "m37": {
+      "id": "m37",
+      "cc": {
+        "channel": 12,
+        "cc": 37,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "nxi",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "mic/line mute"
+    },
+    "m38": {
+      "id": "m38",
+      "cc": {
+        "channel": 12,
+        "cc": 17,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "nxi",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "mic/line vol"
+    },
+    "m39": {
+      "id": "m39",
+      "cc": {
+        "channel": 12,
+        "cc": 38,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ycv",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "mic/line mute"
+    },
+    "m40": {
+      "id": "m40",
+      "cc": {
+        "channel": 12,
+        "cc": 18,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ycv",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "mic/line vol"
+    },
+    "m41": {
+      "id": "m41",
+      "cc": {
+        "channel": 12,
+        "cc": 39,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "lfd",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "mic/line mute"
+    },
+    "m42": {
+      "id": "m42",
+      "cc": {
+        "channel": 12,
+        "cc": 19,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "lfd",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "mic/line vol"
+    },
+    "m43": {
+      "id": "m43",
+      "cc": {
+        "channel": 13,
+        "cc": 36,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "umh",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "surge mute"
+    },
+    "m44": {
+      "id": "m44",
+      "cc": {
+        "channel": 13,
+        "cc": 16,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "umh",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "surge vol"
+    },
+    "m45": {
+      "id": "m45",
+      "cc": {
+        "channel": 13,
+        "cc": 37,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "irg",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "stage73 mute"
+    },
+    "m46": {
+      "id": "m46",
+      "cc": {
+        "channel": 13,
+        "cc": 17,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "irg",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "stage73 vol"
+    },
+    "m47": {
+      "id": "m47",
+      "cc": {
+        "channel": 13,
+        "cc": 38,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "rat",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "aug voices mute"
+    },
+    "m48": {
+      "id": "m48",
+      "cc": {
+        "channel": 13,
+        "cc": 18,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "rat",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "aug voices vol"
+    },
+    "m49": {
+      "id": "m49",
+      "cc": {
+        "channel": 13,
+        "cc": 39,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "yqb",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "infinite crate mute"
+    },
+    "m50": {
+      "id": "m50",
+      "cc": {
+        "channel": 13,
+        "cc": 19,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "yqb",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "infinite crate vol"
+    },
+    "m51": {
+      "id": "m51",
+      "cc": {
+        "channel": 16,
+        "cc": 6,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "hgl",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "Rec 1 - Bass mute"
+    },
+    "m52": {
+      "id": "m52",
+      "cc": {
+        "channel": 10,
+        "cc": 19,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m53": {
+      "id": "m53",
+      "cc": {
+        "channel": 10,
+        "cc": 76,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m54": {
+      "id": "m54",
+      "cc": {
+        "channel": 10,
+        "cc": 78,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m55": {
+      "id": "m55",
+      "cc": {
+        "channel": 11,
+        "cc": 19,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m56": {
+      "id": "m56",
+      "cc": {
+        "channel": 11,
+        "cc": 76,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m57": {
+      "id": "m57",
+      "cc": {
+        "channel": 12,
+        "cc": 19,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m58": {
+      "id": "m58",
+      "cc": {
+        "channel": 12,
+        "cc": 76,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m59": {
+      "id": "m59",
+      "cc": {
+        "channel": 12,
+        "cc": 77,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m60": {
+      "id": "m60",
+      "cc": {
+        "channel": 12,
+        "cc": 79,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "iti",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SOUND DESIGN mute"
+    },
+    "m61": {
+      "id": "m61",
+      "cc": {
+        "channel": 12,
+        "cc": 41,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "pvr",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "Record vol"
+    },
+    "m62": {
+      "id": "m62",
+      "cc": {
+        "channel": 10,
+        "cc": 60,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "gvv",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "bass vol"
+    },
+    "m63": {
+      "id": "m63",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "gvv",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "bass mute"
+    },
+    "m64": {
+      "id": "m64",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "gvv",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "bass mute"
+    },
+    "m65": {
+      "id": "m65",
+      "cc": {
+        "channel": 10,
+        "cc": 61,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "oow",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kick drum vol"
+    },
+    "m66": {
+      "id": "m66",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "oow",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kick drum mute"
+    },
+    "m67": {
+      "id": "m67",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "oow",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "kick drum mute"
+    },
+    "m68": {
+      "id": "m68",
+      "cc": {
+        "channel": 10,
+        "cc": 62,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ujf",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "melody vol"
+    },
+    "m69": {
+      "id": "m69",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ujf",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "melody mute"
+    },
+    "m70": {
+      "id": "m70",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ujf",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "melody mute"
+    },
+    "m71": {
+      "id": "m71",
+      "cc": {
+        "channel": 10,
+        "cc": 63,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ilr",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "harm vol"
+    },
+    "m72": {
+      "id": "m72",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ilr",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "harm mute"
+    },
+    "m73": {
+      "id": "m73",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ilr",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "harm mute"
+    },
+    "m74": {
+      "id": "m74",
+      "cc": {
+        "channel": 11,
+        "cc": 60,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "nap",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "drums vol"
+    },
+    "m75": {
+      "id": "m75",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "nap",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "drums mute"
+    },
+    "m76": {
+      "id": "m76",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "nap",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "drums mute"
+    },
+    "m77": {
+      "id": "m77",
+      "cc": {
+        "channel": 11,
+        "cc": 61,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "blg",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "drums vol"
+    },
+    "m78": {
+      "id": "m78",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "blg",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "drums mute"
+    },
+    "m79": {
+      "id": "m79",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "blg",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "drums mute"
+    },
+    "m80": {
+      "id": "m80",
+      "cc": {
+        "channel": 11,
+        "cc": 62,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "kdg",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "hidrm vol"
+    },
+    "m81": {
+      "id": "m81",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "kdg",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "hidrm mute"
+    },
+    "m82": {
+      "id": "m82",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "kdg",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "hidrm mute"
+    },
+    "m83": {
+      "id": "m83",
+      "cc": {
+        "channel": 11,
+        "cc": 63,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "cnu",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "hidrm vol"
+    },
+    "m84": {
+      "id": "m84",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "cnu",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "hidrm mute"
+    },
+    "m85": {
+      "id": "m85",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "cnu",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "hidrm mute"
+    },
+    "m86": {
+      "id": "m86",
+      "cc": {
+        "channel": 12,
+        "cc": 60,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "nvv",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "cntr vol"
+    },
+    "m87": {
+      "id": "m87",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "nvv",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "cntr mute"
+    },
+    "m88": {
+      "id": "m88",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "nvv",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "cntr mute"
+    },
+    "m89": {
+      "id": "m89",
+      "cc": {
+        "channel": 12,
+        "cc": 61,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ubv",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "pad vol"
+    },
+    "m90": {
+      "id": "m90",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ubv",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "pad mute"
+    },
+    "m91": {
+      "id": "m91",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ubv",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "pad mute"
+    },
+    "m92": {
+      "id": "m92",
+      "cc": {
+        "channel": 12,
+        "cc": 62,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "eat",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "tnsn vol"
+    },
+    "m93": {
+      "id": "m93",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "eat",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "tnsn mute"
+    },
+    "m94": {
+      "id": "m94",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "eat",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "tnsn mute"
+    },
+    "m95": {
+      "id": "m95",
+      "cc": {
+        "channel": 12,
+        "cc": 63,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ijq",
+        "param": "volume"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "emtn vol"
+    },
+    "m96": {
+      "id": "m96",
+      "cc": {
+        "channel": 16,
+        "cc": 1,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ijq",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "emtn mute"
+    },
+    "m97": {
+      "id": "m97",
+      "cc": {
+        "channel": 16,
+        "cc": 10,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "trackParam",
+        "trackId": "ijq",
+        "param": "mute"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "toggle",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "emtn mute"
+    },
+    "m98": {
+      "id": "m98",
+      "cc": {
+        "channel": 16,
+        "cc": 0,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trnzwdl"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "Low Gain  "
+    },
+    "m99": {
+      "id": "m99",
+      "cc": {
+        "channel": 16,
+        "cc": 3,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tsrxwdl"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "Gain"
+    },
+    "m100": {
+      "id": "m100",
+      "cc": {
+        "channel": 16,
+        "cc": 4,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tyypwdl"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "Drive Amount"
+    },
+    "m101": {
+      "id": "m101",
+      "cc": {
+        "channel": 16,
+        "cc": 5,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tyyswdl"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "Drive Tone"
+    },
+    "m102": {
+      "id": "m102",
+      "cc": {
+        "channel": 16,
+        "cc": 6,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tohawdl"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "Glue"
+    },
+    "m103": {
+      "id": "m103",
+      "cc": {
+        "channel": 16,
+        "cc": 7,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "ttcdwdl"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "Vintage"
+    },
+    "m104": {
+      "id": "m104",
+      "cc": {
+        "channel": 10,
+        "cc": 30,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tcxkiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "INTERVAL"
+    },
+    "m105": {
+      "id": "m105",
+      "cc": {
+        "channel": 10,
+        "cc": 31,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tcrriti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "OFFSET"
+    },
+    "m106": {
+      "id": "m106",
+      "cc": {
+        "channel": 10,
+        "cc": 32,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tjjoiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "COMP PEAK"
+    },
+    "m107": {
+      "id": "m107",
+      "cc": {
+        "channel": 10,
+        "cc": 33,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "teuwiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "COMP EMPH"
+    },
+    "m108": {
+      "id": "m108",
+      "cc": {
+        "channel": 10,
+        "cc": 34,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "twsjiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "CHANCE"
+    },
+    "m109": {
+      "id": "m109",
+      "cc": {
+        "channel": 10,
+        "cc": 35,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tawliti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "GATE"
+    },
+    "m110": {
+      "id": "m110",
+      "cc": {
+        "channel": 10,
+        "cc": 36,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tloniti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "COMP GAIN"
+    },
+    "m111": {
+      "id": "m111",
+      "cc": {
+        "channel": 10,
+        "cc": 37,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tcmsiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "COMP MIX"
+    },
+    "m112": {
+      "id": "m112",
+      "cc": {
+        "channel": 11,
+        "cc": 30,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trpditi"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SAT DYNAM"
+    },
+    "m113": {
+      "id": "m113",
+      "cc": {
+        "channel": 11,
+        "cc": 31,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tnqziti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "FUNCTION"
+    },
+    "m114": {
+      "id": "m114",
+      "cc": {
+        "channel": 11,
+        "cc": 32,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tytpiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SAT HI CUT"
+    },
+    "m115": {
+      "id": "m115",
+      "cc": {
+        "channel": 11,
+        "cc": 33,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tmqiiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SAT PRESENCE"
+    },
+    "m116": {
+      "id": "m116",
+      "cc": {
+        "channel": 11,
+        "cc": 34,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tnspiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SAT DRIVE"
+    },
+    "m117": {
+      "id": "m117",
+      "cc": {
+        "channel": 11,
+        "cc": 35,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tqqziti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BIAS"
+    },
+    "m118": {
+      "id": "m118",
+      "cc": {
+        "channel": 11,
+        "cc": 36,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tashiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "OUTPUT"
+    },
+    "m119": {
+      "id": "m119",
+      "cc": {
+        "channel": 11,
+        "cc": 37,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tyebiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "SAT MIX"
+    },
+    "m120": {
+      "id": "m120",
+      "cc": {
+        "channel": 12,
+        "cc": 30,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "twqviti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "ECHO LEVEL"
+    },
+    "m121": {
+      "id": "m121",
+      "cc": {
+        "channel": 12,
+        "cc": 31,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tdwtiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "FEEDBACK"
+    },
+    "m122": {
+      "id": "m122",
+      "cc": {
+        "channel": 12,
+        "cc": 32,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tnpeiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB"
+    },
+    "m123": {
+      "id": "m123",
+      "cc": {
+        "channel": 12,
+        "cc": 33,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tphditi"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "WIDTH"
+    },
+    "m124": {
+      "id": "m124",
+      "cc": {
+        "channel": 12,
+        "cc": 34,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tuwoiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BLEND"
+    },
+    "m125": {
+      "id": "m125",
+      "cc": {
+        "channel": 12,
+        "cc": 35,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvpwiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DRIVE"
+    },
+    "m126": {
+      "id": "m126",
+      "cc": {
+        "channel": 12,
+        "cc": 36,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tririti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DRY/WET"
+    },
+    "m127": {
+      "id": "m127",
+      "cc": {
+        "channel": 12,
+        "cc": 37,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tmvjiti"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "GAIN"
+    },
+    "m128": {
+      "id": "m128",
+      "cc": {
+        "channel": 10,
+        "cc": 45,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trzugvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m129": {
+      "id": "m129",
+      "cc": {
+        "channel": 10,
+        "cc": 125,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tqwpgvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m130": {
+      "id": "m130",
+      "cc": {
+        "channel": 10,
+        "cc": 121,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tgjigvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m131": {
+      "id": "m131",
+      "cc": {
+        "channel": 10,
+        "cc": 113,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tutogvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m132": {
+      "id": "m132",
+      "cc": {
+        "channel": 10,
+        "cc": 104,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "twpogvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m133": {
+      "id": "m133",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tznrgvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m134": {
+      "id": "m134",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvbjgvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m135": {
+      "id": "m135",
+      "cc": {
+        "channel": 10,
+        "cc": 44,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tkozoow"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m136": {
+      "id": "m136",
+      "cc": {
+        "channel": 10,
+        "cc": 124,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tdowoow"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m137": {
+      "id": "m137",
+      "cc": {
+        "channel": 10,
+        "cc": 120,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tiofoow"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m138": {
+      "id": "m138",
+      "cc": {
+        "channel": 10,
+        "cc": 112,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tcuioow"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m139": {
+      "id": "m139",
+      "cc": {
+        "channel": 10,
+        "cc": 105,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "teoaoow"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m140": {
+      "id": "m140",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tsrcoow"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m141": {
+      "id": "m141",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "ttzgoow"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m142": {
+      "id": "m142",
+      "cc": {
+        "channel": 10,
+        "cc": 46,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "thdtujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m143": {
+      "id": "m143",
+      "cc": {
+        "channel": 10,
+        "cc": 126,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tbyrujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m144": {
+      "id": "m144",
+      "cc": {
+        "channel": 10,
+        "cc": 50,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tivyujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m145": {
+      "id": "m145",
+      "cc": {
+        "channel": 10,
+        "cc": 122,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tuleujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m146": {
+      "id": "m146",
+      "cc": {
+        "channel": 10,
+        "cc": 54,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "takvujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m147": {
+      "id": "m147",
+      "cc": {
+        "channel": 10,
+        "cc": 118,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tssyujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m148": {
+      "id": "m148",
+      "cc": {
+        "channel": 10,
+        "cc": 58,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tpwxujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m149": {
+      "id": "m149",
+      "cc": {
+        "channel": 10,
+        "cc": 114,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "terhujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m150": {
+      "id": "m150",
+      "cc": {
+        "channel": 10,
+        "cc": 106,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tjcnujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m151": {
+      "id": "m151",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tzzsujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m152": {
+      "id": "m152",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tzzsujf"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m153": {
+      "id": "m153",
+      "cc": {
+        "channel": 10,
+        "cc": 47,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tjqnilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m154": {
+      "id": "m154",
+      "cc": {
+        "channel": 10,
+        "cc": 127,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tmzeilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m155": {
+      "id": "m155",
+      "cc": {
+        "channel": 10,
+        "cc": 51,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tqzgilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m156": {
+      "id": "m156",
+      "cc": {
+        "channel": 10,
+        "cc": 123,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tmadilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m157": {
+      "id": "m157",
+      "cc": {
+        "channel": 10,
+        "cc": 55,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tmcbilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m158": {
+      "id": "m158",
+      "cc": {
+        "channel": 10,
+        "cc": 119,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tlulilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m159": {
+      "id": "m159",
+      "cc": {
+        "channel": 10,
+        "cc": 59,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tyaailr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m160": {
+      "id": "m160",
+      "cc": {
+        "channel": 10,
+        "cc": 115,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tqpkilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m161": {
+      "id": "m161",
+      "cc": {
+        "channel": 10,
+        "cc": 107,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tostilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m162": {
+      "id": "m162",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tsqgilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m163": {
+      "id": "m163",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tntkilr"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m164": {
+      "id": "m164",
+      "cc": {
+        "channel": 11,
+        "cc": 44,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tothnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m165": {
+      "id": "m165",
+      "cc": {
+        "channel": 11,
+        "cc": 124,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvwcnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m166": {
+      "id": "m166",
+      "cc": {
+        "channel": 11,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trmbnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m167": {
+      "id": "m167",
+      "cc": {
+        "channel": 11,
+        "cc": 120,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tgufnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m168": {
+      "id": "m168",
+      "cc": {
+        "channel": 11,
+        "cc": 52,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tburnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m169": {
+      "id": "m169",
+      "cc": {
+        "channel": 11,
+        "cc": 116,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tboynap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m170": {
+      "id": "m170",
+      "cc": {
+        "channel": 11,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tugpnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m171": {
+      "id": "m171",
+      "cc": {
+        "channel": 11,
+        "cc": 112,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "twvanap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m172": {
+      "id": "m172",
+      "cc": {
+        "channel": 11,
+        "cc": 104,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tefvnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m173": {
+      "id": "m173",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tnrnnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m174": {
+      "id": "m174",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tcmjnap"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m175": {
+      "id": "m175",
+      "cc": {
+        "channel": 11,
+        "cc": 45,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tflfblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m176": {
+      "id": "m176",
+      "cc": {
+        "channel": 11,
+        "cc": 45,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tiopblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m177": {
+      "id": "m177",
+      "cc": {
+        "channel": 11,
+        "cc": 49,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tynjblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m178": {
+      "id": "m178",
+      "cc": {
+        "channel": 11,
+        "cc": 121,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tofkblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m179": {
+      "id": "m179",
+      "cc": {
+        "channel": 11,
+        "cc": 53,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tqpoblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m180": {
+      "id": "m180",
+      "cc": {
+        "channel": 11,
+        "cc": 117,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tdqzblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m181": {
+      "id": "m181",
+      "cc": {
+        "channel": 11,
+        "cc": 57,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tqziblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m182": {
+      "id": "m182",
+      "cc": {
+        "channel": 11,
+        "cc": 113,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tdghblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m183": {
+      "id": "m183",
+      "cc": {
+        "channel": 11,
+        "cc": 105,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trzvblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m184": {
+      "id": "m184",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tflrblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m185": {
+      "id": "m185",
+      "cc": {
+        "channel": 10,
+        "cc": 57,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvszblg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m186": {
+      "id": "m186",
+      "cc": {
+        "channel": 11,
+        "cc": 46,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trgdkdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m187": {
+      "id": "m187",
+      "cc": {
+        "channel": 11,
+        "cc": 126,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "ttwikdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m188": {
+      "id": "m188",
+      "cc": {
+        "channel": 11,
+        "cc": 50,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tryskdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m189": {
+      "id": "m189",
+      "cc": {
+        "channel": 11,
+        "cc": 122,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "txgskdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m190": {
+      "id": "m190",
+      "cc": {
+        "channel": 11,
+        "cc": 54,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tjsikdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m191": {
+      "id": "m191",
+      "cc": {
+        "channel": 11,
+        "cc": 118,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvrekdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m192": {
+      "id": "m192",
+      "cc": {
+        "channel": 11,
+        "cc": 58,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tdzikdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m193": {
+      "id": "m193",
+      "cc": {
+        "channel": 11,
+        "cc": 114,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tdnfkdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m194": {
+      "id": "m194",
+      "cc": {
+        "channel": 11,
+        "cc": 106,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tzfukdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m195": {
+      "id": "m195",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tkiskdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m196": {
+      "id": "m196",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tcjkkdg"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m197": {
+      "id": "m197",
+      "cc": {
+        "channel": 11,
+        "cc": 47,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tfiicnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m198": {
+      "id": "m198",
+      "cc": {
+        "channel": 11,
+        "cc": 127,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tcancnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m199": {
+      "id": "m199",
+      "cc": {
+        "channel": 11,
+        "cc": 51,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tyincnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m200": {
+      "id": "m200",
+      "cc": {
+        "channel": 11,
+        "cc": 123,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tabdcnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m201": {
+      "id": "m201",
+      "cc": {
+        "channel": 11,
+        "cc": 55,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "thajcnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m202": {
+      "id": "m202",
+      "cc": {
+        "channel": 11,
+        "cc": 119,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tddvcnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m203": {
+      "id": "m203",
+      "cc": {
+        "channel": 11,
+        "cc": 59,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trslcnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m204": {
+      "id": "m204",
+      "cc": {
+        "channel": 11,
+        "cc": 59,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tkyocnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m205": {
+      "id": "m205",
+      "cc": {
+        "channel": 11,
+        "cc": 107,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tmktcnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m206": {
+      "id": "m206",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tnvdcnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m207": {
+      "id": "m207",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvlqcnu"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m208": {
+      "id": "m208",
+      "cc": {
+        "channel": 12,
+        "cc": 44,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvimnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m209": {
+      "id": "m209",
+      "cc": {
+        "channel": 12,
+        "cc": 124,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tjlbnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m210": {
+      "id": "m210",
+      "cc": {
+        "channel": 12,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "txwnnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m211": {
+      "id": "m211",
+      "cc": {
+        "channel": 12,
+        "cc": 120,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tajwnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m212": {
+      "id": "m212",
+      "cc": {
+        "channel": 12,
+        "cc": 52,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tkjxnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m213": {
+      "id": "m213",
+      "cc": {
+        "channel": 12,
+        "cc": 116,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tyzdnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m214": {
+      "id": "m214",
+      "cc": {
+        "channel": 12,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tjynnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m215": {
+      "id": "m215",
+      "cc": {
+        "channel": 12,
+        "cc": 112,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tksanvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m216": {
+      "id": "m216",
+      "cc": {
+        "channel": 12,
+        "cc": 104,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tdftnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m217": {
+      "id": "m217",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "teqlnvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m218": {
+      "id": "m218",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "ttuunvv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m219": {
+      "id": "m219",
+      "cc": {
+        "channel": 12,
+        "cc": 125,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tjanubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m220": {
+      "id": "m220",
+      "cc": {
+        "channel": 12,
+        "cc": 45,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tselubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m221": {
+      "id": "m221",
+      "cc": {
+        "channel": 12,
+        "cc": 49,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tnmmubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m222": {
+      "id": "m222",
+      "cc": {
+        "channel": 12,
+        "cc": 121,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "thynubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m223": {
+      "id": "m223",
+      "cc": {
+        "channel": 12,
+        "cc": 53,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvhyubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m224": {
+      "id": "m224",
+      "cc": {
+        "channel": 12,
+        "cc": 117,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tefrubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m225": {
+      "id": "m225",
+      "cc": {
+        "channel": 12,
+        "cc": 57,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tavwubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m226": {
+      "id": "m226",
+      "cc": {
+        "channel": 12,
+        "cc": 113,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trvrubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m227": {
+      "id": "m227",
+      "cc": {
+        "channel": 12,
+        "cc": 105,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tairubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m228": {
+      "id": "m228",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tkeuubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m229": {
+      "id": "m229",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tscfubv"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m230": {
+      "id": "m230",
+      "cc": {
+        "channel": 12,
+        "cc": 46,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "trbueat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m231": {
+      "id": "m231",
+      "cc": {
+        "channel": 12,
+        "cc": 126,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tqikeat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m232": {
+      "id": "m232",
+      "cc": {
+        "channel": 12,
+        "cc": 50,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tuqyeat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m233": {
+      "id": "m233",
+      "cc": {
+        "channel": 12,
+        "cc": 54,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tvaueat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m234": {
+      "id": "m234",
+      "cc": {
+        "channel": 12,
+        "cc": 118,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "thpbeat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m235": {
+      "id": "m235",
+      "cc": {
+        "channel": 12,
+        "cc": 58,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "thvqeat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m236": {
+      "id": "m236",
+      "cc": {
+        "channel": 12,
+        "cc": 106,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tkgleat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m237": {
+      "id": "m237",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "torzeat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m238": {
+      "id": "m238",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tpzveat"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    },
+    "m239": {
+      "id": "m239",
+      "cc": {
+        "channel": 12,
+        "cc": 47,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tsjgijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT LENGTH"
+    },
+    "m240": {
+      "id": "m240",
+      "cc": {
+        "channel": 12,
+        "cc": 127,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tfunijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BEAT   ON"
+    },
+    "m241": {
+      "id": "m241",
+      "cc": {
+        "channel": 12,
+        "cc": 51,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tepaijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "REVERB SEND"
+    },
+    "m242": {
+      "id": "m242",
+      "cc": {
+        "channel": 12,
+        "cc": 123,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tlqwijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC ON"
+    },
+    "m243": {
+      "id": "m243",
+      "cc": {
+        "channel": 12,
+        "cc": 55,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tnzbijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS FREQ"
+    },
+    "m244": {
+      "id": "m244",
+      "cc": {
+        "channel": 12,
+        "cc": 119,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tufcijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "BPASS ON"
+    },
+    "m245": {
+      "id": "m245",
+      "cc": {
+        "channel": 12,
+        "cc": 59,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tjlrijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "DELAY SEND"
+    },
+    "m246": {
+      "id": "m246",
+      "cc": {
+        "channel": 12,
+        "cc": 115,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "txieijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC ON"
+    },
+    "m247": {
+      "id": "m247",
+      "cc": {
+        "channel": 12,
+        "cc": 107,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "twsjijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "+10 GAIN"
+    },
+    "m248": {
+      "id": "m248",
+      "cc": {
+        "channel": 10,
+        "cc": 56,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tmrqijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "LC FREQ"
+    },
+    "m249": {
+      "id": "m249",
+      "cc": {
+        "channel": 10,
+        "cc": 48,
+        "kind": "note"
+      },
+      "device": null,
+      "target": {
+        "kind": "macro",
+        "macroId": "tzuvijq"
+      },
+      "min": 0.0,
+      "max": 1.0,
+      "scaling": "linear",
+      "enabled": true,
+      "inverted": false,
+      "softTakeover": false,
+      "name": "HC FREQ"
+    }
+  },
+  "nextId": 250,
+  "macros": {
+    "tdkqwdl": {
+      "id": "tdkqwdl",
+      "name": "Tune",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.5,
+      "slots": []
+    },
+    "tqudwdl": {
+      "id": "tqudwdl",
+      "name": "Level",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.85,
+      "slots": []
+    },
+    "thttwdl": {
+      "id": "thttwdl",
+      "name": "Decay",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "trnzwdl": {
+      "id": "trnzwdl",
+      "name": "Low Gain  ",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tsrxwdl": {
+      "id": "tsrxwdl",
+      "name": "Gain",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tyypwdl": {
+      "id": "tyypwdl",
+      "name": "Drive Amount",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tyyswdl": {
+      "id": "tyyswdl",
+      "name": "Drive Tone",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tohawdl": {
+      "id": "tohawdl",
+      "name": "Glue",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "ttcdwdl": {
+      "id": "ttcdwdl",
+      "name": "Vintage",
+      "scope": {
+        "kind": "track",
+        "trackId": "wdl"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tjdohgl": {
+      "id": "tjdohgl",
+      "name": "Drive",
+      "scope": {
+        "kind": "track",
+        "trackId": "hgl"
+      },
+      "value": 0.6457,
+      "slots": []
+    },
+    "tavphgl": {
+      "id": "tavphgl",
+      "name": "Trnsnt",
+      "scope": {
+        "kind": "track",
+        "trackId": "hgl"
+      },
+      "value": 0.9134,
+      "slots": []
+    },
+    "tvkghgl": {
+      "id": "tvkghgl",
+      "name": "Comp Thresh",
+      "scope": {
+        "kind": "track",
+        "trackId": "hgl"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tmilhgl": {
+      "id": "tmilhgl",
+      "name": "Comp Gain",
+      "scope": {
+        "kind": "track",
+        "trackId": "hgl"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tlzmhgl": {
+      "id": "tlzmhgl",
+      "name": "Space",
+      "scope": {
+        "kind": "track",
+        "trackId": "hgl"
+      },
+      "value": 0.2205,
+      "slots": []
+    },
+    "txquhgl": {
+      "id": "txquhgl",
+      "name": "Limiter Gain",
+      "scope": {
+        "kind": "track",
+        "trackId": "hgl"
+      },
+      "value": 0.2598,
+      "slots": []
+    },
+    "tcxkiti": {
+      "id": "tcxkiti",
+      "name": "INTERVAL",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.4646,
+      "slots": []
+    },
+    "tcrriti": {
+      "id": "tcrriti",
+      "name": "OFFSET",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tjjoiti": {
+      "id": "tjjoiti",
+      "name": "COMP PEAK",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.5659,
+      "slots": []
+    },
+    "teuwiti": {
+      "id": "teuwiti",
+      "name": "COMP EMPH",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "twsjiti": {
+      "id": "twsjiti",
+      "name": "CHANCE",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.7008,
+      "slots": []
+    },
+    "tawliti": {
+      "id": "tawliti",
+      "name": "GATE",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.2283,
+      "slots": []
+    },
+    "tloniti": {
+      "id": "tloniti",
+      "name": "COMP GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.2822,
+      "slots": []
+    },
+    "tcmsiti": {
+      "id": "tcmsiti",
+      "name": "COMP MIX",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "trpditi": {
+      "id": "trpditi",
+      "name": "SAT DYNAM",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tnqziti": {
+      "id": "tnqziti",
+      "name": "FUNCTION",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.2047,
+      "slots": []
+    },
+    "tytpiti": {
+      "id": "tytpiti",
+      "name": "SAT HI CUT",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.5118,
+      "slots": []
+    },
+    "tmqiiti": {
+      "id": "tmqiiti",
+      "name": "SAT PRESENCE",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.1575,
+      "slots": []
+    },
+    "tnspiti": {
+      "id": "tnspiti",
+      "name": "SAT DRIVE",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.4173,
+      "slots": []
+    },
+    "tqqziti": {
+      "id": "tqqziti",
+      "name": "BIAS",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.3228,
+      "slots": []
+    },
+    "tashiti": {
+      "id": "tashiti",
+      "name": "OUTPUT",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.4724,
+      "slots": []
+    },
+    "tyebiti": {
+      "id": "tyebiti",
+      "name": "SAT MIX",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.1339,
+      "slots": []
+    },
+    "twqviti": {
+      "id": "twqviti",
+      "name": "ECHO LEVEL",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tdwtiti": {
+      "id": "tdwtiti",
+      "name": "FEEDBACK",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.2992,
+      "slots": []
+    },
+    "tnpeiti": {
+      "id": "tnpeiti",
+      "name": "REVERB",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tphditi": {
+      "id": "tphditi",
+      "name": "WIDTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.7244,
+      "slots": []
+    },
+    "tuwoiti": {
+      "id": "tuwoiti",
+      "name": "BLEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.4488,
+      "slots": []
+    },
+    "tvpwiti": {
+      "id": "tvpwiti",
+      "name": "DRIVE",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.3386,
+      "slots": []
+    },
+    "tririti": {
+      "id": "tririti",
+      "name": "DRY/WET",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tmvjiti": {
+      "id": "tmvjiti",
+      "name": "GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "iti"
+      },
+      "value": 0.5,
+      "slots": []
+    },
+    "trzugvv": {
+      "id": "trzugvv",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tqwpgvv": {
+      "id": "tqwpgvv",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tzmngvv": {
+      "id": "tzmngvv",
+      "name": "MISC SENDS",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "tgjigvv": {
+      "id": "tgjigvv",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tabegvv": {
+      "id": "tabegvv",
+      "name": "HC FREQ ALL",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 0.2992,
+      "slots": []
+    },
+    "tutogvv": {
+      "id": "tutogvv",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tzqpgvv": {
+      "id": "tzqpgvv",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tlgigvv": {
+      "id": "tlgigvv",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "twpogvv": {
+      "id": "twpogvv",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tqypgvv": {
+      "id": "tqypgvv",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tznrgvv": {
+      "id": "tznrgvv",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tvbjgvv": {
+      "id": "tvbjgvv",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "gvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tkozoow": {
+      "id": "tkozoow",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tdowoow": {
+      "id": "tdowoow",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "twzqoow": {
+      "id": "twzqoow",
+      "name": "MISC SENDS",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "tiofoow": {
+      "id": "tiofoow",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tnxpoow": {
+      "id": "tnxpoow",
+      "name": "LC FREQ ALL",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tcuioow": {
+      "id": "tcuioow",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tpldoow": {
+      "id": "tpldoow",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tgxnoow": {
+      "id": "tgxnoow",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "teoaoow": {
+      "id": "teoaoow",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tcaooow": {
+      "id": "tcaooow",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tsrcoow": {
+      "id": "tsrcoow",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "ttzgoow": {
+      "id": "ttzgoow",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "oow"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "thdtujf": {
+      "id": "thdtujf",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tbyrujf": {
+      "id": "tbyrujf",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tivyujf": {
+      "id": "tivyujf",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "tuleujf": {
+      "id": "tuleujf",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "takvujf": {
+      "id": "takvujf",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 0.315,
+      "slots": []
+    },
+    "tssyujf": {
+      "id": "tssyujf",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tpwxujf": {
+      "id": "tpwxujf",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 0.2992,
+      "slots": []
+    },
+    "terhujf": {
+      "id": "terhujf",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tpseujf": {
+      "id": "tpseujf",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "ttwqujf": {
+      "id": "ttwqujf",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tjcnujf": {
+      "id": "tjcnujf",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tvfeujf": {
+      "id": "tvfeujf",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tzzsujf": {
+      "id": "tzzsujf",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ujf"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tjqnilr": {
+      "id": "tjqnilr",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tmzeilr": {
+      "id": "tmzeilr",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tqzgilr": {
+      "id": "tqzgilr",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "tmadilr": {
+      "id": "tmadilr",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tmcbilr": {
+      "id": "tmcbilr",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.3937,
+      "slots": []
+    },
+    "tlulilr": {
+      "id": "tlulilr",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tyaailr": {
+      "id": "tyaailr",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.2756,
+      "slots": []
+    },
+    "tqpkilr": {
+      "id": "tqpkilr",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tvjoilr": {
+      "id": "tvjoilr",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tkdpilr": {
+      "id": "tkdpilr",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tostilr": {
+      "id": "tostilr",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tzfeilr": {
+      "id": "tzfeilr",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tsqgilr": {
+      "id": "tsqgilr",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tntkilr": {
+      "id": "tntkilr",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ilr"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tothnap": {
+      "id": "tothnap",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tvwcnap": {
+      "id": "tvwcnap",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "trmbnap": {
+      "id": "trmbnap",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "tgufnap": {
+      "id": "tgufnap",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tburnap": {
+      "id": "tburnap",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.0945,
+      "slots": []
+    },
+    "tboynap": {
+      "id": "tboynap",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tugpnap": {
+      "id": "tugpnap",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.4331,
+      "slots": []
+    },
+    "twvanap": {
+      "id": "twvanap",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "teuqnap": {
+      "id": "teuqnap",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tgzqnap": {
+      "id": "tgzqnap",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tefvnap": {
+      "id": "tefvnap",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tfminap": {
+      "id": "tfminap",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tnrnnap": {
+      "id": "tnrnnap",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tcmjnap": {
+      "id": "tcmjnap",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "nap"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tflfblg": {
+      "id": "tflfblg",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tiopblg": {
+      "id": "tiopblg",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tynjblg": {
+      "id": "tynjblg",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.4331,
+      "slots": []
+    },
+    "tofkblg": {
+      "id": "tofkblg",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tqpoblg": {
+      "id": "tqpoblg",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.2441,
+      "slots": []
+    },
+    "tdqzblg": {
+      "id": "tdqzblg",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tqziblg": {
+      "id": "tqziblg",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tdghblg": {
+      "id": "tdghblg",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tacoblg": {
+      "id": "tacoblg",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tuknblg": {
+      "id": "tuknblg",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "trzvblg": {
+      "id": "trzvblg",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tfalblg": {
+      "id": "tfalblg",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tflrblg": {
+      "id": "tflrblg",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tvszblg": {
+      "id": "tvszblg",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "blg"
+      },
+      "value": 0.1024,
+      "slots": []
+    },
+    "trgdkdg": {
+      "id": "trgdkdg",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "ttwikdg": {
+      "id": "ttwikdg",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tryskdg": {
+      "id": "tryskdg",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.8425,
+      "slots": []
+    },
+    "txgskdg": {
+      "id": "txgskdg",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tjsikdg": {
+      "id": "tjsikdg",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.4724,
+      "slots": []
+    },
+    "tvrekdg": {
+      "id": "tvrekdg",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tdzikdg": {
+      "id": "tdzikdg",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.5039,
+      "slots": []
+    },
+    "tdnfkdg": {
+      "id": "tdnfkdg",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tdvbkdg": {
+      "id": "tdvbkdg",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tylxkdg": {
+      "id": "tylxkdg",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tzfukdg": {
+      "id": "tzfukdg",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tudqkdg": {
+      "id": "tudqkdg",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tkiskdg": {
+      "id": "tkiskdg",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tcjkkdg": {
+      "id": "tcjkkdg",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "kdg"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tfiicnu": {
+      "id": "tfiicnu",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tcancnu": {
+      "id": "tcancnu",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tyincnu": {
+      "id": "tyincnu",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.5512,
+      "slots": []
+    },
+    "tabdcnu": {
+      "id": "tabdcnu",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "thajcnu": {
+      "id": "thajcnu",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.2677,
+      "slots": []
+    },
+    "tddvcnu": {
+      "id": "tddvcnu",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "trslcnu": {
+      "id": "trslcnu",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.2992,
+      "slots": []
+    },
+    "tkyocnu": {
+      "id": "tkyocnu",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "ttuucnu": {
+      "id": "ttuucnu",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "twtbcnu": {
+      "id": "twtbcnu",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tmktcnu": {
+      "id": "tmktcnu",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tgtocnu": {
+      "id": "tgtocnu",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tnvdcnu": {
+      "id": "tnvdcnu",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tvlqcnu": {
+      "id": "tvlqcnu",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "cnu"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tvimnvv": {
+      "id": "tvimnvv",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.0079,
+      "slots": []
+    },
+    "tjlbnvv": {
+      "id": "tjlbnvv",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "txwnnvv": {
+      "id": "txwnnvv",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "tajwnvv": {
+      "id": "tajwnvv",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tkjxnvv": {
+      "id": "tkjxnvv",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.3307,
+      "slots": []
+    },
+    "tyzdnvv": {
+      "id": "tyzdnvv",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tjynnvv": {
+      "id": "tjynnvv",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.2992,
+      "slots": []
+    },
+    "tksanvv": {
+      "id": "tksanvv",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "trkgnvv": {
+      "id": "trkgnvv",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "trbxnvv": {
+      "id": "trbxnvv",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tdftnvv": {
+      "id": "tdftnvv",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tddbnvv": {
+      "id": "tddbnvv",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "teqlnvv": {
+      "id": "teqlnvv",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "ttuunvv": {
+      "id": "ttuunvv",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "nvv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tjanubv": {
+      "id": "tjanubv",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tselubv": {
+      "id": "tselubv",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tnmmubv": {
+      "id": "tnmmubv",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "thynubv": {
+      "id": "thynubv",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tvhyubv": {
+      "id": "tvhyubv",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.4724,
+      "slots": []
+    },
+    "tefrubv": {
+      "id": "tefrubv",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tavwubv": {
+      "id": "tavwubv",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.2992,
+      "slots": []
+    },
+    "trvrubv": {
+      "id": "trvrubv",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tmizubv": {
+      "id": "tmizubv",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tehaubv": {
+      "id": "tehaubv",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tairubv": {
+      "id": "tairubv",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tpniubv": {
+      "id": "tpniubv",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tkeuubv": {
+      "id": "tkeuubv",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tscfubv": {
+      "id": "tscfubv",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ubv"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "trbueat": {
+      "id": "trbueat",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tqikeat": {
+      "id": "tqikeat",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tuqyeat": {
+      "id": "tuqyeat",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "txkbeat": {
+      "id": "txkbeat",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tvaueat": {
+      "id": "tvaueat",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.4724,
+      "slots": []
+    },
+    "thpbeat": {
+      "id": "thpbeat",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "thvqeat": {
+      "id": "thvqeat",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.2992,
+      "slots": []
+    },
+    "texmeat": {
+      "id": "texmeat",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "twlzeat": {
+      "id": "twlzeat",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "thrieat": {
+      "id": "thrieat",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tkgleat": {
+      "id": "tkgleat",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tloueat": {
+      "id": "tloueat",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "torzeat": {
+      "id": "torzeat",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tpzveat": {
+      "id": "tpzveat",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "eat"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tsjgijq": {
+      "id": "tsjgijq",
+      "name": "BEAT LENGTH",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.5714,
+      "slots": []
+    },
+    "tfunijq": {
+      "id": "tfunijq",
+      "name": "BEAT   ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tepaijq": {
+      "id": "tepaijq",
+      "name": "REVERB SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.4409,
+      "slots": []
+    },
+    "tlqwijq": {
+      "id": "tlqwijq",
+      "name": "HC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tnzbijq": {
+      "id": "tnzbijq",
+      "name": "BPASS FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.4724,
+      "slots": []
+    },
+    "tufcijq": {
+      "id": "tufcijq",
+      "name": "BPASS ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tjlrijq": {
+      "id": "tjlrijq",
+      "name": "DELAY SEND",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.2992,
+      "slots": []
+    },
+    "txieijq": {
+      "id": "txieijq",
+      "name": "LC ON",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "twxdijq": {
+      "id": "twxdijq",
+      "name": "VOL",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "targijq": {
+      "id": "targijq",
+      "name": "VIEW CLIP",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "twsjijq": {
+      "id": "twsjijq",
+      "name": "+10 GAIN",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tsbmijq": {
+      "id": "tsbmijq",
+      "name": "REAR",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 0.0,
+      "slots": []
+    },
+    "tmrqijq": {
+      "id": "tmrqijq",
+      "name": "LC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 1.0,
+      "slots": []
+    },
+    "tzuvijq": {
+      "id": "tzuvijq",
+      "name": "HC FREQ",
+      "scope": {
+        "kind": "track",
+        "trackId": "ijq"
+      },
+      "value": 1.0,
+      "slots": []
+    }
+  },
   "devices": {
-    "moog-sub-37": {
-      "id": "moog-sub-37",
-      "name": "Moog Sub 37",
-      "port": "In 1",
-      "layoutId": null,
-      "channel": null,
-      "detectedChannel": null,
-      "manual": false
-    },
-    "keylab-mkii-61-midi": {
-      "id": "keylab-mkii-61-midi",
-      "name": "KeyLab mkII 61 MIDI",
-      "port": "In 2",
-      "layoutId": null,
-      "channel": null,
-      "detectedChannel": null,
-      "manual": false
-    },
-    "keylab-mkii-61-daw": {
-      "id": "keylab-mkii-61-daw",
-      "name": "KeyLab mkII 61 DAW",
-      "port": "In 3",
-      "layoutId": null,
-      "channel": null,
-      "detectedChannel": null,
-      "manual": false
-    },
-    "polybrute-midi": {
-      "id": "polybrute-midi",
-      "name": "PolyBrute MIDI",
-      "port": "In 4",
-      "layoutId": null,
-      "channel": null,
-      "detectedChannel": null,
-      "manual": false
-    },
-    "polybrute-vst": {
-      "id": "polybrute-vst",
-      "name": "PolyBrute VST",
-      "port": "In 5",
-      "layoutId": null,
-      "channel": null,
-      "detectedChannel": null,
-      "manual": false
-    },
-    "console-1-channel-mk-iii": {
-      "id": "console-1-channel-mk-iii",
-      "name": "Console 1 Channel Mk III",
-      "port": "In 6",
-      "layoutId": null,
-      "channel": null,
-      "detectedChannel": null,
-      "manual": false
-    },
-    "nord-wave-2-midi-output": {
-      "id": "nord-wave-2-midi-output",
-      "name": "Nord Wave 2 MIDI Output",
-      "port": "In 7",
-      "layoutId": null,
-      "channel": null,
-      "detectedChannel": null,
-      "manual": false
-    },
     "xone-k2": {
       "id": "xone-k2",
       "name": "XONE:K2",
-      "port": "In 8",
+      "port": null,
       "layoutId": "xone-k2",
       "channel": null,
       "detectedChannel": null,

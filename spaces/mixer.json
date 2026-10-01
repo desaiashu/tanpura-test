@@ -1,12 +1,48 @@
 {
   "master": {
-    "id": "muo",
+    "id": "mxx",
     "gain": 1.0,
     "muted": false,
     "mono": false
   },
   "clipMix": {
-    "steh": {
+    "xxmp": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "vsnt": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "wmpb": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "buyb": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "uelm": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "tmek": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "lyat": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "stps": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "rhqe": {
+      "gain": 1.0,
+      "muted": false
+    },
+    "ticj": {
       "gain": 1.0,
       "muted": false
     }
@@ -86,34 +122,82 @@
     }
   ],
   "returns": {
-    "rnq": {
-      "id": "rnq",
-      "name": "Hall",
+    "rmh": {
+      "id": "rmh",
+      "name": "A-HALL 3-5s",
       "busIndex": 0,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
     },
-    "raj": {
-      "id": "raj",
-      "name": "Plate",
+    "rro": {
+      "id": "rro",
+      "name": "B-PLATE 1s",
       "busIndex": 1,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
     },
-    "rdw": {
-      "id": "rdw",
-      "name": "Delay",
+    "rpr": {
+      "id": "rpr",
+      "name": "C-CATH 10s",
       "busIndex": 2,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
     },
-    "rep": {
-      "id": "rep",
-      "name": "Color",
+    "rza": {
+      "id": "rza",
+      "name": "D-OFF TMP DEL",
       "busIndex": 3,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rfq": {
+      "id": "rfq",
+      "name": "E-SPREAD DEL",
+      "busIndex": 4,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rhk": {
+      "id": "rhk",
+      "name": "F-TAPE",
+      "busIndex": 5,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rri": {
+      "id": "rri",
+      "name": "G-SATURATION",
+      "busIndex": 6,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rcp": {
+      "id": "rcp",
+      "name": "H-WIDE",
+      "busIndex": 7,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rqn": {
+      "id": "rqn",
+      "name": "I-QUAD L",
+      "busIndex": 8,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rwv": {
+      "id": "rwv",
+      "name": "J-QUAD R",
+      "busIndex": 9,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false

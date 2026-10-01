@@ -1,188 +1,707 @@
 {
   "lanes": [
     {
-      "laneId": "bass",
-      "name": "Bass",
-      "kind": "midi",
-      "paletteSlot": 0,
-      "trackId": null
-    },
-    {
-      "laneId": "kick",
-      "name": "Kick",
+      "laneId": "nord",
+      "name": "nord",
       "kind": "audio",
-      "paletteSlot": 1,
-      "trackId": null
+      "paletteSlot": 0,
+      "trackId": "akl"
     },
     {
-      "laneId": "melody",
-      "name": "Melody",
+      "laneId": "heartbeat",
+      "name": "heartbeat",
+      "kind": "midi",
+      "paletteSlot": 1,
+      "trackId": "jmp"
+    },
+    {
+      "laneId": "kit",
+      "name": "kit",
       "kind": "midi",
       "paletteSlot": 2,
-      "trackId": null
+      "trackId": "wdl"
     },
     {
-      "laneId": "harmony",
-      "name": "Harmony",
+      "laneId": "sampler",
+      "name": "sampler",
       "kind": "midi",
       "paletteSlot": 3,
-      "trackId": null
+      "trackId": "yky"
     },
     {
-      "laneId": "drums-a",
-      "name": "Drums",
+      "laneId": "mic-line",
+      "name": "mic/line",
       "kind": "audio",
       "paletteSlot": 4,
-      "trackId": null
+      "trackId": "org"
     },
     {
-      "laneId": "drums-b",
-      "name": "Drums",
-      "kind": "audio",
+      "laneId": "surge",
+      "name": "surge",
+      "kind": "midi",
       "paletteSlot": 5,
-      "trackId": null
+      "trackId": "umh"
     },
     {
-      "laneId": "hidrums-a",
-      "name": "HiDrums",
-      "kind": "audio",
+      "laneId": "stage73",
+      "name": "stage73",
+      "kind": "midi",
       "paletteSlot": 6,
-      "trackId": null
+      "trackId": "irg"
     },
     {
-      "laneId": "hidrums-b",
-      "name": "HiDrums",
-      "kind": "audio",
+      "laneId": "prophet",
+      "name": "prophet",
+      "kind": "midi",
       "paletteSlot": 7,
-      "trackId": null
+      "trackId": "ydy"
     },
     {
-      "laneId": "counterpart",
-      "name": "Counterpart",
+      "laneId": "aug-voices",
+      "name": "aug voices",
       "kind": "midi",
       "paletteSlot": 8,
-      "trackId": null
+      "trackId": "rat"
     },
     {
-      "laneId": "pad",
-      "name": "Pad",
-      "kind": "midi",
+      "laneId": "rec-1-bass",
+      "name": "Rec 1 - Bass",
+      "kind": "audio",
       "paletteSlot": 9,
-      "trackId": null
+      "trackId": "hgl"
     },
     {
-      "laneId": "tension",
-      "name": "Tension",
-      "kind": "midi",
+      "laneId": "rec-2-kick",
+      "name": "Rec 2 - Kick",
+      "kind": "audio",
       "paletteSlot": 10,
-      "trackId": null
+      "trackId": "neb"
     },
     {
-      "laneId": "emotion",
-      "name": "Emotion",
-      "kind": "midi",
+      "laneId": "rec-3-mel",
+      "name": "Rec 3 - Mel",
+      "kind": "audio",
       "paletteSlot": 11,
-      "trackId": null
+      "trackId": "trg"
     },
     {
-      "laneId": "improv-a",
-      "name": "Improv A",
-      "kind": "midi",
+      "laneId": "rec-4-harm",
+      "name": "Rec 4 - Harm",
+      "kind": "audio",
       "paletteSlot": 12,
-      "trackId": null
+      "trackId": "zbc"
     },
     {
-      "laneId": "improv-b",
-      "name": "Improv B",
-      "kind": "midi",
+      "laneId": "rec-5-drum",
+      "name": "Rec 5 - Drum",
+      "kind": "audio",
       "paletteSlot": 13,
-      "trackId": null
+      "trackId": "ljd"
+    },
+    {
+      "laneId": "rec-6-drum",
+      "name": "Rec 6 - Drum",
+      "kind": "audio",
+      "paletteSlot": 14,
+      "trackId": "hgk"
+    },
+    {
+      "laneId": "rec-7-drum",
+      "name": "Rec 7 - Drum",
+      "kind": "audio",
+      "paletteSlot": 15,
+      "trackId": "xkh"
+    },
+    {
+      "laneId": "rec-8-misc",
+      "name": "Rec 8 - Misc",
+      "kind": "audio",
+      "paletteSlot": 16,
+      "trackId": "stg"
+    },
+    {
+      "laneId": "rec-9-misc",
+      "name": "Rec 9 - Misc",
+      "kind": "audio",
+      "paletteSlot": 17,
+      "trackId": "gwf"
+    },
+    {
+      "laneId": "midi",
+      "name": "MIDI",
+      "kind": "midi",
+      "paletteSlot": 18,
+      "trackId": "ane"
+    },
+    {
+      "laneId": "record",
+      "name": "Record",
+      "kind": "audio",
+      "paletteSlot": 19,
+      "trackId": "pvr"
+    },
+    {
+      "laneId": "kick-drum",
+      "name": "kick drum",
+      "kind": "audio",
+      "paletteSlot": 20,
+      "trackId": "oow"
     }
   ],
   "concepts": [
     {
+      "conceptId": "s9",
+      "name": "Session 9",
+      "parts": [
+        {
+          "partId": "s9-0",
+          "label": "19",
+          "slotIndex": 0
+        },
+        {
+          "partId": "s9-1",
+          "label": "20",
+          "slotIndex": 1
+        },
+        {
+          "partId": "s9-2",
+          "label": "Cmin",
+          "slotIndex": 2
+        },
+        {
+          "partId": "s9-3",
+          "label": "Cmin",
+          "slotIndex": 3
+        },
+        {
+          "partId": "s9-4",
+          "label": "9",
+          "slotIndex": 4
+        },
+        {
+          "partId": "s9-5",
+          "label": "Emin",
+          "slotIndex": 5
+        },
+        {
+          "partId": "s9-6",
+          "label": "Cmin",
+          "slotIndex": 6
+        },
+        {
+          "partId": "s9-7",
+          "label": "Cmin",
+          "slotIndex": 7
+        },
+        {
+          "partId": "s9-8",
+          "label": "G# min",
+          "slotIndex": 8
+        },
+        {
+          "partId": "s9-9",
+          "label": "G# min",
+          "slotIndex": 9
+        },
+        {
+          "partId": "s9-10",
+          "label": "36",
+          "slotIndex": 10
+        },
+        {
+          "partId": "s9-11",
+          "label": "37",
+          "slotIndex": 11
+        },
+        {
+          "partId": "s9-12",
+          "label": "C min",
+          "slotIndex": 12
+        },
+        {
+          "partId": "s9-13",
+          "label": "C min",
+          "slotIndex": 13
+        },
+        {
+          "partId": "s9-14",
+          "label": "44",
+          "slotIndex": 14
+        },
+        {
+          "partId": "s9-15",
+          "label": "Eb min",
+          "slotIndex": 15
+        },
+        {
+          "partId": "s9-16",
+          "label": "Eb min",
+          "slotIndex": 16
+        },
+        {
+          "partId": "s9-17",
+          "label": "51",
+          "slotIndex": 17
+        },
+        {
+          "partId": "s9-18",
+          "label": "Eb minor",
+          "slotIndex": 18
+        },
+        {
+          "partId": "s9-19",
+          "label": "53",
+          "slotIndex": 19
+        },
+        {
+          "partId": "s9-20",
+          "label": "54",
+          "slotIndex": 20
+        },
+        {
+          "partId": "s9-21",
+          "label": "55",
+          "slotIndex": 21
+        },
+        {
+          "partId": "s9-22",
+          "label": "57",
+          "slotIndex": 22
+        },
+        {
+          "partId": "s9-23",
+          "label": "58",
+          "slotIndex": 23
+        },
+        {
+          "partId": "s9-24",
+          "label": "59",
+          "slotIndex": 24
+        },
+        {
+          "partId": "s9-25",
+          "label": "Cmin",
+          "slotIndex": 25
+        },
+        {
+          "partId": "s9-26",
+          "label": "61",
+          "slotIndex": 26
+        },
+        {
+          "partId": "s9-27",
+          "label": "62",
+          "slotIndex": 27
+        },
+        {
+          "partId": "s9-28",
+          "label": "67",
+          "slotIndex": 28
+        },
+        {
+          "partId": "s9-29",
+          "label": "69",
+          "slotIndex": 29
+        },
+        {
+          "partId": "s9-30",
+          "label": "70",
+          "slotIndex": 30
+        },
+        {
+          "partId": "s9-31",
+          "label": "71",
+          "slotIndex": 31
+        },
+        {
+          "partId": "s9-32",
+          "label": "72",
+          "slotIndex": 32
+        },
+        {
+          "partId": "s9-33",
+          "label": "73",
+          "slotIndex": 33
+        },
+        {
+          "partId": "s9-34",
+          "label": "81",
+          "slotIndex": 34
+        },
+        {
+          "partId": "s9-35",
+          "label": "82",
+          "slotIndex": 35
+        },
+        {
+          "partId": "s9-36",
+          "label": "86",
+          "slotIndex": 36
+        },
+        {
+          "partId": "s9-37",
+          "label": "87",
+          "slotIndex": 37
+        },
+        {
+          "partId": "s9-38",
+          "label": "88",
+          "slotIndex": 38
+        },
+        {
+          "partId": "s9-39",
+          "label": "89",
+          "slotIndex": 39
+        },
+        {
+          "partId": "s9-40",
+          "label": "90",
+          "slotIndex": 40
+        },
+        {
+          "partId": "s9-41",
+          "label": "91",
+          "slotIndex": 41
+        },
+        {
+          "partId": "s9-42",
+          "label": "102",
+          "slotIndex": 42
+        },
+        {
+          "partId": "s9-43",
+          "label": "103",
+          "slotIndex": 43
+        },
+        {
+          "partId": "s9-44",
+          "label": "104",
+          "slotIndex": 44
+        },
+        {
+          "partId": "s9-45",
+          "label": "105",
+          "slotIndex": 45
+        },
+        {
+          "partId": "s9-46",
+          "label": "106",
+          "slotIndex": 46
+        },
+        {
+          "partId": "s9-47",
+          "label": "107",
+          "slotIndex": 47
+        },
+        {
+          "partId": "s9-48",
+          "label": "108",
+          "slotIndex": 48
+        },
+        {
+          "partId": "s9-49",
+          "label": "116",
+          "slotIndex": 49
+        },
+        {
+          "partId": "s9-50",
+          "label": "122",
+          "slotIndex": 50
+        },
+        {
+          "partId": "s9-51",
+          "label": "123",
+          "slotIndex": 51
+        },
+        {
+          "partId": "s9-52",
+          "label": "124",
+          "slotIndex": 52
+        },
+        {
+          "partId": "s9-53",
+          "label": "125",
+          "slotIndex": 53
+        }
+      ],
+      "laneIds": [
+        "nord",
+        "heartbeat",
+        "kit",
+        "sampler",
+        "mic-line",
+        "surge",
+        "stage73",
+        "prophet",
+        "aug-voices",
+        "rec-1-bass",
+        "rec-2-kick",
+        "rec-3-mel",
+        "rec-4-harm",
+        "rec-5-drum",
+        "rec-6-drum",
+        "rec-7-drum",
+        "rec-8-misc",
+        "rec-9-misc",
+        "midi",
+        "record",
+        "kick-drum"
+      ],
+      "mirrorOf": null
+    },
+    {
       "conceptId": "1",
-      "name": "Concept 1",
+      "name": "Session 10",
       "parts": [
         {
           "partId": "1A",
           "label": "A",
-          "slotIndex": 0
+          "slotIndex": 54
         },
         {
           "partId": "1B",
           "label": "B",
-          "slotIndex": 1
+          "slotIndex": 55
         },
         {
           "partId": "1C",
           "label": "C",
-          "slotIndex": 2
-        }
-      ],
-      "laneIds": [
-        "kick",
-        "bass",
-        "melody",
-        "drums-a",
-        "hidrums-a",
-        "pad",
-        "improv-a"
-      ],
-      "mirrorOf": null
-    },
-    {
-      "conceptId": "2",
-      "name": "Concept 2",
-      "parts": [
-        {
-          "partId": "2A",
-          "label": "A",
-          "slotIndex": 3
+          "slotIndex": 56
         },
         {
-          "partId": "2B",
-          "label": "B",
-          "slotIndex": 4
+          "partId": "1D",
+          "label": "D",
+          "slotIndex": 57
         },
         {
-          "partId": "2C",
-          "label": "C",
-          "slotIndex": 5
-        }
-      ],
-      "laneIds": [
-        "bass",
-        "drums-b",
-        "hidrums-b",
-        "harmony",
-        "counterpart",
-        "tension",
-        "emotion",
-        "pad",
-        "improv-b"
-      ],
-      "mirrorOf": null
-    },
-    {
-      "conceptId": "3",
-      "name": "Concept 3",
-      "parts": [
+          "partId": "1E",
+          "label": "E",
+          "slotIndex": 58
+        },
         {
-          "partId": "3A",
-          "label": "A",
-          "slotIndex": 6
+          "partId": "1F",
+          "label": "F",
+          "slotIndex": 59
+        },
+        {
+          "partId": "1G",
+          "label": "G",
+          "slotIndex": 60
+        },
+        {
+          "partId": "1H",
+          "label": "H",
+          "slotIndex": 61
         }
       ],
       "laneIds": [
-        "kick",
-        "bass",
-        "drums-a",
-        "emotion",
-        "improv-a"
+        "nord",
+        "heartbeat",
+        "kit",
+        "sampler",
+        "surge",
+        "stage73",
+        "prophet",
+        "rec-1-bass",
+        "rec-2-kick"
       ],
       "mirrorOf": null
     }
   ],
-  "slots": {}
+  "slots": {
+    "nord/s9-29": "wizl",
+    "nord/s9-32": "tdyi",
+    "nord/s9-33": "pxbj",
+    "nord/s9-35": "mruk",
+    "mic-line/s9-17": "lpbl",
+    "rec-1-bass/s9-0": "iqrw",
+    "rec-1-bass/s9-1": "fmzj",
+    "rec-1-bass/s9-5": "dyte",
+    "rec-1-bass/s9-6": "awkb",
+    "rec-1-bass/s9-8": "muxo",
+    "rec-1-bass/s9-14": "lanf",
+    "rec-1-bass/s9-15": "jeju",
+    "rec-1-bass/s9-18": "hgvp",
+    "rec-1-bass/s9-22": "fkua",
+    "rec-1-bass/s9-23": "ewkp",
+    "rec-1-bass/s9-24": "cpnu",
+    "rec-1-bass/s9-25": "ccqv",
+    "rec-1-bass/s9-26": "znfw",
+    "rec-1-bass/s9-28": "xuhb",
+    "rec-1-bass/s9-32": "xbik",
+    "rec-1-bass/s9-35": "wfgr",
+    "rec-1-bass/s9-36": "upjk",
+    "rec-1-bass/s9-44": "sqfz",
+    "rec-1-bass/s9-49": "qsqk",
+    "rec-1-bass/s9-50": "oybl",
+    "rec-2-kick/s9-5": "nanc",
+    "rec-2-kick/s9-8": "lcvn",
+    "rec-2-kick/s9-12": "qoss",
+    "rec-2-kick/s9-14": "omur",
+    "rec-2-kick/s9-15": "nebo",
+    "rec-2-kick/s9-18": "mifj",
+    "rec-2-kick/s9-25": "ljiw",
+    "rec-2-kick/s9-32": "kknt",
+    "rec-2-kick/s9-34": "jqfc",
+    "rec-2-kick/s9-35": "gxvj",
+    "rec-2-kick/s9-36": "gbzi",
+    "rec-2-kick/s9-37": "fhqv",
+    "rec-2-kick/s9-38": "enie",
+    "rec-2-kick/s9-44": "doml",
+    "rec-2-kick/s9-50": "cudu",
+    "rec-3-mel/s9-2": "bbaj",
+    "rec-3-mel/s9-3": "yxku",
+    "rec-3-mel/s9-5": "wtwh",
+    "rec-3-mel/s9-6": "uwig",
+    "rec-3-mel/s9-8": "uqtd",
+    "rec-3-mel/s9-10": "sngi",
+    "rec-3-mel/s9-11": "rojz",
+    "rec-3-mel/s9-12": "quac",
+    "rec-3-mel/s9-14": "ovab",
+    "rec-3-mel/s9-15": "exhs",
+    "rec-3-mel/s9-16": "eqex",
+    "rec-3-mel/s9-19": "cvri",
+    "rec-3-mel/s9-35": "adif",
+    "rec-3-mel/s9-38": "zwds",
+    "rec-3-mel/s9-39": "ybqx",
+    "rec-3-mel/s9-44": "wcoo",
+    "rec-3-mel/s9-50": "txkn",
+    "rec-4-harm/s9-5": "rhaq",
+    "rec-4-harm/s9-6": "pezn",
+    "rec-4-harm/s9-8": "nbjq",
+    "rec-4-harm/s9-12": "mugf",
+    "rec-4-harm/s9-13": "ktvs",
+    "rec-4-harm/s9-15": "iqfj",
+    "rec-4-harm/s9-16": "gmqc",
+    "rec-4-harm/s9-19": "esbd",
+    "rec-4-harm/s9-33": "eoau",
+    "rec-4-harm/s9-35": "bvop",
+    "rec-4-harm/s9-44": "jlqs",
+    "rec-4-harm/s9-50": "hldp",
+    "rec-5-drum/s9-5": "foxs",
+    "rec-5-drum/s9-6": "dljf",
+    "rec-5-drum/s9-8": "bjli",
+    "rec-5-drum/s9-12": "ziwb",
+    "rec-5-drum/s9-15": "yxiy",
+    "rec-5-drum/s9-18": "xcsl",
+    "rec-5-drum/s9-19": "uzfi",
+    "rec-5-drum/s9-20": "taeb",
+    "rec-5-drum/s9-25": "qwku",
+    "rec-5-drum/s9-32": "qgqd",
+    "rec-5-drum/s9-35": "ogdm",
+    "rec-5-drum/s9-36": "nkhh",
+    "rec-5-drum/s9-37": "moga",
+    "rec-5-drum/s9-44": "kwst",
+    "rec-5-drum/s9-50": "iuqw",
+    "rec-6-drum/s9-6": "gsmz",
+    "rec-6-drum/s9-8": "gnbk",
+    "rec-6-drum/s9-9": "bkkp",
+    "rec-6-drum/s9-12": "zihu",
+    "rec-6-drum/s9-15": "xggr",
+    "rec-6-drum/s9-18": "vhgm",
+    "rec-6-drum/s9-25": "uyrf",
+    "rec-6-drum/s9-26": "smjm",
+    "rec-6-drum/s9-32": "rqiz",
+    "rec-6-drum/s9-35": "qwfg",
+    "rec-6-drum/s9-38": "ovqh",
+    "rec-6-drum/s9-51": "ooic",
+    "rec-7-drum/s9-6": "msft",
+    "rec-7-drum/s9-8": "krsu",
+    "rec-7-drum/s9-14": "ioip",
+    "rec-7-drum/s9-18": "gphe",
+    "rec-7-drum/s9-19": "elmv",
+    "rec-7-drum/s9-35": "drjc",
+    "rec-8-misc/s9-0": "bzlj",
+    "rec-8-misc/s9-5": "zxpa",
+    "rec-8-misc/s9-6": "zrwf",
+    "rec-8-misc/s9-8": "ffqi",
+    "rec-8-misc/s9-12": "dlbj",
+    "rec-8-misc/s9-15": "bczm",
+    "rec-8-misc/s9-19": "zfhh",
+    "rec-8-misc/s9-20": "xeps",
+    "rec-8-misc/s9-21": "xcal",
+    "rec-8-misc/s9-32": "uokw",
+    "rec-8-misc/s9-35": "vbqj",
+    "rec-8-misc/s9-36": "rkyu",
+    "rec-8-misc/s9-37": "piux",
+    "rec-8-misc/s9-43": "ocpi",
+    "rec-8-misc/s9-45": "ngnp",
+    "rec-9-misc/s9-5": "lklc",
+    "rec-9-misc/s9-6": "jiox",
+    "rec-9-misc/s9-7": "jcvy",
+    "rec-9-misc/s9-8": "havt",
+    "rec-9-misc/s9-9": "exmi",
+    "rec-9-misc/s9-12": "ctrr",
+    "rec-9-misc/s9-15": "tjpm",
+    "rec-9-misc/s9-16": "rlyf",
+    "rec-9-misc/s9-18": "rdmm",
+    "rec-9-misc/s9-35": "pbfv",
+    "rec-9-misc/s9-36": "ohcc",
+    "rec-9-misc/s9-44": "mhvx",
+    "rec-9-misc/s9-45": "kedw",
+    "rec-9-misc/s9-46": "ifhn",
+    "rec-9-misc/s9-47": "ggdq",
+    "rec-9-misc/s9-48": "garh",
+    "rec-9-misc/s9-51": "eabo",
+    "record/s9-49": "cinz",
+    "kick-drum/s9-25": "zony",
+    "heartbeat/s9-2": "kypj",
+    "heartbeat/s9-4": "jzbq",
+    "heartbeat/s9-18": "aflh",
+    "heartbeat/s9-25": "azgu",
+    "heartbeat/s9-43": "ayki",
+    "heartbeat/s9-51": "nabw",
+    "kit/s9-4": "kxqq",
+    "kit/s9-20": "wzmj",
+    "kit/s9-25": "kule",
+    "kit/s9-27": "tiyy",
+    "kit/s9-36": "jjyt",
+    "kit/s9-53": "yxvq",
+    "sampler/s9-4": "fjmg",
+    "surge/s9-18": "egff",
+    "surge/s9-26": "cksy",
+    "surge/s9-30": "xatg",
+    "surge/s9-32": "jtlv",
+    "surge/s9-36": "bluu",
+    "surge/s9-42": "ataz",
+    "surge/s9-50": "xiux",
+    "stage73/s9-4": "kspv",
+    "stage73/s9-45": "jnyq",
+    "stage73/s9-49": "avld",
+    "stage73/s9-52": "vveq",
+    "prophet/s9-4": "sdhh",
+    "prophet/s9-38": "hyyh",
+    "prophet/s9-39": "yfss",
+    "prophet/s9-40": "tqjl",
+    "prophet/s9-41": "akiy",
+    "prophet/s9-43": "gjzx",
+    "prophet/s9-44": "amgx",
+    "prophet/s9-51": "flkd",
+    "aug-voices/s9-27": "eawh",
+    "aug-voices/s9-30": "ruzw",
+    "aug-voices/s9-35": "bcuu",
+    "aug-voices/s9-45": "ukdh",
+    "aug-voices/s9-52": "ylzs",
+    "aug-voices/s9-53": "nsxn",
+    "midi/s9-18": "gfsq",
+    "midi/s9-19": "bxxq",
+    "midi/s9-26": "wvet",
+    "midi/s9-27": "hedw",
+    "midi/s9-30": "gjpy",
+    "midi/s9-31": "vdhe",
+    "midi/s9-32": "gdkm",
+    "midi/s9-33": "wttj",
+    "midi/s9-35": "oxma",
+    "kit/s9-48": "yubd",
+    "rec-1-bass/1A": "xxmp",
+    "heartbeat/1A": "vsnt",
+    "kit/1A": "wmpb",
+    "rec-2-kick/1B": "buyb",
+    "rec-1-bass/1B": "uelm",
+    "surge/1B": "tmek",
+    "nord/1C": "lyat",
+    "prophet/1C": "stps",
+    "sampler/1D": "rhqe",
+    "rec-2-kick/1D": "ticj"
+  }
 }
