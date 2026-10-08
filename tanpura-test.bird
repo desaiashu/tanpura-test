@@ -1,0 +1,26 @@
+sig
+  bpm 130
+  system 22shruti western
+  scale F chromatic
+
+arr
+  main 32 |ifc
+
+tracks
+  1 drone + drums |bmz
+    type audio
+  2 midi |dgx
+    type midi
+
+returns
+  0 Hall |rnq
+  1 Plate |raj
+  2 Delay |rdw
+  3 Color |rep
+
+buses
+  0 mono
+    strip tivraStrip
+    strip tivraStrip
+
+sec main
