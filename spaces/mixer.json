@@ -1,86 +1,27 @@
 {
   "master": {
-    "id": "mxx",
+    "id": "muo",
     "gain": 1.0,
     "muted": false,
     "mono": false
   },
-  "clipMix": {
-    "xxmp": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "vsnt": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "wmpb": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "buyb": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "uelm": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "tmek": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "lyat": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "stps": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "rhqe": {
-      "gain": 1.0,
-      "muted": false
-    },
-    "ticj": {
-      "gain": 1.0,
-      "muted": false
-    }
-  },
+  "clipMix": {},
   "sends": [
     {
       "trackId": "bmz",
-      "returnId": "rdw",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "bmz",
       "returnId": "rnq",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "bmz",
+      "trackId": "dgx",
       "returnId": "rep",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "xkc",
-      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "dgx",
       "returnId": "rnq",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "xkc",
-      "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     },
@@ -98,106 +39,52 @@
     },
     {
       "trackId": "dgx",
+      "returnId": "raj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bmz",
       "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "dgx",
-      "returnId": "raj",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "xkc",
-      "returnId": "rnq",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "xkc",
-      "returnId": "raj",
+      "trackId": "bmz",
+      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     }
   ],
   "returns": {
-    "rmh": {
-      "id": "rmh",
-      "name": "A-HALL 3-5s",
+    "rnq": {
+      "id": "rnq",
+      "name": "Hall",
       "busIndex": 0,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
     },
-    "rro": {
-      "id": "rro",
-      "name": "B-PLATE 1s",
+    "raj": {
+      "id": "raj",
+      "name": "Plate",
       "busIndex": 1,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
     },
-    "rpr": {
-      "id": "rpr",
-      "name": "C-CATH 10s",
+    "rdw": {
+      "id": "rdw",
+      "name": "Delay",
       "busIndex": 2,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
     },
-    "rza": {
-      "id": "rza",
-      "name": "D-OFF TMP DEL",
+    "rep": {
+      "id": "rep",
+      "name": "Color",
       "busIndex": 3,
-      "gain": 1.0,
-      "pan": 0.0,
-      "muted": false
-    },
-    "rfq": {
-      "id": "rfq",
-      "name": "E-SPREAD DEL",
-      "busIndex": 4,
-      "gain": 1.0,
-      "pan": 0.0,
-      "muted": false
-    },
-    "rhk": {
-      "id": "rhk",
-      "name": "F-TAPE",
-      "busIndex": 5,
-      "gain": 1.0,
-      "pan": 0.0,
-      "muted": false
-    },
-    "rri": {
-      "id": "rri",
-      "name": "G-SATURATION",
-      "busIndex": 6,
-      "gain": 1.0,
-      "pan": 0.0,
-      "muted": false
-    },
-    "rcp": {
-      "id": "rcp",
-      "name": "H-WIDE",
-      "busIndex": 7,
-      "gain": 1.0,
-      "pan": 0.0,
-      "muted": false
-    },
-    "rqn": {
-      "id": "rqn",
-      "name": "I-QUAD L",
-      "busIndex": 8,
-      "gain": 1.0,
-      "pan": 0.0,
-      "muted": false
-    },
-    "rwv": {
-      "id": "rwv",
-      "name": "J-QUAD R",
-      "busIndex": 9,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
