@@ -1,1 +1,28 @@
-{"version":1,"tabs":[{"id":"tab-1","view":"arrange","muted":false,"projectRef":null,"spaceId":null},{"id":"tab-2","view":"palette","muted":false,"projectRef":null,"spaceId":"space-e0f2ef2c"}],"activeTabId":"tab-1","playbackScope":"space"}
+{
+  "version": 1,
+  "tabs": [
+    {
+      "id": "tab-1",
+      "view": "arrange",
+      "muted": false,
+      "projectRef": null,
+      "spaceId": null
+    },
+    {
+      "id": "tab-2",
+      "view": "palette",
+      "muted": false,
+      "projectRef": null,
+      "spaceId": "space-e0f2ef2c"
+    },
+    {
+      "id": "tab-3",
+      "view": "ideate",
+      "muted": false,
+      "projectRef": null,
+      "spaceId": null
+    }
+  ],
+  "activeTabId": "tab-1",
+  "playbackScope": "space"
+}
