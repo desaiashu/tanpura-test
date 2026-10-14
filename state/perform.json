@@ -155,299 +155,221 @@
       "parts": [
         {
           "partId": "s9-0",
-          "label": "19",
-          "slotIndex": 0
+          "label": "19"
         },
         {
           "partId": "s9-1",
-          "label": "20",
-          "slotIndex": 1
+          "label": "20"
         },
         {
           "partId": "s9-2",
-          "label": "Cmin",
-          "slotIndex": 2
+          "label": "Cmin"
         },
         {
           "partId": "s9-3",
-          "label": "Cmin",
-          "slotIndex": 3
+          "label": "Cmin"
         },
         {
           "partId": "s9-4",
-          "label": "9",
-          "slotIndex": 4
+          "label": "9"
         },
         {
           "partId": "s9-5",
-          "label": "Emin",
-          "slotIndex": 5
+          "label": "Emin"
         },
         {
           "partId": "s9-6",
-          "label": "Cmin",
-          "slotIndex": 6
+          "label": "Cmin"
         },
         {
           "partId": "s9-7",
-          "label": "Cmin",
-          "slotIndex": 7
+          "label": "Cmin"
         },
         {
           "partId": "s9-8",
-          "label": "G# min",
-          "slotIndex": 8
+          "label": "G# min"
         },
         {
           "partId": "s9-9",
-          "label": "G# min",
-          "slotIndex": 9
+          "label": "G# min"
         },
         {
           "partId": "s9-10",
-          "label": "36",
-          "slotIndex": 10
+          "label": "36"
         },
         {
           "partId": "s9-11",
-          "label": "37",
-          "slotIndex": 11
+          "label": "37"
         },
         {
           "partId": "s9-12",
-          "label": "C min",
-          "slotIndex": 12
+          "label": "C min"
         },
         {
           "partId": "s9-13",
-          "label": "C min",
-          "slotIndex": 13
+          "label": "C min"
         },
         {
           "partId": "s9-14",
-          "label": "44",
-          "slotIndex": 14
+          "label": "44"
         },
         {
           "partId": "s9-15",
-          "label": "Eb min",
-          "slotIndex": 15
+          "label": "Eb min"
         },
         {
           "partId": "s9-16",
-          "label": "Eb min",
-          "slotIndex": 16
+          "label": "Eb min"
         },
         {
           "partId": "s9-17",
-          "label": "51",
-          "slotIndex": 17
+          "label": "51"
         },
         {
           "partId": "s9-18",
-          "label": "Eb minor",
-          "slotIndex": 18
+          "label": "Eb minor"
         },
         {
           "partId": "s9-19",
-          "label": "53",
-          "slotIndex": 19
+          "label": "53"
         },
         {
           "partId": "s9-20",
-          "label": "54",
-          "slotIndex": 20
+          "label": "54"
         },
         {
           "partId": "s9-21",
-          "label": "55",
-          "slotIndex": 21
+          "label": "55"
         },
         {
           "partId": "s9-22",
-          "label": "57",
-          "slotIndex": 22
+          "label": "57"
         },
         {
           "partId": "s9-23",
-          "label": "58",
-          "slotIndex": 23
+          "label": "58"
         },
         {
           "partId": "s9-24",
-          "label": "59",
-          "slotIndex": 24
+          "label": "59"
         },
         {
           "partId": "s9-25",
-          "label": "Cmin",
-          "slotIndex": 25
+          "label": "Cmin"
         },
         {
           "partId": "s9-26",
-          "label": "61",
-          "slotIndex": 26
+          "label": "61"
         },
         {
           "partId": "s9-27",
-          "label": "62",
-          "slotIndex": 27
+          "label": "62"
         },
         {
           "partId": "s9-28",
-          "label": "67",
-          "slotIndex": 28
+          "label": "67"
         },
         {
           "partId": "s9-29",
-          "label": "69",
-          "slotIndex": 29
+          "label": "69"
         },
         {
           "partId": "s9-30",
-          "label": "70",
-          "slotIndex": 30
+          "label": "70"
         },
         {
           "partId": "s9-31",
-          "label": "71",
-          "slotIndex": 31
+          "label": "71"
         },
         {
           "partId": "s9-32",
-          "label": "72",
-          "slotIndex": 32
+          "label": "72"
         },
         {
           "partId": "s9-33",
-          "label": "73",
-          "slotIndex": 33
+          "label": "73"
         },
         {
           "partId": "s9-34",
-          "label": "81",
-          "slotIndex": 34
+          "label": "81"
         },
         {
           "partId": "s9-35",
-          "label": "82",
-          "slotIndex": 35
+          "label": "82"
         },
         {
           "partId": "s9-36",
-          "label": "86",
-          "slotIndex": 36
+          "label": "86"
         },
         {
           "partId": "s9-37",
-          "label": "87",
-          "slotIndex": 37
+          "label": "87"
         },
         {
           "partId": "s9-38",
-          "label": "88",
-          "slotIndex": 38
+          "label": "88"
         },
         {
           "partId": "s9-39",
-          "label": "89",
-          "slotIndex": 39
+          "label": "89"
         },
         {
           "partId": "s9-40",
-          "label": "90",
-          "slotIndex": 40
+          "label": "90"
         },
         {
           "partId": "s9-41",
-          "label": "91",
-          "slotIndex": 41
+          "label": "91"
         },
         {
           "partId": "s9-42",
-          "label": "102",
-          "slotIndex": 42
+          "label": "102"
         },
         {
           "partId": "s9-43",
-          "label": "103",
-          "slotIndex": 43
+          "label": "103"
         },
         {
           "partId": "s9-44",
-          "label": "104",
-          "slotIndex": 44
+          "label": "104"
         },
         {
           "partId": "s9-45",
-          "label": "105",
-          "slotIndex": 45
+          "label": "105"
         },
         {
           "partId": "s9-46",
-          "label": "106",
-          "slotIndex": 46
+          "label": "106"
         },
         {
           "partId": "s9-47",
-          "label": "107",
-          "slotIndex": 47
+          "label": "107"
         },
         {
           "partId": "s9-48",
-          "label": "108",
-          "slotIndex": 48
+          "label": "108"
         },
         {
           "partId": "s9-49",
-          "label": "116",
-          "slotIndex": 49
+          "label": "116"
         },
         {
           "partId": "s9-50",
-          "label": "122",
-          "slotIndex": 50
+          "label": "122"
         },
         {
           "partId": "s9-51",
-          "label": "123",
-          "slotIndex": 51
+          "label": "123"
         },
         {
           "partId": "s9-52",
-          "label": "124",
-          "slotIndex": 52
+          "label": "124"
         },
         {
           "partId": "s9-53",
-          "label": "125",
-          "slotIndex": 53
+          "label": "125"
         }
-      ],
-      "laneIds": [
-        "nord",
-        "heartbeat",
-        "kit",
-        "sampler",
-        "mic-line",
-        "surge",
-        "stage73",
-        "prophet",
-        "aug-voices",
-        "rec-1-bass",
-        "rec-2-kick",
-        "rec-3-mel",
-        "rec-4-harm",
-        "rec-5-drum",
-        "rec-6-drum",
-        "rec-7-drum",
-        "rec-8-misc",
-        "rec-9-misc",
-        "midi",
-        "record",
-        "kick-drum"
-      ],
-      "mirrorOf": null
+      ]
     },
     {
       "conceptId": "1",
@@ -455,57 +377,37 @@
       "parts": [
         {
           "partId": "1A",
-          "label": "A",
-          "slotIndex": 54
+          "label": "A"
         },
         {
           "partId": "1B",
-          "label": "B",
-          "slotIndex": 55
+          "label": "B"
         },
         {
           "partId": "1C",
-          "label": "C",
-          "slotIndex": 56
+          "label": "C"
         },
         {
           "partId": "1D",
-          "label": "D",
-          "slotIndex": 57
+          "label": "D"
         },
         {
           "partId": "1E",
-          "label": "E",
-          "slotIndex": 58
+          "label": "E"
         },
         {
           "partId": "1F",
-          "label": "F",
-          "slotIndex": 59
+          "label": "F"
         },
         {
           "partId": "1G",
-          "label": "G",
-          "slotIndex": 60
+          "label": "G"
         },
         {
           "partId": "1H",
-          "label": "H",
-          "slotIndex": 61
+          "label": "H"
         }
-      ],
-      "laneIds": [
-        "nord",
-        "heartbeat",
-        "kit",
-        "sampler",
-        "surge",
-        "stage73",
-        "prophet",
-        "rec-1-bass",
-        "rec-2-kick"
-      ],
-      "mirrorOf": null
+      ]
     }
   ],
   "slots": {

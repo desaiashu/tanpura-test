@@ -82,6 +82,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "cre": {
+      "id": "cre",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -91,9 +101,9 @@
     "rnq",
     "raj",
     "rdw",
-    "rep"
+    "rep",
+    "cre"
   ],
-  "groups": {},
   "sections": {
     "ifc": {
       "id": "ifc",
@@ -102,7 +112,7 @@
       "lengthBeats": 128.0,
       "scale": null,
       "activeVariation": 0,
-      "variationCount": 0
+      "variationCount": 2
     }
   },
   "tempoMarkers": [],
@@ -110,9 +120,23 @@
   "timeSigMarkers": [],
   "spatialMode": true,
   "rendererOutputMode": "quad",
-  "speakerMaps": {},
+  "speakerMaps": {
+    "quad": [
+      54,
+      55,
+      56,
+      57
+    ]
+  },
   "speakerLevels": {},
-  "speakerMutes": {},
+  "speakerMutes": {
+    "quad": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "outputBusGains": {},
   "outputBusMutes": {}
 }

@@ -37,6 +37,11 @@ returns
 master
   strip tivraMastering
 
+buses
+  0 mono
+    strip tivraStrip
+    strip tivraStrip
+
 sec main
   trk 1 drone + drums |bmz
     c 0:0 31:262 |steh
