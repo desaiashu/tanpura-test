@@ -13,9 +13,9 @@
   },
   "trackAppearance": {},
   "embeddedTemplates": {
-    "midiEditor-muz1y9yc": {
+    "midiEditor-muz1yanq": {
       "formatVersion": 1,
-      "id": "midiEditor-muz1y9yc",
+      "id": "midiEditor-muz1yanq",
       "kind": "midiEditor",
       "name": "New editor",
       "description": "",
@@ -30,8 +30,8 @@
         "chatMessages": [],
         "logicMode": "interpreted"
       },
-      "createdAt": 1791434675172,
-      "modifiedAt": 1791434675180
+      "createdAt": 1791434676086,
+      "modifiedAt": 1791434676087
     },
     "midiEditor-muz1ya7s": {
       "formatVersion": 1,
@@ -53,9 +53,9 @@
       "createdAt": 1791434675512,
       "modifiedAt": 1791434675512
     },
-    "midiEditor-muz1yanq": {
+    "midiEditor-muz1y9yc": {
       "formatVersion": 1,
-      "id": "midiEditor-muz1yanq",
+      "id": "midiEditor-muz1y9yc",
       "kind": "midiEditor",
       "name": "New editor",
       "description": "",
@@ -70,8 +70,8 @@
         "chatMessages": [],
         "logicMode": "interpreted"
       },
-      "createdAt": 1791434676086,
-      "modifiedAt": 1791434676087
+      "createdAt": 1791434675172,
+      "modifiedAt": 1791434675180
     },
     "midiEditor-muz1y8h3": {
       "formatVersion": 1,

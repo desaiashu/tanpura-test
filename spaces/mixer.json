@@ -15,25 +15,25 @@
     },
     {
       "trackId": "bmz",
-      "returnId": "raj",
+      "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "xkc",
       "returnId": "raj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "bmz",
-      "returnId": "rep",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "xkc",
-      "returnId": "rep",
+      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     },
@@ -56,14 +56,8 @@
       "preFader": false
     },
     {
-      "trackId": "dgx",
-      "returnId": "rdw",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
       "trackId": "bmz",
-      "returnId": "rdw",
+      "returnId": "raj",
       "gain": 0.0,
       "preFader": false
     },
@@ -76,6 +70,12 @@
     {
       "trackId": "bmz",
       "returnId": "rnq",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "xkc",
+      "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     }
