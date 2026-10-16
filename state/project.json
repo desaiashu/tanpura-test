@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "id": "xkifdp",
-    "name": "live-set-2026",
+    "id": "",
+    "name": "",
     "createdAt": "",
     "modifiedAt": ""
   },
@@ -12,16 +12,7 @@
     "bufferSize": 512
   },
   "trackAppearance": {},
-  "embeddedTemplates": {},
-  "videoFilePath": null,
-  "spaces": [
-    {
-      "id": "space-992491e5",
-      "view": "perform"
-    },
-    {
-      "id": "space-c7a8136b",
-      "view": "palette"
-    }
-  ]
+  "customEditors": {},
+  "vibeFxEditors": {},
+  "videoFilePath": null
 }
