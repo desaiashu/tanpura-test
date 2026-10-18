@@ -13,14 +13,14 @@
   },
   "sends": [
     {
-      "trackId": "bmz",
-      "returnId": "rnq",
+      "trackId": "xkc",
+      "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "dgx",
-      "returnId": "rnq",
+      "trackId": "bmz",
+      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     },
@@ -31,14 +31,32 @@
       "preFader": false
     },
     {
-      "trackId": "cre",
-      "returnId": "rnq",
+      "trackId": "xkc",
+      "returnId": "raj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "xkc",
       "returnId": "rdw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bmz",
+      "returnId": "rnq",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rnq",
       "gain": 0.0,
       "preFader": false
     },
@@ -55,24 +73,6 @@
       "preFader": false
     },
     {
-      "trackId": "cre",
-      "returnId": "rep",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "xkc",
-      "returnId": "rep",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "xkc",
-      "returnId": "raj",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
       "trackId": "xkc",
       "returnId": "rnq",
       "gain": 0.0,
@@ -80,31 +80,7 @@
     },
     {
       "trackId": "bmz",
-      "returnId": "rdw",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "cre",
-      "returnId": "raj",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "cre",
-      "returnId": "rdw",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "bmz",
       "returnId": "rep",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "dgx",
-      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     }
