@@ -610,6 +610,14 @@
           "beat": 31.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "kudf2a",
+          "note": 112,
+          "velocity": 100,
+          "beat": 43.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },

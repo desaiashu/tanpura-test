@@ -67,6 +67,6 @@ sec main
       samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3
   trk 5 MIDI |xrr
     c 0:0 16:0 |djgq
-      p _h q _w3 q _w3 _hd q _w8
+      p _h q _w3 q _w3 _hd q _ww _hd q _w5
         v 100
-        n 112 110 111
+        n 112 110 111 112
