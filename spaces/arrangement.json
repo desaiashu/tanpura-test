@@ -99,6 +99,17 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
+      "dubTrackId": "zpz",
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "zpz": {
+      "id": "zpz",
+      "name": "MIDI [dub]",
+      "trackType": "dub",
+      "auditionLane": null,
+      "takeLaneCount": 0,
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
@@ -113,7 +124,8 @@
     "rdw",
     "rep",
     "cre",
-    "xrr"
+    "xrr",
+    "zpz"
   ],
   "groups": {},
   "sections": {

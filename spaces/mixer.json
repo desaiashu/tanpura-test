@@ -85,6 +85,18 @@
       "preFader": false
     },
     {
+      "trackId": "zpz",
+      "returnId": "rnq",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "zpz",
+      "returnId": "rep",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "dgx",
       "returnId": "raj",
       "gain": 0.0,
@@ -104,6 +116,18 @@
     },
     {
       "trackId": "dgx",
+      "returnId": "rdw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "zpz",
+      "returnId": "raj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "zpz",
       "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
