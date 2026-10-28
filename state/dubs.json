@@ -97,7 +97,7 @@
         }
       ],
       "dubState": "frozen",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     }
