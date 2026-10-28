@@ -114,7 +114,7 @@
         "audioTakeLaneCount": 0
       },
       "dubClips": [],
-      "dubState": "empty",
+      "dubState": "capturing",
       "audioFlipped": false,
       "audioTakeLaneCount": 0
     }

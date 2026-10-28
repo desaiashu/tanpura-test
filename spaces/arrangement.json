@@ -101,7 +101,7 @@
       "takeLaneCount": 0,
       "dubTrackId": "zpz",
       "audioFlipped": false,
-      "dubState": "empty",
+      "dubState": "capturing",
       "audioTakeLaneCount": 0
     },
     "zpz": {
