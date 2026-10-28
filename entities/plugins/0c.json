@@ -1,27 +1,4 @@
 {
-  "xcci": {
-    "id": "xcci",
-    "trackId": "yky",
-    "typeName": "tivraSampler",
-    "slot": "instrument",
-    "enabled": true,
-    "state": {
-      "gain": 0.0,
-      "releaseMs": 50.0,
-      "attack": 0.0,
-      "sampleKeys": {}
-    },
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "kzmc": {
-    "id": "kzmc",
-    "trackId": "rfq",
-    "typeName": "console1",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": {},
-    "sidechainSensitivity": 0.6000000238418579
-  },
   "pfjw": {
     "id": "pfjw",
     "trackId": "rep",

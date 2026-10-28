@@ -470,7 +470,7 @@
     "id": "rujq",
     "trackId": "cre",
     "name": "lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4",
-    "startBeat": 13.832917781801006,
+    "startBeat": 0.0,
     "lengthBeats": 66.61659863945577,
     "offsetBeats": 0.0,
     "source": {
@@ -577,12 +577,36 @@
       "mode": "eighth"
     }
   },
-  "kale": {
-    "id": "kale",
-    "trackId": "xkc",
+  "ouqz": {
+    "id": "ouqz",
+    "trackId": "dgx",
     "name": "MIDI",
-    "startBeat": 32.0,
-    "lengthBeats": 32.0,
+    "startBeat": 80.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "dvwv": {
+    "id": "dvwv",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 48.0,
+    "lengthBeats": 16.0,
     "offsetBeats": 0.0,
     "source": {
       "type": "Midi",
