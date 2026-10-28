@@ -13,37 +13,19 @@
   },
   "sends": [
     {
-      "trackId": "bmz",
-      "returnId": "rnq",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "dgx",
-      "returnId": "rnq",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "bmz",
+      "trackId": "xkc",
       "returnId": "raj",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "cre",
-      "returnId": "rnq",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "xkc",
+      "trackId": "bmz",
       "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "dgx",
+      "trackId": "xkc",
       "returnId": "rep",
       "gain": 0.0,
       "preFader": false
@@ -61,13 +43,37 @@
       "preFader": false
     },
     {
-      "trackId": "xkc",
+      "trackId": "dgx",
       "returnId": "rep",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "xkc",
+      "returnId": "rdw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "cre",
+      "returnId": "rnq",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rnq",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dgx",
+      "returnId": "rdw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bmz",
       "returnId": "raj",
       "gain": 0.0,
       "preFader": false
@@ -79,20 +85,8 @@
       "preFader": false
     },
     {
-      "trackId": "bmz",
-      "returnId": "rdw",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
       "trackId": "cre",
       "returnId": "raj",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "cre",
-      "returnId": "rdw",
       "gain": 0.0,
       "preFader": false
     },
@@ -103,8 +97,14 @@
       "preFader": false
     },
     {
-      "trackId": "dgx",
+      "trackId": "cre",
       "returnId": "rdw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bmz",
+      "returnId": "rnq",
       "gain": 0.0,
       "preFader": false
     }
