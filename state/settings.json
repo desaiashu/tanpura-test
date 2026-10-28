@@ -15,7 +15,7 @@
   "ai": {
     "aiComfort": 3,
     "developmentStage": 0,
-    "pluginPreload": "project"
+    "pluginPreload": "enabled"
   },
   "workflow": {
     "vibeMode": false,

@@ -22,5 +22,6 @@
   "samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3": {
     "sha256": "482bc53e4e0a337b6e88f271c079e90add2838d9a94f66a37491b5ec3c00a2f6",
     "bytes": 743983
-  }
+  },
+  "schemaVersion": 5
 }

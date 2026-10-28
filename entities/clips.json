@@ -1,4 +1,141 @@
 {
+  "izut": {
+    "id": "izut",
+    "trackId": "xkc",
+    "name": "Dub freeze",
+    "startBeat": 0.0,
+    "lengthBeats": 132.33333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/frozen/midi_freeze_1788825339.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 3027692,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "vetq": {
+    "id": "vetq",
+    "trackId": "xkc",
+    "name": "Dub freeze",
+    "startBeat": 0.0,
+    "lengthBeats": 132.33333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/frozen/midi_freeze_1788555986.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 3027692,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "steh": {
+    "id": "steh",
+    "trackId": "bmz",
+    "name": "lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3",
+    "startBeat": 0.0,
+    "lengthBeats": 126.7243537414966,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3",
+      "sampleRate": 44100.0,
+      "channels": 2,
+      "lengthSamples": 2579328,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 130.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "cafa": {
+    "id": "cafa",
+    "trackId": "dgx",
+    "name": "midi - clip",
+    "startBeat": 2.0,
+    "lengthBeats": 8.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "mzaydg",
+          "note": 88,
+          "velocity": 100,
+          "beat": 0.0,
+          "durationBeats": 1.25,
+          "channel": 0
+        },
+        {
+          "id": "mzbbaz",
+          "note": 93,
+          "velocity": 100,
+          "beat": 0.0,
+          "durationBeats": 1.25,
+          "channel": 0
+        },
+        {
+          "id": "mzplcg",
+          "note": 101,
+          "velocity": 100,
+          "beat": 0.0,
+          "durationBeats": 1.25,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
   "xxoy": {
     "id": "xxoy",
     "trackId": "pal",
@@ -333,7 +470,7 @@
     "id": "rujq",
     "trackId": "cre",
     "name": "lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4",
-    "startBeat": 13.832917781801006,
+    "startBeat": 0.0,
     "lengthBeats": 66.61659863945577,
     "offsetBeats": 0.0,
     "source": {
@@ -351,6 +488,135 @@
     "gain": 1.0,
     "fadeInBeats": 0.008666666666666666,
     "fadeOutBeats": 0.008666666666666666,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "rjrq": {
+    "id": "rjrq",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 16.0,
+    "lengthBeats": 8.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "wkbx": {
+    "id": "wkbx",
+    "trackId": "pal",
+    "name": "MIDI",
+    "startBeat": 16.0,
+    "lengthBeats": 8.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "gknp": {
+    "id": "gknp",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 64.0,
+    "lengthBeats": 8.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "ynskq2",
+          "note": 111,
+          "velocity": 100,
+          "beat": 2.875,
+          "durationBeats": 0.125,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ouqz": {
+    "id": "ouqz",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 80.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "dvwv": {
+    "id": "dvwv",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 48.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
     "loopEnabled": false,
     "reversed": false,

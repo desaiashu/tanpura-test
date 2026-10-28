@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": "note_1790831205464_1",
+      "view": "arrangement",
+      "text": "",
+      "archived": false,
+      "createdAt": 1790831205464,
+      "x": 15.522704286769505,
+      "y": 0.45560356408719915,
+      "trackId": "bmz"
+    },
+    {
+      "id": "note_1790831206132_2",
+      "view": "arrangement",
+      "text": "",
+      "archived": false,
+      "createdAt": 1790831206132,
+      "x": 20.127920432331354,
+      "y": 0.3571244570937919,
+      "trackId": "bmz"
+    },
+    {
+      "id": "note_1790831206808_3",
+      "view": "arrangement",
+      "text": "",
+      "archived": false,
+      "createdAt": 1790831206808,
+      "x": 27.965073651117365,
+      "y": 0.16665332088899334,
+      "trackId": "bmz"
+    }
+  ]
+}
