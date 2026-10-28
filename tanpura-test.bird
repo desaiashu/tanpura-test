@@ -19,6 +19,9 @@ tracks
     type audio
     fx tivraVibeFX
     strip tivraStrip
+  5 MIDI |xrr
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rnq
