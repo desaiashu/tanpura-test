@@ -28,7 +28,7 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "xkc",
-      "audioFlipped": false,
+      "audioFlipped": true,
       "dubState": "frozen",
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
@@ -104,7 +104,6 @@
     "rep",
     "cre"
   ],
-  "groups": {},
   "sections": {
     "ifc": {
       "id": "ifc",
@@ -123,10 +122,10 @@
   "rendererOutputMode": "quad",
   "speakerMaps": {
     "quad": [
-      0,
-      1,
-      2,
-      3
+      54,
+      55,
+      56,
+      57
     ]
   },
   "speakerLevels": {},
