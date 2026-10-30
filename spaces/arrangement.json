@@ -92,6 +92,27 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "xrr": {
+      "id": "xrr",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "dubTrackId": "zpz",
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "zpz": {
+      "id": "zpz",
+      "name": "MIDI [dub]",
+      "trackType": "dub",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -102,8 +123,11 @@
     "raj",
     "rdw",
     "rep",
-    "cre"
+    "cre",
+    "xrr",
+    "zpz"
   ],
+  "groups": {},
   "sections": {
     "ifc": {
       "id": "ifc",

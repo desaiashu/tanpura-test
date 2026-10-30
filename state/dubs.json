@@ -70,11 +70,52 @@
             "amount": 0.0,
             "mode": "eighth"
           }
+        },
+        {
+          "id": "kale",
+          "trackId": "xkc",
+          "name": "MIDI",
+          "startBeat": 32.0,
+          "lengthBeats": 32.0,
+          "offsetBeats": 0.0,
+          "source": {
+            "type": "Midi",
+            "notes": []
+          },
+          "araEnabled": false,
+          "araBypassed": false,
+          "gain": 1.0,
+          "fadeInBeats": 0.0,
+          "fadeOutBeats": 0.0,
+          "fadeCurve": 1.0,
+          "loopEnabled": false,
+          "reversed": false,
+          "swing": {
+            "amount": 0.0,
+            "mode": "eighth"
+          }
         }
       ],
       "dubState": "frozen",
-      "audioFlipped": false,
+      "audioFlipped": true,
       "dubCapturePoint": "postFx",
+      "audioTakeLaneCount": 0
+    },
+    {
+      "parentTrackId": "xrr",
+      "dubTrack": {
+        "id": "zpz",
+        "name": "MIDI [dub]",
+        "trackType": "dub",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "dubClips": [],
+      "dubState": "empty",
+      "audioFlipped": false,
       "audioTakeLaneCount": 0
     }
   ]
