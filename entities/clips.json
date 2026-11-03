@@ -485,7 +485,7 @@
     },
     "araEnabled": false,
     "araBypassed": false,
-    "gain": 1.0,
+    "gain": 0.8609937521846006,
     "fadeInBeats": 0.008666666666666666,
     "fadeOutBeats": 0.008666666666666666,
     "fadeCurve": 1.0,
