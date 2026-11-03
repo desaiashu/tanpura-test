@@ -64,7 +64,7 @@
         "interpolation": "linear"
       }
     ],
-    "enabled": false,
+    "enabled": true,
     "defaultValue": 0.2707655727863312
   }
 }
