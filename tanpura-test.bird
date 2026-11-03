@@ -41,7 +41,7 @@ sec main
   trk 1 drone + drums |bmz
     c 0:0 31:262 |steh
       samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3
-      g 0.80
+      g 0.46
     auto volume
       . 0:0 8:0 16:0 24:0 32:0
       _ 0.4000 0.7000 0.4000 0.7000 0.4000
