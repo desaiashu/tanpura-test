@@ -100,7 +100,7 @@
     },
     "araEnabled": false,
     "araBypassed": false,
-    "gain": 1.0,
+    "gain": 0.8035261221856173,
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
@@ -162,7 +162,7 @@
   },
   "xxoy": {
     "id": "xxoy",
-    "trackId": "fnu",
+    "trackId": "pal",
     "name": "Pattern",
     "startBeat": 0.0,
     "lengthBeats": 4.0,
@@ -490,6 +490,36 @@
       ]
     }
   },
+  "rujq": {
+    "id": "rujq",
+    "trackId": "cre",
+    "name": "lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4",
+    "startBeat": 0.0,
+    "lengthBeats": 66.61659863945577,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/generated/lyria3-shiv-prayer-chant-130-bpm-1788739720822-svvqjtu4.mp3",
+      "sampleRate": 44100.0,
+      "channels": 2,
+      "lengthSamples": 1355904,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 130.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 0.8609937521846006,
+    "fadeInBeats": 0.008666666666666666,
+    "fadeOutBeats": 0.008666666666666666,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
   "rjrq": {
     "id": "rjrq",
     "trackId": "dgx",
@@ -516,7 +546,7 @@
   },
   "wkbx": {
     "id": "wkbx",
-    "trackId": "fnu",
+    "trackId": "pal",
     "name": "MIDI",
     "startBeat": 16.0,
     "lengthBeats": 8.0,
@@ -524,6 +554,144 @@
     "source": {
       "type": "Midi",
       "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "gknp": {
+    "id": "gknp",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 64.0,
+    "lengthBeats": 8.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "ynskq2",
+          "note": 111,
+          "velocity": 100,
+          "beat": 2.875,
+          "durationBeats": 0.125,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ouqz": {
+    "id": "ouqz",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 80.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "dvwv": {
+    "id": "dvwv",
+    "trackId": "dgx",
+    "name": "MIDI",
+    "startBeat": 48.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "djgq": {
+    "id": "djgq",
+    "trackId": "xrr",
+    "name": "MIDI",
+    "startBeat": 0.0,
+    "lengthBeats": 64.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "nhbu97",
+          "note": 112,
+          "velocity": 100,
+          "beat": 2.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "pyu44g",
+          "note": 110,
+          "velocity": 100,
+          "beat": 15.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "ldraat",
+          "note": 111,
+          "velocity": 100,
+          "beat": 31.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "kudf2a",
+          "note": 112,
+          "velocity": 100,
+          "beat": 43.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        }
+      ]
     },
     "araEnabled": false,
     "araBypassed": false,
