@@ -5,7 +5,7 @@
     "inputGainDb": 0.0,
     "preampModel": "clean",
     "muted": false,
-    "solo": false,
+    "solo": true,
     "spatial": {
       "azimuth": 0.0,
       "elevation": 0.0,
