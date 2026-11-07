@@ -8,7 +8,6 @@
         "trackType": "dub",
         "auditionLane": null,
         "takeLaneCount": 0,
-        "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
       },
@@ -97,7 +96,7 @@
         }
       ],
       "dubState": "frozen",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     }

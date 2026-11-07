@@ -13,26 +13,26 @@ tracks
   2 midi |dgx
     type midi
     plugin Jup-8 V4
-    fx tivraDistortion
     strip tivraStrip
+    fx tivraDistortion
   4 Audio |cre
     type audio
-    fx tivraVibeFX
     strip tivraStrip
+    fx tivraVibeFX
 
 returns
   0 Hall |rnq
+    strip tivraStrip
     fx tivraHall
-    strip tivraStrip
   1 Plate |raj
+    strip tivraStrip
     fx tivraPlate
-    strip tivraStrip
   2 Delay |rdw
+    strip tivraStrip
     fx tivraDelay
-    strip tivraStrip
   3 Color |rep
-    fx tivraDistortion
     strip tivraStrip
+    fx tivraDistortion
 
 master
   strip tivraMastering
