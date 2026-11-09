@@ -1,15 +1,15 @@
 {
   "bmz": {
-    "gain": 0.47367146611213684,
+    "gain": 0.48223498463630676,
     "pan": 0.0,
     "inputGainDb": 0.0,
     "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
-      "azimuth": -96.74726750297738,
+      "azimuth": 0.0,
       "elevation": 0.0,
-      "distance": 0.5600171839679405
+      "distance": 0.0
     },
     "channelFormat": "stereo",
     "monoSource": "sum"

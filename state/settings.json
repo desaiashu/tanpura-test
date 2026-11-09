@@ -30,7 +30,8 @@
   "audioDevices": {
     "audioOutputDevice": "MacBook Pro Speakers",
     "audioInputDevice": "MacBook Pro Microphone",
-    "masterOutputPair": 0
+    "masterOutputPair": 0,
+    "aggregateDevices": []
   },
   "hasApiKey": true
 }

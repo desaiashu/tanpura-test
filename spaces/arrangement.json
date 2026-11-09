@@ -17,9 +17,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "dgx": {
       "id": "dgx",
@@ -28,10 +28,10 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "xkc",
-      "audioFlipped": true,
       "dubState": "frozen",
       "dubCapturePoint": "postFx",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": true
     },
     "rnq": {
       "id": "rnq",
@@ -39,9 +39,9 @@
       "trackType": "return",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "raj": {
       "id": "raj",
@@ -49,9 +49,9 @@
       "trackType": "return",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "rdw": {
       "id": "rdw",
@@ -59,9 +59,9 @@
       "trackType": "return",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "rep": {
       "id": "rep",
@@ -69,9 +69,9 @@
       "trackType": "return",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "xkc": {
       "id": "xkc",
@@ -79,9 +79,9 @@
       "trackType": "dub",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "cre": {
       "id": "cre",
@@ -89,30 +89,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "xrr": {
-      "id": "xrr",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "dubTrackId": "zpz",
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "zpz": {
-      "id": "zpz",
-      "name": "MIDI [dub]",
-      "trackType": "dub",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     }
   },
   "trackOrder": [
@@ -123,9 +102,7 @@
     "raj",
     "rdw",
     "rep",
-    "cre",
-    "xrr",
-    "zpz"
+    "cre"
   ],
   "groups": {},
   "sections": {
@@ -135,7 +112,7 @@
       "startBeat": 0.0,
       "lengthBeats": 128.0,
       "scale": null,
-      "activeVariation": 0,
+      "activeVariation": 1,
       "variationCount": 2
     }
   },
