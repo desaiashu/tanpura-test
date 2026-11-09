@@ -12,7 +12,25 @@
     "bufferSize": 512
   },
   "trackAppearance": {},
-  "embeddedTemplates": {},
+  "embeddedTemplates": {
+    "vibes-mw8nvxydd89o": {
+      "formatVersion": 1,
+      "id": "vibes-mw8nvxydd89o",
+      "kind": "vibes",
+      "name": "New space",
+      "description": "",
+      "version": 1,
+      "files": {
+        "logic": "// Custom Space — logic (Rune). Editor::new declares the params and\n// triggers the panel binds to by id (ui.knob('amount'), ui.button('go')).\n\npub fn describe() {\n  Editor::new(\"Space\").knob(\"amount\", 0.0, 1.0, 0.5).trigger(\"go\")\n}\n\npub fn new() { #{ amount: 0.5 } }\n\npub fn param(state, id, value) {\n  if id == \"amount\" { state.amount = value; }\n}\n\npub fn trigger(state, id, args) {\n  emit(id, #{ amount: state.amount });\n  []\n}\n",
+        "logicRs": "// Custom Space — logic (Rust, compiled to wasm32). Same shape as the Rune\n// starter: describe params / triggers by id, keep state, react to them.\n// The panel binds to the ids (ui.knob('amount'), ui.button('go')).\nuse songbird_vibefx_sdk::EditorDescriptor;\n\nsongbird_vibefx_sdk::editor! {\n    describe: EditorDescriptor::new(\"Space\").knob(\"amount\", 0.0, 1.0, 0.5).trigger(\"go\"),\n\n    state: { amount: f64 = 0.5 },\n\n    param(state, id, value, _out) {\n        if id == \"amount\" { state.amount = value; }\n    }\n\n    trigger(state, id, _args, out) {\n        out.emit(id, serde_json::json!({ \"amount\": state.amount }));\n    }\n}\n",
+        "main.ts": "// New space — panel. Compose the design-system builders\n// and mount the tree once; `.link(id)` binds a knob to a param the logic declares,\n// `button(id)` fires a declared trigger. The Docs pane has the full vocabulary.\n\nmount(\n  shell({ accent: 'teal' },\n    section('New space', { icon: 'Activity' },\n      knob().link('amount'),\n      button('go', { label: 'Go' }))));\n",
+        "prompt": ""
+      },
+      "meta": {},
+      "createdAt": 1794192495781,
+      "modifiedAt": 1794192495782
+    }
+  },
   "videoFilePath": null,
   "spaces": [],
   "customEditors": {},
