@@ -14,7 +14,12 @@
   "trackAppearance": {},
   "embeddedTemplates": {},
   "videoFilePath": null,
-  "spaces": [],
+  "spaces": [
+    {
+      "id": "space-be6c4576",
+      "view": "perform"
+    }
+  ],
   "customEditors": {},
   "scriptFxEditors": {},
   "vibeFxEditors": {}
