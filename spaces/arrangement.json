@@ -119,6 +119,14 @@
   "tempoMarkers": [],
   "keyMarkers": [],
   "timeSigMarkers": [],
+  "arrangements": [
+    {
+      "id": "arr-1",
+      "name": "Arrangement 1",
+      "trackIds": [],
+      "bird": "bird/arrangement-1.bird"
+    }
+  ],
   "spatialMode": true,
   "rendererOutputMode": "quad",
   "speakerMaps": {

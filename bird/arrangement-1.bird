@@ -9,33 +9,10 @@ arr
 tracks
   1 drone + drums |bmz
     type audio
-    strip tivraStrip
   2 midi |dgx
     type midi
-    plugin Jup-8 V4
-    fx tivraDistortion
-    strip tivraStrip
   4 Audio |cre
     type audio
-    fx tivraVibeFX
-    strip tivraStrip
-
-returns
-  0 Hall |rnq
-    fx tivraHall
-    strip tivraStrip
-  1 Plate |raj
-    fx tivraPlate
-    strip tivraStrip
-  2 Delay |rdw
-    fx tivraDelay
-    strip tivraStrip
-  3 Color |rep
-    fx tivraDistortion
-    strip tivraStrip
-
-master
-  strip tivraMastering
 
 sec main
   trk 1 drone + drums |bmz
