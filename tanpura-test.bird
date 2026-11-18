@@ -22,8 +22,37 @@ tracks
 
 returns
   0 Hall |rnq
+    fx tivraHall
+    strip tivraStrip
   1 Plate |raj
+    fx tivraPlate
+    strip tivraStrip
   2 Delay |rdw
+    fx tivraDelay
+    strip tivraStrip
   3 Color |rep
+    fx tivraDistortion
+    strip tivraStrip
+
+master
+  strip tivraMastering
 
 sec main
+  trk 1 drone + drums |bmz
+    c 0:0 31:262 |steh
+      samples/generated/lyria3-meditative-indian-percussion-groove-infused-1788397329677-0.mp3
+      g 0.64
+  trk 2 midi |dgx
+    c 0:192 2:0 |cafa
+      p q~x _w _h _xxd
+        v 100
+        n 88
+        .
+        v 100
+        n 93
+        .
+        v 100
+        n 101
+    c 4:0 2:0 |rjrq
+    c 20:0 4:0 |ouqz
+    c 12:0 4:0 |dvwv
